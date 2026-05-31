@@ -1,8 +1,10 @@
+#=================================
+# 🖥️ Developed by: Dibya Jyoti
+# 🕒 Last Updated: 2026-05-31 21:58:26 (BD Time)
+# 📺 Channels Count: 8
+# 🔒 Usage: Personal / Educational
+#=================================
 #EXTM3U
-# Dibya TV
-# IPTV Playlist 2
-# Auto Updated Every 3 Hours
-
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T10jC1zQ/1000086945.jpg" group-title="KALKATA MOVIES & TV", Gopal Bhar
 https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8

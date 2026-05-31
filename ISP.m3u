@@ -1,7 +1,10 @@
+#=================================
+# 🖥️ Developed by: Dibya Jyoti
+# 🕒 Last Updated: 2026-05-31 21:58:27 (BD Time)
+# 📺 Channels Count: 50
+# 🔒 Usage: Personal / Educational
+#=================================
 #EXTM3U
-# Dibya TV
-# IPTV Playlist 2
-# Auto Updated Every 3 Hours
 
 #EXTINF:-1 tvg-name="TSports HD" group-title="Sports" tvg-logo="http://198.195.239.50/img/channels/tsports.jpg",TSports HD
 http://198.195.239.50:8095/Tsports/index.m3u8

@@ -1,7 +1,10 @@
+#=================================
+# 🖥️ Developed by: Dibya Jyoti
+# 🕒 Last Updated: 2026-05-31 21:58:26 (BD Time)
+# 📺 Channels Count: 217
+# 🔒 Usage: Personal / Educational
+#=================================
 #EXTM3U
-# Dibya TV
-# IPTV Playlist 2
-# Auto Updated Every 3 Hours
 
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/espn.png" group-title="sports",Sony Espn
 https://edge2.roarzone.net:8447/roarzone/edge5/espn/index.m3u8?token=8a1fd8004668d8d3abb7be1cfc613ed5164f0761-43e65f19f18f8dbcaee452dfcbe004ea-1780246509-1780235709
