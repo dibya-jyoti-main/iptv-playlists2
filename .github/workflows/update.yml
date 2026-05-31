@@ -1,0 +1,49 @@
+name: ⚡ Auto Update Playlists
+
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: '0 */3 * * *'
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install Dependencies
+        run: pip install requests
+
+      - name: Update Playlists
+        env:
+          SRC_KIDS: ${{ secrets.SRC_KIDS }}
+          SRC_OTT: ${{ secrets.SRC_OTT }}
+          SRC_MIX: ${{ secrets.SRC_MIX }}
+          SRC_SPORTS: ${{ secrets.SRC_SPORTS }}
+          SRC_TVZONE: ${{ secrets.SRC_TVZONE }}
+          SRC_ALLTV: ${{ secrets.SRC_ALLTV }}
+          SRC_ISP: ${{ secrets.SRC_ISP }}
+          SRC_TOFFEE: ${{ secrets.SRC_TOFFEE }}
+        run: python scripts/update_playlist.py
+
+      - name: Commit Changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add .
+
+          git diff --staged --quiet || git commit -m "Auto update playlists"
+
+          git push
