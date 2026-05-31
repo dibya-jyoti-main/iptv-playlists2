@@ -1,5 +1,7 @@
 import os
 import requests
+from datetime import datetime
+from zoneinfo import ZoneInfo
 
 PLAYLISTS = {
     "SRC_KIDS": "Kids.m3u",
@@ -12,30 +14,81 @@ PLAYLISTS = {
     "SRC_TOFFEE": "Toffee.m3u",
 }
 
-HEADER = """#EXTM3U
-# Dibya TV
-# IPTV Playlist 2
-# Auto Updated Every 3 Hours
+KEEP_PREFIXES = (
+    "#EXTINF",
+    "#EXTGRP",
+    "#EXTVLCOPT",
+    "#KODIPROP",
+    "#EXT-X-",
+)
+
+def clean_playlist(content):
+    content = content.replace("\r\n", "\n")
+
+    lines = content.splitlines()
+
+    if lines and lines[0].strip().upper() == "#EXTM3U":
+        lines = lines[1:]
+
+    cleaned = []
+
+    for line in lines:
+        line = line.rstrip()
+
+        if not line:
+            continue
+
+        if line.startswith("#"):
+            if line.startswith(KEEP_PREFIXES):
+                cleaned.append(line)
+            else:
+                # Remove normal comments
+                continue
+        else:
+            cleaned.append(line)
+
+    return "\n".join(cleaned)
+
+
+def make_header(channel_count):
+    bd_time = datetime.now(ZoneInfo("Asia/Dhaka"))
+
+    return f"""#=================================
+# 🖥️ Developed by: Dibya Jyoti
+# 🕒 Last Updated: {bd_time.strftime('%Y-%m-%d %H:%M:%S')} (BD Time)
+# 📺 Channels Count: {channel_count}
+# 🔒 Usage: Personal / Educational
+#=================================
+#EXTM3U
 
 """
+
 
 for env_name, output_file in PLAYLISTS.items():
     url = os.getenv(env_name)
 
     if not url:
-        print(f"Missing secret: {env_name}")
+        print(f"[SKIP] Missing secret: {env_name}")
         continue
 
-    r = requests.get(url, timeout=60)
-    r.raise_for_status()
+    try:
+        response = requests.get(url, timeout=60)
+        response.raise_for_status()
 
-    content = r.text
+        cleaned_content = clean_playlist(response.text)
 
-    if content.startswith("#EXTM3U"):
-        lines = content.splitlines()
-        content = "\n".join(lines[1:])
+        channel_count = cleaned_content.count("#EXTINF:")
 
-    with open(output_file, "w", encoding="utf-8") as f:
-        f.write(HEADER + content)
+        final_content = (
+            make_header(channel_count)
+            + cleaned_content
+            + "\n"
+        )
 
-    print(f"Updated {output_file}")
+        with open(output_file, "w", encoding="utf-8") as f:
+            f.write(final_content)
+
+        print(f"[OK] {output_file} updated ({channel_count} channels)")
+
+    except Exception as e:
+        print(f"[ERROR] {output_file}: {e}")
