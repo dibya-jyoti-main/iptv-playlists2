@@ -1,22 +1,12 @@
 #=================================
 # 🖥️ Developed by: Dibya Jyoti
-# 🕒 Last Updated: 2026-06-07 04:04:07 (BD Time)
-# 📺 Channels Count: 7
+# 🕒 Last Updated: 2026-06-07 10:08:01 (BD Time)
+# 📺 Channels Count: 2
 # 🔒 Usage: Personal / Educational
 #=================================
 #EXTM3U
 
-#EXTINF:-1 tvg-name="Canada Vs Usa [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143195_6110_CAN_USA_fc-web.jpg" group-title="Cricket",Canada Vs Usa [LIVE]
-https://bd-mc-fblive.fancode.com/mumbai/143195_english_hls_d56a38bf9036406_1ta-di_h264/1080p.m3u8
-#EXTINF:-1 tvg-name="Sri Lanka Vs West Indies [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-vs-SL_Web-match-card.png" group-title="Cricket",Sri Lanka Vs West Indies [LIVE]
-https://bd-mc-fblive.fancode.com/mumbai/142973_english_hls_44ad6699648919_1ta-di_h264/1080p.m3u8
-#EXTINF:-1 tvg-name="Bolivia Vs Scotland [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143341_6020_BOL_SCO_FC-WEB.jpg" group-title="Football",Bolivia Vs Scotland [LIVE]
-https://bd-mc-fblive.fancode.com/mumbai/143341_english_hls_790eb0c40e1081_1ta-di_h264/1080p.m3u8
-#EXTINF:-1 tvg-name="Main Feed   Day 3 [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Memorial-Tournament_fc-web-v2.jpg" group-title="Golf",Main Feed   Day 3 [LIVE]
-https://bd-mc-fblive.fancode.com/mumbai/143112_english_hls_1292097c1f54375_1ta-di_h264/1080p.m3u8
-#EXTINF:-1 tvg-name="Featured Groups   Day 3 [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Memorial-Tournament_fc-web-v2.jpg" group-title="Golf",Featured Groups   Day 3 [LIVE]
-https://bd-mc-fblive.fancode.com/mumbai/143114_english_hls_4a412e3fa939074_1ta-di_h264/1080p.m3u8
-#EXTINF:-1 tvg-name="Marquee Feed   Day 3 [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Memorial-Tournament_fc-web-v2.jpg" group-title="Golf",Marquee Feed   Day 3 [LIVE]
-https://bd-mc-fblive.fancode.com/mumbai/143113_english_hls_64e26a4d1663220_1ta-di_h264/1080p.m3u8
-#EXTINF:-1 tvg-name="World Feed   Day 3 [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Memorial-Tournament_fc-web-v2.jpg" group-title="Golf",World Feed   Day 3 [LIVE]
-https://bd-mc-fblive.fancode.com/mumbai/143048_english_hls_27749d150662511_1ta-di_h264/1080p.m3u8
+#EXTINF:-1 tvg-name="Argentina Vs Honduras [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143342_6020_ARG_HON_FC-WEB.jpg" group-title="Football",Argentina Vs Honduras [LIVE]
+https://bd-mc-fblive.fancode.com/mumbai/143342_english_hls_16aa2d5d3437141_1ta-di_h264/1080p.m3u8
+#EXTINF:-1 tvg-name="Day 3 [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1780397699490.png" group-title="Golf",Day 3 [LIVE]
+https://bd-mc-fblive.fancode.com/mumbai/143231_english_hls_85d30d137347152_1ta-di_h264/1080p.m3u8
