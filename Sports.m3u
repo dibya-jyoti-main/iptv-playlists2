@@ -1,10 +1,18 @@
 #=================================
 # 🖥️ Developed by: Dibya Jyoti
-# 🕒 Last Updated: 2026-06-08 17:00:23 (BD Time)
-# 📺 Channels Count: 1
+# 🕒 Last Updated: 2026-06-08 21:56:24 (BD Time)
+# 📺 Channels Count: 5
 # 🔒 Usage: Personal / Educational
 #=================================
 #EXTM3U
 
-#EXTINF:-1 tvg-name="Day 4 [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1780397699490.png" group-title="Golf",Day 4 [LIVE]
-https://bd-mc-fblive.fancode.com/mumbai/143232_english_hls_0faad7d3d537389_1ta-di_h264/1080p.m3u8
+#EXTINF:-1 tvg-name="Jb Bruges Vs Liege Red Lions [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143153_6108_JB_LRL_FC-Web.png" group-title="Cricket",Jb Bruges Vs Liege Red Lions [LIVE]
+https://bd-mc-fblive.fancode.com/mumbai/143153_english_hls_14dc89c66f18373_1ta-di_h264/1080p.m3u8
+#EXTINF:-1 tvg-name="Bundelkhand Bulls Vs Bhopal Leopards [LIVE]" tvg-logo="https://images.fancode.com/aig/match/v1780469022415/143068_CASACARDS_APP.png" group-title="Cricket",Bundelkhand Bulls Vs Bhopal Leopards [LIVE]
+https://bd-mc-fblive.fancode.com/mumbai/143068_english_hls_b1d28f2d8b19790_1ta-di_h264/1080p.m3u8
+#EXTINF:-1 tvg-name="Chambal Ghariyals Vs Ujjain Falcons [LIVE]" tvg-logo="https://images.fancode.com/aig/match/v1780469022406/143069_CASACARDS_APP.png" group-title="Cricket",Chambal Ghariyals Vs Ujjain Falcons [LIVE]
+https://bd-mc-fblive.fancode.com/mumbai/143069_english_hls_b507bcd32057796_1ta-di_h264/1080p.m3u8
+#EXTINF:-1 tvg-name="Day 1 [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-Boss_Web-match-card.png" group-title="Tennis",Day 1 [LIVE]
+https://bd-mc-fblive.fancode.com/mumbai/143118_english_hls_b78a2ca6e612059_1ta-di_h264/1080p.m3u8
+#EXTINF:-1 tvg-name="Day 1   Court 1 [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Libema-Open,-ATP-250,-Grass-old.png" group-title="Tennis",Day 1   Court 1 [LIVE]
+https://bd-mc-fblive.fancode.com/mumbai/143345_english_hls_75a1ffd2a063616_1ta-di_h264/1080p.m3u8
