@@ -1,7 +1,7 @@
 #=================================
 # 🖥️ Developed by: Dibya Jyoti
-# 🕒 Last Updated: 2026-06-13 09:58:10 (BD Time)
-# 📺 Channels Count: 504
+# 🕒 Last Updated: 2026-06-13 15:19:30 (BD Time)
+# 📺 Channels Count: 505
 # 🔒 Usage: Personal / Educational
 #=================================
 #EXTM3U
@@ -691,6 +691,8 @@ https://sm-monirul.top/RZ/live/edge3/zee_bangla/index.m3u8
 https://sm-monirul.top/RZ/live/edge3/zee_bangla_cinema/index.m3u8
 #EXTINF:-1 tvg-id="edge3/sonyaath" tvg-name="Sony Aath" tvg-logo="https://tvassets.roarzone.net/images/33.png" group-title="RoarZone",Sony Aath
 https://sm-monirul.top/RZ/live/edge3/sonyaath/index.m3u8
+#EXTINF:-1 tvg-id="tapmad-14079" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17812505331020x576.jpg" group-title="Tapmad", India vs Afghanistan | Afghanistan Tour of India 2026
+https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1781339106~acl=/hls/*~hmac=37e7e5980252c142e698f29043b18efd58d49179dd07bb699c0725976643dbb0
 #EXTINF:-1 tvg-id="asiah_tv" tvg-name="Asiah Tv" tvg-logo="http://redforce.live/assets/images/Asiah Tv1752498724.png" group-title="BDIX_ISP",Asiah Tv
 http://sm-monirul.top/SM/live.php?id=asiah_tv&e=.m3u8
 #EXTINF:-1 tvg-id="atn_bangla" tvg-name="ATN BANGLA" tvg-logo="http://redforce.live/assets/images/ATN BANGLA1745044183.png" group-title="BDIX_ISP",ATN BANGLA
