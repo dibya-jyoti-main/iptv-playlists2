@@ -1,6 +1,6 @@
 #=================================
 # 🖥️ Developed by: Dibya Jyoti
-# 🕒 Last Updated: 2026-06-21 04:09:52 (BD Time)
+# 🕒 Last Updated: 2026-06-21 10:23:45 (BD Time)
 # 📺 Channels Count: 268
 # 🔒 Usage: Personal / Educational
 #=================================
@@ -502,10 +502,10 @@ http://het4444.ycn-redirect.com/live/1515000000/index.m3u8?t=GL6h-5KFWoH5-xlxp4a
 http://het107a.ycn-redirect.com/live/33523510/index.m3u8?t=D3ELE-i9GsmOuKSnXG0bOQ&e=1781182200|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-name="Caze TV BR" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="World_Cup",Caze TV BR
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
-#EXTINF:-1 tvg-name="Almería Vs Málaga [LIVE]" tvg-logo="https://images.fancode.com/aig/match/v1781434867302/143392_CASACARDS_SPORTY_APP.png" group-title="Fancode",Almería Vs Málaga [LIVE]
-https://bd-mc-flive.fancode.com/mumbai/143392_english_hls_8479fafc8d73428_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782068282~_GO=Generated~acl=/mumbai/143392_english_hls_8479fafc8d73428_1ta-di_h264/*~Signature=Afto3p01s5OP9prkkw6VK31rHGXc1gK7Njd6ACj1pruVbYD84zIWX25bYkP9W4dro3ioyaTS6AZXcr3QzWrARL4kgqQJ
 #EXTINF:-1 tvg-name="Day 3 [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143295_6121_PGA_LOC_FC-WEB.png" group-title="Fancode",Day 3 [LIVE]
 https://bd-mc-flive.fancode.com/mumbai/143295_english_hls_2941805cec67811_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782071467~_GO=Generated~acl=/mumbai/143295_english_hls_2941805cec67811_1ta-di_h264/*~Signature=Afto3p1L3KGrxql4jCgrhHriZCrbAgqaTbtVuaMyumcrKcLKaZzDo3SlCG9IDMyas0saRnnXPsN3480brArRu6eErJAH
+#EXTINF:-1 tvg-id="tapmad-14140" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17817734631020x576.jpg" group-title="Tapmad", Kape vs Horiguchi | UFC 2026
+https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
 #EXTINF:-1 tvg-id="bdvsnz26" tvg-name="World Cup 2026" tvg-logo="https://assets-prod.services.toffeelive.com/w_480,q_75,f_webp/zUGrjZ4BuUSiBsg_1BeE/posters/92b50328-c79a-450d-a71c-acfbef39398a.png" group-title="Toffee",World Cup 2026
 https://sm-monirul.top/toffee/play/bdvsnz26.m3u8
 #EXTINF:-1 tvg-id="bdvsnz26" tvg-name="BD VS AUS" tvg-logo="https://assets-prod.services.toffeelive.com/w_480,q_75,f_webp/JOg0jZ4BIxFjn23xbePr/posters/683d682a-5589-48e4-b08c-1afe5dc9c3e4.png" group-title="Toffee",BD VS AUS
