@@ -1,6 +1,6 @@
 #=================================
 # 🖥️ Developed by: Dibya Jyoti
-# 🕒 Last Updated: 2026-06-22 10:26:28 (BD Time)
+# 🕒 Last Updated: 2026-06-22 18:08:18 (BD Time)
 # 📺 Channels Count: 240
 # 🔒 Usage: Personal / Educational
 #=================================
@@ -281,8 +281,7 @@ https://sm-monirul.top/tof/live/toffee4/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/53aSeDH.png" group-title="World_Cup",Toffee 5
 https://sm-monirul.top/tof/live/toffee5/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/X7qgs8BY/images-d47abaf70fb3ea50af7cdf455ccab5a6-goplay-bioscope-icon-transparent-app.png"  group-title="World_Cup",Bioscope
-#EXTVLCOPT:http-referrer=https://tulnit.com/
-https://fifa.keralive.workers.dev/out/v1/4e21d5a122c549289dd6feab259266e8/index.m3u8
+https://bioscope.sm-monirulislam-exp.workers.dev/index.m3u8
 #EXTINF:-1 tvg-id="t sports" tvg-name="T-Sports" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="World_Cup",Football World Cup
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b4096000_slENG.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/FOX_wordmark.svg"  group-title="World_Cup",FOX ONE
@@ -375,17 +374,17 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/
 https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/FIFA%2B_%282025%29.svg"  group-title="World_Cup",FIFA+
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
-#EXTINF:-1 tvg-name="Day 4 [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143296_6121_PGA_LOC_FC-WEB.png" group-title="Fancode",Day 4 [LIVE]
-https://bd-mc-flive.fancode.com/mumbai/143296_english_hls_d8e484c0c070501_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782154265~_GO=Generated~acl=/mumbai/143296_english_hls_d8e484c0c070501_1ta-di_h264/*~Signature=Afto3p3_h7jOL2RoWWlPtX0qGMmyqdg485rgz6-jrw5klumscYQ7YjPfupxAgVvuG_AkM1Zo6ZZWG-seyNhFl2CpvY8E
-#EXTINF:-1 tvg-logo="https://i.imgur.com/53aSeDH.png" group-title="Toffee",Toffee 1
+#EXTINF:-1 tvg-name="Indonesia Vs Thailand [LIVE]" tvg-logo="https://images.fancode.com/aig/match/v1782018540429/143543_CASACARDS_SPORTY_APP.png" group-title="Fancode",Indonesia Vs Thailand [LIVE]
+https://bd-mc-flive.fancode.com/mumbai/143543_english_hls_baa3c09ff753419_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782191943~_GO=Generated~acl=/mumbai/143543_english_hls_baa3c09ff753419_1ta-di_h264/*~Signature=Afto3p1dcFlKdmC588PV--azPI6dMbPRcNN_m9v288wloOh3RYRnTQain2QhdikHTOYUkLj7pG0nQe4cHFyX3VJYAvMH
+#EXTINF:-1 tvg-id="toffee" tvg-name="Fifa World Cup" tvg-logo="https://i.imgur.com/53aSeDH.png" group-title="Toffee",Toffee 1
 http://sm-monirul.top/tof/live/gervsivo/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/53aSeDH.png" group-title="Toffee",Toffee 2
+#EXTINF:-1 tvg-id="toffee" tvg-name="Fifa World Cup" tvg-logo="https://i.imgur.com/53aSeDH.png" group-title="Toffee",Toffee 2
 http://sm-monirul.top/tof/live/ecuvscur/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/53aSeDH.png" group-title="Toffee",Toffee 3
+#EXTINF:-1 tvg-id="toffee" tvg-name="Fifa World Cup" tvg-logo="https://i.imgur.com/53aSeDH.png" group-title="Toffee",Toffee 3
 http://sm-monirul.top/tof/live/tunvsjap/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/53aSeDH.png" group-title="Toffee",Toffee 4
+#EXTINF:-1 tvg-id="toffee" tvg-name="Fifa World Cup" tvg-logo="https://i.imgur.com/53aSeDH.png" group-title="Toffee",Toffee 4
 https://sm-monirul.top/tof/live/toffee4/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/53aSeDH.png" group-title="Toffee",Toffee 5
+#EXTINF:-1 tvg-id="toffee" tvg-name="Fifa World Cup" tvg-logo="https://i.imgur.com/53aSeDH.png" group-title="Toffee",Toffee 5
 https://sm-monirul.top/tof/live/toffee5/index.m3u8
 #EXTINF:-1 tvg-id="sports_highlights" tvg-name="TOFFEE Sports VIP" tvg-logo="https://images.toffeelive.com/images/program/19779/logo/240x240/mobile_logo_975410001725875598.png" group-title="Toffee",TOFFEE Sports VIP
 https://sm-monirul.top/toffee/play/sports_highlights.m3u8
