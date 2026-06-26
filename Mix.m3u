@@ -1,7 +1,7 @@
 #=================================
 # 🖥️ Developed by: Dibya Jyoti
-# 🕒 Last Updated: 2026-06-26 04:21:56 (BD Time)
-# 📺 Channels Count: 246
+# 🕒 Last Updated: 2026-06-26 09:54:26 (BD Time)
+# 📺 Channels Count: 243
 # 🔒 Usage: Personal / Educational
 #=================================
 #EXTM3U
@@ -284,6 +284,8 @@ https://sm-monirul.top/tof/live/toffee4/index.m3u8
 https://sm-monirul.top/tof/live/toffee5/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/X7qgs8BY/images-d47abaf70fb3ea50af7cdf455ccab5a6-goplay-bioscope-icon-transparent-app.png"  group-title="World_Cup",Bioscope
 http://sm-monirul.top/ott/bioscope/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/X7qgs8BY/images-d47abaf70fb3ea50af7cdf455ccab5a6-goplay-bioscope-icon-transparent-app.png"  group-title="World_Cup",Bioscope
+http://sm-monirul.top/ott/bioscope1/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMsc_j3e2KKQ18tD9XCM09UahrLonmSx15vdenZEnMrA&s=10"  group-title="World_Cup",i screen
 http://sm-monirul.top/ott/iscreen/index.m3u8
 #EXTINF:-1 tvg-id="t sports" tvg-name="T-Sports" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="World_Cup",Football World Cup
@@ -379,15 +381,7 @@ https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/FIFA%2B_%282025%29.svg"  group-title="World_Cup",FIFA+
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
 #EXTINF:-1 tvg-name="Sri Lanka Vs West Indies [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-vs-SL_test_Web-match-card.png" group-title="Fancode",Sri Lanka Vs West Indies [LIVE]
-https://bd-mc-flive.fancode.com/mumbai/142978_english_hls_84812121a130557_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782495004~_GO=Generated~acl=/mumbai/142978_english_hls_84812121a130557_1ta-di_h264/*~Signature=ARZJ1WLTTyzu-DGt6E8hXNDmTcoqKwTJ1CitYuHeI_QwuUNCNVRinEVU2g7ZUejpa9LCqnW3Rt-hXy8UybXB5QbC7usJ
-#EXTINF:-1 tvg-name="Brazil Vs Bahamas [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143290_6120_BRA_BAH_fc-App_1782137828258.jpg" group-title="Fancode",Brazil Vs Bahamas [LIVE]
-https://bd-mc-flive.fancode.com/mumbai/143290_english_hls_d0268ab6e651415_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782496264~_GO=Generated~acl=/mumbai/143290_english_hls_d0268ab6e651415_1ta-di_h264/*~Signature=ARZJ1WLbFrPwR_vXG2pxt5W9FjE0mU6f2SScKMLPBtQVYUiT28n7vpa1AvXxwdH8Ko-rBq6JtbxOq0URdJHWT1aXEncO
-#EXTINF:-1 tvg-name="Main Feed   Day 1 [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/3_1781899929249.png" group-title="Fancode",Main Feed   Day 1 [LIVE]
-https://bd-mc-flive.fancode.com/mumbai/143574_english_hls_546abcccbe30979_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782504738~_GO=Generated~acl=/mumbai/143574_english_hls_546abcccbe30979_1ta-di_h264/*~Signature=ARZJ1WIO0G3BoxlhhizE5v71smujAYZMcN8TqBhhl1-zB_JGTNkvtQhXXiVun8oGuPEbDo95LLAkt9IeD03EUuFXxL4D
-#EXTINF:-1 tvg-name="World Feed   Day 1 [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/3_1781899929249.png" group-title="Fancode",World Feed   Day 1 [LIVE]
-https://bd-mc-flive.fancode.com/mumbai/143297_english_hls_7b941325b022656_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782503469~_GO=Generated~acl=/mumbai/143297_english_hls_7b941325b022656_1ta-di_h264/*~Signature=ARZJ1WKEON4sfpPFnhsL7VOe21u2yQp6BhS01-E6WmI0uOc82mwUN6KWj6eyP4SiillemdOlC-fCPOPzYHuN56nRUlMP
-#EXTINF:-1 tvg-id="tapmad-13962" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17821121541020x576.jpg" group-title="Tapmad", West Indies vs Sri Lanka | Sri Lanka Tour of West Indies 2026
-https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1782425107~acl=/hls/*~hmac=d715fbf417d6ef3870216f9a685bcdf132fcd88939765ccb8b36345f17280268
+https://bd-mc-flive.fancode.com/mumbai/142978_english_hls_84812121a130557_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782509824~_GO=Generated~acl=/mumbai/142978_english_hls_84812121a130557_1ta-di_h264/*~Signature=ARZJ1WINeEHeYpViEvVqj5-B-Lyq5tJmJmrCPE8JYBUDIzL8hgTBhxi_HUaT0xHVeJ64wg1Q_x7cx8pxyl0MSvOMoQAL
 #EXTINF:-1 tvg-id="toffee" tvg-name="Fifa World Cup" tvg-logo="https://i.imgur.com/53aSeDH.png" group-title="Toffee",Toffee 1
 http://sm-monirul.top/tof/live/gervsivo/index.m3u8
 #EXTINF:-1 tvg-id="toffee" tvg-name="Fifa World Cup" tvg-logo="https://i.imgur.com/53aSeDH.png" group-title="Toffee",Toffee 2
