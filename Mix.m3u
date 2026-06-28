@@ -1,7 +1,7 @@
 #=================================
 # 🖥️ Developed by: Dibya Jyoti
-# 🕒 Last Updated: 2026-06-28 04:04:29 (BD Time)
-# 📺 Channels Count: 222
+# 🕒 Last Updated: 2026-06-28 10:00:37 (BD Time)
+# 📺 Channels Count: 216
 # 🔒 Usage: Personal / Educational
 #=================================
 #EXTM3U
@@ -202,20 +202,14 @@ https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/s
 https://stream.spicefmbd.com/stream.m3u8
 #EXTINF:-1 tvg-logo="https://m.economictimes.com/thumb/msid-71679942,width-1200,height-900,resizemode-4,imgsize-42753/radio-mirchi-agencies.jpg" group-title="SM All TV",Radio Mirchi
 https://eu8.fastcast4u.com/proxy/clyedupq?mp=%2F1?aw_0_req_lsid=2c0fae177108c9a42a7cf24878625444
-#EXTINF:-1 tvg-id="t sports" tvg-name="T-Sports" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="World_Cup",Football World Cup
-http://103.179.25.147:8181/FiFaaaaaah/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.somoynews.tv/icon.png"  group-title="World_Cup", Somoy TV
 http://ubuntu.moonplex.net:8080/Somoy_TV/index.m3u8
 #EXTINF:-1 tvg-id="t sports" tvg-name="T-Sports" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="World_Cup",Football World Cup
 http://114.130.57.233:8080/BTV/video.m3u8?token=SkQuhAXZxgBan1
-#EXTINF:-1 tvg-name="Football World Cup 2026 link hindi" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="World_Cup",Football World Cup
-http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/745195.ts
-#EXTINF:-1  tvg-logo="https://go-live.info/wp-content/uploads/2024/09/logowhitenew.webp"  group-title="World_Cup",GO Live
-https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/Screenshot_2026-06-10_002618.png"  group-title="World_Cup",Unite8 Sports 2 HD
 http://212.102.34.8:9080/AndFlixHD/video.m3u8
 #EXTINF:-1 tvg-id="toffee" tvg-name="Fifa World Cup" tvg-logo="https://i.imgur.com/53aSeDH.png" group-title="World_Cup",Toffee 1
-http://sm-monirul.top/tof/live/toffee1/index.m3u8
+https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-5/0/master_2000.m3u8
 #EXTINF:-1 tvg-id="toffee" tvg-name="Fifa World Cup" tvg-logo="https://i.imgur.com/53aSeDH.png" group-title="World_Cup",Toffee 2
 http://sm-monirul.top/tof/live/toffee2/index.m3u8
 #EXTINF:-1 tvg-id="toffee" tvg-name="Fifa World Cup" tvg-logo="https://i.imgur.com/53aSeDH.png" group-title="World_Cup",Toffee 3
@@ -333,17 +327,11 @@ https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/FIFA%2B_%282025%29.svg"  group-title="World_Cup",FIFA+
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
 #EXTINF:-1 tvg-name="Sri Lanka Vs West Indies [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-vs-SL_test_Web-match-card.png" group-title="Fancode",Sri Lanka Vs West Indies [LIVE]
-https://bd-mc-flive.fancode.com/mumbai/142978_english_hls_84812121a137931_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782668229~_GO=Generated~acl=/mumbai/142978_english_hls_84812121a137931_1ta-di_h264/*~Signature=ARZJ1WJbnFYOEF6Go_Ma9GtpRqQxdY0UNFQJFDOTeMVkpLb1ZMiWSiiRO5Q_Qs4vT3e7SCP1zImrcMA3z6-oCMpKqa4H
-#EXTINF:-1 tvg-name="Bermuda Vs Brazil [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143292_6120_BER_BRA_fc-App_1782198649239.jpg" group-title="Fancode",Bermuda Vs Brazil [LIVE]
-https://bd-mc-flive.fancode.com/mumbai/143292_english_hls_b8c9f1e18614963_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782669065~_GO=Generated~acl=/mumbai/143292_english_hls_b8c9f1e18614963_1ta-di_h264/*~Signature=ARZJ1WLpJL3rfb8Fs85K3vN13B-E31HANC3-aMlPyOfJvS3m6GnSy2TgfGXaENbroRcJGs0ay1brpQKqBX9Zj77wcv4F
-#EXTINF:-1 tvg-name="Main Feed   Day 3 [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/3_1781899929249.png" group-title="Fancode",Main Feed   Day 3 [LIVE]
-https://bd-mc-flive.fancode.com/mumbai/143576_english_hls_2f9ee357a788544_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782665048~_GO=Generated~acl=/mumbai/143576_english_hls_2f9ee357a788544_1ta-di_h264/*~Signature=ARZJ1WILJy4A0pxKBHNIaGT9h04VQ5qv5DBZK5n5LxbkQxKYvtGaTUYpjS_P2BAUQMAcqvKj3wykfxf1Qz7zCA_kWZEB
-#EXTINF:-1 tvg-name="World Feed   Day 3 [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/3_1781899929249.png" group-title="Fancode",World Feed   Day 3 [LIVE]
-https://bd-mc-flive.fancode.com/mumbai/143299_english_hls_0cfcdc683e34982_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782668645~_GO=Generated~acl=/mumbai/143299_english_hls_0cfcdc683e34982_1ta-di_h264/*~Signature=ARZJ1WKZGpbfOXoYTur0dxiB4lJjpHWeGArYJNN5sEFSB1xBV6VVxGt1ZlgwfbmyBNhgke3KyNhZHfEc0rrgc2Wzpu8K
-#EXTINF:-1 tvg-id="tapmad-13962" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17821121541020x576.jpg" group-title="Tapmad", West Indies vs Sri Lanka | Sri Lanka Tour of West Indies 2026
-https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8?hdnts=exp=1782593107~acl=/hls/*~hmac=883b864fa53440e092ccc29f145a67c53d330dc89ef467dc7d3b3cd5ece8e865
+https://bd-mc-flive.fancode.com/mumbai/142978_english_hls_84812121a137931_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782683052~_GO=Generated~acl=/mumbai/142978_english_hls_84812121a137931_1ta-di_h264/*~Signature=ARZJ1WKh-s37uAGJxODUyt5WS_dxCWV8VI8gkssqoLzfhSmHwnWE1yKqEHif9hXH9G_7Qg2gjrEf7Y1C0IQmWYJ4omIB
 #EXTINF:-1 tvg-id="tapmad-14735" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17825138051020x576.jpg" group-title="Tapmad", CrowdStrike 24 Hours of Spa - Race Live | GT World Challenge EU & Asia 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/P2s6L-FiN@L-World_Feed/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-14652" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17825730391020x576.jpg" group-title="Tapmad", Mckee vs Isbulaev | PFL 2026
+https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8
 #EXTINF:-1 tvg-id="toffee" tvg-name="Fifa World Cup" tvg-logo="https://i.imgur.com/53aSeDH.png" group-title="Toffee",Toffee 1
 http://sm-monirul.top/tof/live/toffee1/index.m3u8
 #EXTINF:-1 tvg-id="toffee" tvg-name="Fifa World Cup" tvg-logo="https://i.imgur.com/53aSeDH.png" group-title="Toffee",Toffee 2
