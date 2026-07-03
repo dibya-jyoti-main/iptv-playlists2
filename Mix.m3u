@@ -1,7 +1,7 @@
 #=================================
 # 🖥️ Developed by: Dibya Jyoti
-# 🕒 Last Updated: 2026-07-03 22:25:54 (BD Time)
-# 📺 Channels Count: 363
+# 🕒 Last Updated: 2026-07-04 01:25:20 (BD Time)
+# 📺 Channels Count: 361
 # 🔒 Usage: Personal / Educational
 #=================================
 #EXTM3U
@@ -728,19 +728,13 @@ https://madanitv.assadikb.workers.dev/live.php?id=144&e=.m3u8
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
 https://book4u.top/worker/index.php?path=api/526bde04a5/playlist.m3u8
 #EXTINF:-1 tvg-name="Sri Lanka Vs West Indies [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-vs-SL_test_Web-match-card.png" group-title="Fancode",Sri Lanka Vs West Indies [LIVE]
-https://bd-mc-flive.fancode.com/mumbai/142979_english_hls_fc331367d392190_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783171805~_GO=Generated~acl=/mumbai/142979_english_hls_fc331367d392190_1ta-di_h264/*~Signature=Ac2BFenuXhfRr1QY9bI_UpFencoe2k9ZEmcu8OIz2rbhe2UEOs7Izkub3T5yvQD313WArA2EjuuxikLxRzLRZ5xg4aYH
+https://bd-mc-fblive.fancode.com/mumbai/142979_english_hls_fc331367d392190_1ta-di_h264/1080p.m3u8
 #EXTINF:-1 tvg-name="Hubli Tigers Vs Kalyani Bengaluru Blasters [LIVE]" tvg-logo="https://images.fancode.com/aig/match/v1781841438709/143438_CASACARDS_SPORTY_APP.png" group-title="Fancode",Hubli Tigers Vs Kalyani Bengaluru Blasters [LIVE]
-https://bd-mc-flive.fancode.com/mumbai/143438_english_hls_2f72e75e0078957_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783171145~_GO=Generated~acl=/mumbai/143438_english_hls_2f72e75e0078957_1ta-di_h264/*~Signature=Ac2BFenOutHpgu-7ist2Rlr7VtzRIpbMmlg-OgS17PeFQTVCQO0qsCsg7VlBWpR4-JgKEjnNv7vOMRv9zXLCLopChfoF
+https://bd-mc-fblive.fancode.com/mumbai/143438_english_hls_2f72e75e0078957_1ta-di_h264/1080p.m3u8
 #EXTINF:-1 tvg-name="Hubli Tigers Vs Kalyani Bengaluru Blasters [LIVE]" tvg-logo="https://images.fancode.com/aig/match/v1781841438709/143438_CASACARDS_SPORTY_APP.png" group-title="Fancode",Hubli Tigers Vs Kalyani Bengaluru Blasters [LIVE]
-https://bd-mc-flive.fancode.com/mumbai/143438_kannada_hls_c26c5b326173672_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783171147~_GO=Generated~acl=/mumbai/143438_kannada_hls_c26c5b326173672_1ta-di_h264/*~Signature=Ac2BFem71Sti7LHjnh3MqtJRd9JfXlm1jGGPiuFWDzJ95PO193fMqj-TQ86cPhKAChLSU9Rxt80rP6lDtCDXQ6JVlDEM
+https://bd-mc-fblive.fancode.com/mumbai/143438_kannada_hls_c26c5b326173672_1ta-di_h264/1080p.m3u8
 #EXTINF:-1 tvg-name="Day 2   Main Feed [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/John-Deere-Classic_Web-match-card.png" group-title="Fancode",Day 2   Main Feed [LIVE]
 https://bd-mc-fblive.fancode.com/mumbai/143667_english_hls_d5a3a93f9f77586_1ta-di_h264/1080p.m3u8
-#EXTINF:-1 tvg-name="Day 2 [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/d_1782469797601.png" group-title="Fancode",Day 2 [LIVE]
-https://bd-mc-flive.fancode.com/mumbai/143409_english_hls_382c4d145c98322_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783173067~_GO=Generated~acl=/mumbai/143409_english_hls_382c4d145c98322_1ta-di_h264/*~Signature=Ac2BFenUaN1JeW8i5mcTUNex6CfwDaECHdj8xexXkOy6JeNibIAayM2iVoWFNmzZAkNVkq4cL1nVzxVFgZ6aeecnOqgH
-#EXTINF:-1 tvg-name="Sprint Qualifying [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/British-Grand-Prix_fc-web.jpg" group-title="Fancode",Sprint Qualifying [LIVE]
-https://bd-mc-flive.fancode.com/mumbai/139463_english_dash_69557_1drmta-di_h264/index.mpd
-#EXTINF:-1 tvg-name="Day 2   Am [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143579_6147_PGA_LOC_fc-web.jpg" group-title="Fancode",Day 2   Am [LIVE]
-https://bd-mc-fblive.fancode.com/mumbai/143579_english_hls_de4fe019d813090_1ta-di_h264/1080p.m3u8
 #EXTINF:-1 group-title="Toffee" tvg-logo="https://i.imgur.com/53aSeDH.png",Toffee 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A515F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://cdn-tt.pages.dev/ch1.m3u8
@@ -750,6 +744,9 @@ https://cdn-tt.pages.dev/ch2.m3u8
 #EXTINF:-1 group-title="Toffee" tvg-logo="https://i.imgur.com/53aSeDH.png",Toffee 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A515F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://cdn-tt.pages.dev/ch3.m3u8
+#EXTINF:-1 group-title="Toffee" tvg-logo="https://assets-prod.services.toffeelive.com/w_480,q_75,f_webp/V__o054BObUt2AG6LL5C/posters/84590b8d-6430-4ba8-a0a5-757bf2f57c05.png",Toffee 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A515F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-6/0/master_2000.m3u8?hdntl=Expires=1783171219~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AeQsclA4z8j04s1LN8U0GusssnpGV5b_7xXqO3zMdMXU_o3bq4bciZ7ZYBZ8fpxU5n7kmSSfvhfYH_710YoQVI1uxaEF
 #EXTINF:-1 group-title="Toffee" tvg-logo="https://images.toffeelive.com/images/program/19779/logo/240x240/mobile_logo_975410001725875598.png",TOFFEE Sports VIP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A515F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://bldcmprod-cdn.toffeelive.com/cdn/live/sports_highlights/playlist.m3u8
