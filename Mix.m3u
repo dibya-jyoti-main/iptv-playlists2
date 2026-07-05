@@ -1,7 +1,7 @@
 #=================================
 # 🖥️ Developed by: Dibya Jyoti
-# 🕒 Last Updated: 2026-07-06 01:19:47 (BD Time)
-# 📺 Channels Count: 370
+# 🕒 Last Updated: 2026-07-06 04:03:13 (BD Time)
+# 📺 Channels Count: 368
 # 🔒 Usage: Personal / Educational
 #=================================
 #EXTM3U
@@ -235,7 +235,7 @@ https://cdn-tt.pages.dev/ch2.m3u8
 #EXTINF:-1 tvg-id="toffee" tvg-name="Fifa World Cup" tvg-logo="https://i.imgur.com/53aSeDH.png" group-title="World_Cup",Toffee 3
 https://cdn-tt.pages.dev/ch4.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/X7qgs8BY/images-d47abaf70fb3ea50af7cdf455ccab5a6-goplay-bioscope-icon-transparent-app.png"  group-title="World_Cup",Bioscope
-http://monirul.bro.bd/fifa/bioscope.php
+https://bioscope-ultra.sm-monirulislam-exp.workers.dev/bioscope.m3u8
 #EXTINF:-1 tvg-id="iscreenhd" tvg-name="I SCREEN HD" tvg-logo="https://platform.rockstreamer.com/platforms/iscreen.com.bd/assets/logo.png" group-title="World_Cup",I SCREEN HD
 #EXTVLCOPT:http-referrer=https://iscreen.com.bd/
 https://tc-sg.rockstreamer.com/v1/019ed91616121ea540a8171c8e801f/019ed92ac80315fc600b1796d4ad8b/main.m3u8
@@ -748,15 +748,11 @@ https://madanitv.assadikb.workers.dev/live.php?id=144&e=.m3u8
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
 https://book4u.top/worker/index.php?path=api/526bde04a5/playlist.m3u8
 #EXTINF:-1 tvg-name="Sri Lanka Vs West Indies [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-vs-SL_test_Web-match-card.png" group-title="Fancode",Sri Lanka Vs West Indies [LIVE]
-https://bd-mc-flive.fancode.com/mumbai/142979_english_hls_fc331367d355218_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783359423~_GO=Generated~acl=/mumbai/142979_english_hls_fc331367d355218_1ta-di_h264/*~Signature=Ac2BFek3tb6Pcwl6LbLd2s-a-tSS0QAFh1poVbe8o5k3KsTk8EUQQxl_fFbUJaqvt_VRmLLI1M2KW1Ysg2LHvmv8grsO
-#EXTINF:-1 tvg-name="Shivamogga Yodhas Vs Hubli Tigers [LIVE]" tvg-logo="https://images.fancode.com/aig/match/v1781841438702/143440_CASACARDS_SPORTY_APP.png" group-title="Fancode",Shivamogga Yodhas Vs Hubli Tigers [LIVE]
-https://bd-mc-flive.fancode.com/mumbai/143440_english_hls_d3de1f1b5d70043_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783360686~_GO=Generated~acl=/mumbai/143440_english_hls_d3de1f1b5d70043_1ta-di_h264/*~Signature=Ac2BFenxMyKHC61FeOioVTJ-Kg1M2Xm4rNO_naZsiboHTdZdwfWdQmg5yudXvBIcTz3kNPVefEG2aFWqKvtYXfgq8ScB
-#EXTINF:-1 tvg-name="Shivamogga Yodhas Vs Hubli Tigers [LIVE]" tvg-logo="https://images.fancode.com/aig/match/v1781841438702/143440_CASACARDS_SPORTY_APP.png" group-title="Fancode",Shivamogga Yodhas Vs Hubli Tigers [LIVE]
-https://bd-mc-flive.fancode.com/mumbai/143440_kannada_hls_24cbed10b577951_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783360687~_GO=Generated~acl=/mumbai/143440_kannada_hls_24cbed10b577951_1ta-di_h264/*~Signature=Ac2BFekcZ7YxC4uj303eLHBinONKJ-nzECo5bihigTqnvXW-UgXjLIwi9yOcaQCZsUs2VsaY8o1C-lHqDlZuT1OfqzQI
+https://bd-mc-flive.fancode.com/mumbai/142979_english_hls_fc331367d355218_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783374243~_GO=Generated~acl=/mumbai/142979_english_hls_fc331367d355218_1ta-di_h264/*~Signature=Ac2BFelD2h_NFpboLmTppEy-JD-NVzVDpTyHL1MAh_KDjoq-cE91HGYU9BUA4yf9CryUBmzILYA7qVfRExzK59nMNqwN
 #EXTINF:-1 tvg-name="Day 4   Main Feed [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/John-Deere-Classic_Web-match-card.png" group-title="Fancode",Day 4   Main Feed [LIVE]
-https://bd-mc-fblive.fancode.com/mumbai/143671_english_hls_dbce60092317548_1ta-di_h264/1080p.m3u8
+https://bd-mc-flive.fancode.com/mumbai/143671_english_hls_dbce60092317548_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783366205~_GO=Generated~acl=/mumbai/143671_english_hls_dbce60092317548_1ta-di_h264/*~Signature=Ac2BFelMijYci7fIhT5L1J2V3VCkHaL4fbOuJStVuLH_OYQjRzAUM8ZbL1CM76_Xmk4-mZdLI2qqe8_oNZHAtfEXKfMA
 #EXTINF:-1 tvg-name="Day 4   World Feed [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/John-Deere-Classic_Web-match-card.png" group-title="Fancode",Day 4   World Feed [LIVE]
-https://bd-mc-flive.fancode.com/mumbai/143670_english_hls_202b4abbbc48076_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783360263~_GO=Generated~acl=/mumbai/143670_english_hls_202b4abbbc48076_1ta-di_h264/*~Signature=Ac2BFem7ukyc58UIOnQaJzCMe0GJ9F6ggK7QG2JNne1dgFmTq5mYnvTeASHvpWFFQM0T58oUDFlYd231DtcXKHegUw8A
+https://bd-mc-flive.fancode.com/mumbai/143670_english_hls_202b4abbbc48076_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783375087~_GO=Generated~acl=/mumbai/143670_english_hls_202b4abbbc48076_1ta-di_h264/*~Signature=Ac2BFekTHecNv8ykm9VHC3-5YYQwuLdnKydWhWwKFgcgQ8uyqJ0J_m85GFoTD_rpDq3W5OWZrrcOBhDMmXH6Ih4fp0YN
 #EXTINF:-1 group-title="Toffee" tvg-logo="https://i.imgur.com/53aSeDH.png",Toffee 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A515F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://cdn-tt.pages.dev/ch1.m3u8
