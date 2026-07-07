@@ -1,7 +1,7 @@
 #=================================
 # 🖥️ Developed by: Dibya Jyoti
-# 🕒 Last Updated: 2026-07-07 23:16:14 (BD Time)
-# 📺 Channels Count: 371
+# 🕒 Last Updated: 2026-07-08 01:57:27 (BD Time)
+# 📺 Channels Count: 370
 # 🔒 Usage: Personal / Educational
 #=================================
 #EXTM3U
@@ -746,7 +746,7 @@ https://madanitv.assadikb.workers.dev/live.php?id=144&e=.m3u8
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
 https://book4u.top/worker/index.php?path=api/526bde04a5/playlist.m3u8
 #EXTINF:-1 tvg-name="Sri Lanka Vs West Indies [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-vs-SL_test_Web-match-card.png" group-title="Fancode",Sri Lanka Vs West Indies [LIVE]
-https://bd-mc-flive.fancode.com/mumbai/142979_english_hls_fc331367d315809_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783517825~_GO=Generated~acl=/mumbai/142979_english_hls_fc331367d315809_1ta-di_h264/*~Signature=Ac2BFelEg9d0aRnkwXKsPu4RQLLjSQTEhLsy6YxvZGFFBv_7cD0QRQUuzE5vPD20sY18K2nyK6KLhhBFBTQP6ju3vlYF
+https://bd-mc-flive.fancode.com/mumbai/142979_english_hls_fc331367d315809_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783532649~_GO=Generated~acl=/mumbai/142979_english_hls_fc331367d315809_1ta-di_h264/*~Signature=Ac2BFekIs6zTDE4WD7fMymcV1rgQiheEq3qxhiAhyA4gzwrj6t5ao12Ye0qC3K4OKLfYywpDESBINl-28U4mjvZ-VVIK
 #EXTINF:-1 tvg-id="tapmad-13963" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17829793141020x576.jpg" group-title="Tapmad", West Indies vs Sri Lanka | Sri Lanka Tour of West Indies 2026
 https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-14751" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17833444911020x576.jpg" group-title="Tapmad", Gentlemen's & Ladies' Singles Quarter-Finals | Wimbledon 2026
@@ -759,8 +759,6 @@ https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
 https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-14890" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17833353841020x576.jpg" group-title="Tapmad", Dota 2 - Day 1 - Feed 3 | Esports World Cup 2026 (EWC)
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-352fi78/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-14827" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17833317001020x576.jpg" group-title="Tapmad", Valorant Day 6 | Esports World Cup 2026 (EWC)
-https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8
 #EXTINF:-1 group-title="Toffee" tvg-logo="https://i.imgur.com/53aSeDH.png",Toffee 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A515F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://cdn-tt.pages.dev/ch1.m3u8
