@@ -1,6 +1,6 @@
 #=================================
 # 🖥️ Developed by: Dibya Jyoti
-# 🕒 Last Updated: 2026-07-07 20:38:37 (BD Time)
+# 🕒 Last Updated: 2026-07-07 23:16:14 (BD Time)
 # 📺 Channels Count: 73
 # 🔒 Usage: Personal / Educational
 #=================================
@@ -8,13 +8,13 @@
 
 #EXTINF:-1 group-title="Sports Channels" tvg-logo="https://i.imgur.com/53aSeDH.png",Toffee 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A515F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://toffee-fifa.sm-monirul.top/sm/toffee1.m3u8
+https://cdn-tt.pages.dev/ch1.m3u8
 #EXTINF:-1 group-title="Sports Channels" tvg-logo="https://i.imgur.com/53aSeDH.png",Toffee 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A515F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://toffee-fifa.sm-monirul.top/sm/toffee2.m3u8
+https://cdn-tt.pages.dev/ch3.m3u8
 #EXTINF:-1 group-title="Sports Channels" tvg-logo="https://assets-prod.services.toffeelive.com/w_480,q_75,f_webp/V__o054BObUt2AG6LL5C/posters/84590b8d-6430-4ba8-a0a5-757bf2f57c05.png",Match Rewatch
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A515F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://toffee-fifa.sm-monirul.top/sm/match_rewatch.m3u8
+https://cdn-tt.pages.dev/ch2.m3u8
 #EXTINF:-1 group-title="LIVE" tvg-logo="https://images.toffeelive.com/images/program/19779/logo/240x240/mobile_logo_975410001725875598.png",TOFFEE Sports VIP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A515F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://bldcmprod-cdn.toffeelive.com/cdn/live/sports_highlights/playlist.m3u8
