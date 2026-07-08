@@ -1,6 +1,6 @@
 #=================================
 # 🖥️ Developed by: Dibya Jyoti
-# 🕒 Last Updated: 2026-07-08 11:53:35 (BD Time)
+# 🕒 Last Updated: 2026-07-08 14:31:26 (BD Time)
 # 📺 Channels Count: 364
 # 🔒 Usage: Personal / Educational
 #=================================
@@ -225,7 +225,7 @@ https://flussonic.deltainfonet.com/01_Tsports_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="toffee" tvg-name="Fifa World Cup" tvg-logo="https://i.imgur.com/53aSeDH.png" group-title="World_Cup",Toffee
 https://toffee-fifa.sm-monirul.top/sm/toffee1.m3u8
 #EXTINF:-1 tvg-id="toffee" tvg-name="Fifa World Cup" tvg-logo="https://i.imgur.com/53aSeDH.png" group-title="World_Cup",Toffee 1
-https://cdn-tt.pages.dev/ch2.m3u8
+https://toffee-fifa.sm-monirul.top/sm/toffee2.m3u8
 #EXTINF:-1 tvg-id="toffee" tvg-name="Fifa World Cup" tvg-logo="https://assets-prod.services.toffeelive.com/w_480,q_75,f_webp/V__o054BObUt2AG6LL5C/posters/84590b8d-6430-4ba8-a0a5-757bf2f57c05.png" group-title="World_Cup",Toffee 2
 https://toffee-fifa.sm-monirul.top/sm/match_rewatch.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/X7qgs8BY/images-d47abaf70fb3ea50af7cdf455ccab5a6-goplay-bioscope-icon-transparent-app.png"  group-title="World_Cup",Bioscope
@@ -745,17 +745,16 @@ https://madanitv.assadikb.workers.dev/live.php?id=144&e=.m3u8
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-tv-hd.png" group-title="SM_IPTV",Zee TV HD
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
 https://book4u.top/worker/index.php?path=api/526bde04a5/playlist.m3u8
+#EXTINF:-1 tvg-name="Namibia Vs Vidarbha [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143631_6150_NAM_VID_fc-web.jpg" group-title="Fancode",Namibia Vs Vidarbha [LIVE]
+https://bd-mc-flive.fancode.com/mumbai/143631_english_hls_e8be295a7c90161_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783581545~_GO=Generated~acl=/mumbai/143631_english_hls_e8be295a7c90161_1ta-di_h264/*~Signature=Ac2BFemWRYo9GKLJu3c4FKoGDCWwUzVEswPUbubxdWSDHd7fsJx1TZ13hTqrhyQUYV2dxeCIhutKSIPxctCba01cvisH
 #EXTINF:-1 tvg-name="Day 1 [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Dream-UTT-Juniors-2026_FC-WEB.jpg" group-title="Fancode",Day 1 [LIVE]
-https://bd-mc-flive.fancode.com/mumbai/4246584_english_hls_149509dec471303_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1783567145~_GO=Generated~acl=/mumbai/4246584_english_hls_149509dec471303_1ta-di_h264/*~Signature=Ac2BFen-9Eq9bA7rOBPK7xKMPK-8F61z7FV9Z6QR1cmEpoczmSIjSmQHXksi2TrlUOfjvnaNjsxVxQnqrZGgTtxoYvcO
-#EXTINF:-1 group-title="Toffee" tvg-logo="https://i.imgur.com/53aSeDH.png",Toffee 1
+https://bd-mc-flive.fancode.com/mumbai/4246584_english_hls_149509dec471303_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1783581965~_GO=Generated~acl=/mumbai/4246584_english_hls_149509dec471303_1ta-di_h264/*~Signature=Ac2BFekpfq-zSUzlTcM3QMlkL3D4kevPbzFmFD4z2Iena3VwuWJWl4-XnQkrxymqrE4c94Mi0FIOfonMZYIaxrYAWa8H
+#EXTINF:-1 group-title="Toffee" tvg-logo="https://assets-prod.services.toffeelive.com/w_480,q_75,f_webp/zUGrjZ4BuUSiBsg_1BeE/posters/bf5a8ad8-3996-44f8-80cb-df33f4d53d0f.png",FRA VS MAR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A515F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://cdn-tt.pages.dev/ch1.m3u8
-#EXTINF:-1 group-title="Toffee" tvg-logo="https://i.imgur.com/53aSeDH.png",Toffee 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A515F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://cdn-tt.pages.dev/ch3.m3u8
+https://toffee-fifa.sm-monirul.top/sm/toffee1.m3u8
 #EXTINF:-1 group-title="Toffee" tvg-logo="https://assets-prod.services.toffeelive.com/w_480,q_75,f_webp/V__o054BObUt2AG6LL5C/posters/84590b8d-6430-4ba8-a0a5-757bf2f57c05.png",Match Rewatch
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A515F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://cdn-tt.pages.dev/ch2.m3u8
+https://toffee-fifa.sm-monirul.top/sm/match_rewatch.m3u8
 #EXTINF:-1 group-title="Toffee" tvg-logo="https://images.toffeelive.com/images/program/19779/logo/240x240/mobile_logo_975410001725875598.png",TOFFEE Sports VIP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A515F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://bldcmprod-cdn.toffeelive.com/cdn/live/sports_highlights/playlist.m3u8
