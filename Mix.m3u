@@ -1,7 +1,7 @@
 #=================================
 # 🖥️ Developed by: Dibya Jyoti
-# 🕒 Last Updated: 2026-07-10 01:48:35 (BD Time)
-# 📺 Channels Count: 371
+# 🕒 Last Updated: 2026-07-10 04:23:23 (BD Time)
+# 📺 Channels Count: 364
 # 🔒 Usage: Personal / Educational
 #=================================
 #EXTM3U
@@ -748,22 +748,8 @@ https://madanitv.assadikb.workers.dev/live.php?id=144&e=.m3u8
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-tv-hd.png" group-title="SM_IPTV",Zee TV HD
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
 https://book4u.top/worker/index.php?path=api/526bde04a5/playlist.m3u8
-#EXTINF:-1 tvg-name="Zimbabwe Vs Bangladesh [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Zimbabwe--vs-Bangladesh-old-.png" group-title="Fancode",Zimbabwe Vs Bangladesh [LIVE]
-https://bd-mc-fblive.fancode.com/mumbai/143401_english_hls_f348d94aff63391_1ta-di_h264/1080p.m3u8
-#EXTINF:-1 tvg-name="Estonia Vs Norway [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113.png" group-title="Fancode",Estonia Vs Norway [LIVE]
-https://bd-mc-flive.fancode.com/mumbai/4246566_english_hls_12153bee0584513_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783691465~_GO=Generated~acl=/mumbai/4246566_english_hls_12153bee0584513_1ta-di_h264/*~Signature=AfBeBzj2-Hvjw6c3pxNdPQlwFxEuU8YhYxBZWjU1faeUeQiJQUtOdpIoFGmj_7nHjg-1uO0kFCDJqkCAEYfvgdaj9qoG
-#EXTINF:-1 tvg-id="tapmad-14753" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17835079871020x576.jpg" group-title="Tapmad", Ladies' Singles Semi-Finals & Mixed Doubles Final | Wimbledon 2026
-https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-258tjui/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-14799" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17832325321020x576.jpg" group-title="Tapmad", England vs India | India Tour of England 2026
-https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-14896" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17835058111020x576.jpg" group-title="Tapmad", Dota 2 - Day 3 - Feed 3 | Esports World Cup 2026 (EWC)
-https://saseries.akamaized.net/hls/live/2110097/Tap2534789Mad2026/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-14894" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17835056711020x576.jpg" group-title="Tapmad", Dota 2 - Day 3 - Feed 1 | Esports World Cup 2026 (EWC)
-https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-14895" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17835057671020x576.jpg" group-title="Tapmad", Dota 2 - Day 3 - Feed 2 | Esports World Cup 2026 (EWC)
-https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-14828" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17835060441020x576.jpg" group-title="Tapmad", Valorant Day 7 | Esports World Cup 2026 (EWC)
-https://bpl24middleeast.akamaized.net/hls/live/2109311/P2s6L-FiN@L-World_Feed/master.m3u8
+#EXTINF:-1 tvg-name="Day 1 [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ISCO-Championship_fc-web.jpg" group-title="Fancode",Day 1 [LIVE]
+https://bd-mc-fblive.fancode.com/mumbai/4246547_english_hls_239f5ad1fa25703_1ta-di_h264/1080p.m3u8
 #EXTINF:-1 group-title="Toffee" tvg-logo="https://assets-prod.services.toffeelive.com/w_480,q_75,f_webp/zUGrjZ4BuUSiBsg_1BeE/posters/bf5a8ad8-3996-44f8-80cb-df33f4d53d0f.png",FRA VS MAR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A515F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://toffee-fifa.sm-monirul.top/sm/toffee1.m3u8
