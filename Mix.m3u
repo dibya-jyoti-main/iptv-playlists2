@@ -1,7 +1,7 @@
 #=================================
 # 🖥️ Developed by: Dibya Jyoti
-# 🕒 Last Updated: 2026-07-13 01:07:41 (BD Time)
-# 📺 Channels Count: 353
+# 🕒 Last Updated: 2026-07-13 03:53:02 (BD Time)
+# 📺 Channels Count: 350
 # 🔒 Usage: Personal / Educational
 #=================================
 #EXTM3U
@@ -726,23 +726,17 @@ https://madanitv.assadikb.workers.dev/live.php?id=144&e=.m3u8
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-tv-hd.png" group-title="SM_IPTV",Zee TV HD
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
 https://book4u.top/worker/index.php?path=api/526bde04a5/playlist.m3u8
-#EXTINF:-1 tvg-name="Kalyani Bengaluru Blasters Vs Shivamogga Yodhas [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143418_6134_KBB_SY_FC-WEB_1782272593035.jpg" group-title="Fancode",Kalyani Bengaluru Blasters Vs Shivamogga Yodhas [LIVE]
-https://bd-mc-flive.fancode.com/mumbai/143448_english_hls_fd9231845c10462_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783963570~_GO=Generated~acl=/mumbai/143448_english_hls_fd9231845c10462_1ta-di_h264/*~Signature=AfBeBzgFcU1z7rSa_stRGBWvBQ9I18xpNwDm5tlNUYDweMT7SxUoRbG-nPrFt1_DCFmkDCp926bJseG_M-3sV9KD80YN
-#EXTINF:-1 tvg-name="Kalyani Bengaluru Blasters Vs Shivamogga Yodhas [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143418_6134_KBB_SY_FC-WEB_1782272593035.jpg" group-title="Fancode",Kalyani Bengaluru Blasters Vs Shivamogga Yodhas [LIVE]
-https://bd-mc-flive.fancode.com/mumbai/143448_kannada_hls_ef6cda7e1f9624_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783963571~_GO=Generated~acl=/mumbai/143448_kannada_hls_ef6cda7e1f9624_1ta-di_h264/*~Signature=AfBeBzgFDU2eXJPpuQKUv0k88oypBsaCvKW-tvvQKpYAvIiKceINoez0uo1sX3HDfDSDaqlSlQDqJATlNT_HZrJ7yMwC
-#EXTINF:-1 tvg-id="tapmad-14756" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17836889241020x576.jpg" group-title="Tapmad", Gentlemen's Singles Final & Ladies' Doubles Final | Wimbledon 2026
-https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-258tjui/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-13464" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17836885041020x576.jpg" group-title="Tapmad", Somerset vs Worcestershire Live | Vitality Blast Men 2026
-https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
+#EXTINF:-1 tvg-name="Day 4 [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ISCO-Championship_fc-web.jpg" group-title="Fancode",Day 4 [LIVE]
+https://bd-mc-fblive.fancode.com/mumbai/4246550_english_hls_fc920e4a0532824_1ta-di_h264/1080p.m3u8
 #EXTINF:-1 group-title="Toffee" tvg-logo="https://assets-prod.services.toffeelive.com/DNMXs5UBm1RY_In7IJ72/posters/5638c4e8-36ba-4e8e-848e-233183b3ec17.png",Toffee Dramas
 #EXTVLCOPT:http-user-agent=okhttp/5.1.0
 https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_drama/playlist.m3u8
 #EXTINF:-1 group-title="Toffee" tvg-logo="https://assets-prod.services.toffeelive.com/zUGrjZ4BuUSiBsg_1BeE/posters/a1152aa0-10ca-451c-8054-26633aa13fde.png",FIFA WC CHANNEL 1
 #EXTVLCOPT:http-user-agent=okhttp/5.1.0
-https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/sst/index.m3u8?edge-cache-token=Expires=1783886453~Starts=1783879253~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiOTQ2YmNmNTQtZTAxZC00NjkzLThiYTQtMzExMTRiZjQxMjJmIn0~Signature=A0vr-FLbGWWABrGbAbKI3HUKulQkDwuOSwKryBcfXiyD80tlXJ4b1WjKKlwS_clRVpTlFSHRPs2vFDr0aOqjAQ
+https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/sst/index.m3u8?edge-cache-token=Expires=1783893654~Starts=1783886454~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiOTQ2YmNmNTQtZTAxZC00NjkzLThiYTQtMzExMTRiZjQxMjJmIn0~Signature=1QgcItAm9ZMT8n3W0thUQQxKYbrLMEydj2LdMzqyWRDEYY1veHCRhh4FmbirdSH9gLdvw6SI0RhsAJiCkHkSDg
 #EXTINF:-1 group-title="Toffee" tvg-logo="https://assets-prod.services.toffeelive.com/V__o054BObUt2AG6LL5C/posters/84590b8d-6430-4ba8-a0a5-757bf2f57c05.png",WC Match Recap
 #EXTVLCOPT:http-user-agent=okhttp/5.1.0
-https://prod-cdn01-live.toffeelive.com/cdn/live/fifa_world_cup/playlist.m3u8?edge-cache-token=Expires=1783886453~Starts=1783879253~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiOTQ2YmNmNTQtZTAxZC00NjkzLThiYTQtMzExMTRiZjQxMjJmIn0~Signature=A0vr-FLbGWWABrGbAbKI3HUKulQkDwuOSwKryBcfXiyD80tlXJ4b1WjKKlwS_clRVpTlFSHRPs2vFDr0aOqjAQ
+https://prod-cdn01-live.toffeelive.com/cdn/live/fifa_world_cup/playlist.m3u8?edge-cache-token=Expires=1783893654~Starts=1783886454~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiOTQ2YmNmNTQtZTAxZC00NjkzLThiYTQtMzExMTRiZjQxMjJmIn0~Signature=1QgcItAm9ZMT8n3W0thUQQxKYbrLMEydj2LdMzqyWRDEYY1veHCRhh4FmbirdSH9gLdvw6SI0RhsAJiCkHkSDg
 #EXTINF:-1 group-title="Toffee" tvg-logo="https://assets-prod.services.toffeelive.com/VC6Q-JQBv9knK3AHhTXt/posters/63e79814-8fcf-4c3e-bb66-408b2a402613.webp",CNN
 #EXTVLCOPT:http-user-agent=okhttp/5.1.0
 https://bldcmprod-cdn.toffeelive.com/cdn/live/cnn/playlist.m3u8
