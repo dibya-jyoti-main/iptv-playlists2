@@ -1,7 +1,7 @@
 #=================================
 # 🖥️ Developed by: Dibya Jyoti
-# 🕒 Last Updated: 2026-07-13 12:23:17 (BD Time)
-# 📺 Channels Count: 350
+# 🕒 Last Updated: 2026-07-13 18:07:42 (BD Time)
+# 📺 Channels Count: 351
 # 🔒 Usage: Personal / Educational
 #=================================
 #EXTM3U
@@ -721,21 +721,23 @@ https://madanitv.assadikb.workers.dev/live.php?id=144&e=.m3u8
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-tv-hd.png" group-title="SM_IPTV",Zee TV HD
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
 https://book4u.top/worker/index.php?path=api/526bde04a5/playlist.m3u8
-#EXTINF:-1 tvg-name="Day 6 [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Dream-UTT-Juniors-2026_FC-WEB_1783573604778.jpg" group-title="Fancode",Day 6 [LIVE]
-https://bd-mc-flive.fancode.com/mumbai/4246604_english_hls_757a5c524711563_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1783999145~_GO=Generated~acl=/mumbai/4246604_english_hls_757a5c524711563_1ta-di_h264/*~Signature=AfBeBzg_C0XyhRHokl88IEbtCcotk1MV_2Th_C2uYlc8c2RcF1eYUYPbTbFR4POFoXCHXlyDGwlMBTiCfO1YYkN-txsN
-#EXTINF:-1 tvg-name="Speen Ghar Tigers Vs Band E Amir Dragons [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143585_6148_SG_BD_fc-web_1782725011362.jpg" group-title="Fancode",Speen Ghar Tigers Vs Band E Amir Dragons [LIVE]
-https://bd-mc-flive.fancode.com/mumbai/143697_english_hls_c477d5353832730_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784002325~_GO=Generated~acl=/mumbai/143697_english_hls_c477d5353832730_1ta-di_h264/*~Signature=AfBeBzgMznkChkVE47V49ISugoR_0pWYE64m9CnjBtDg8NvXTTelprwOh4oJ2v6P1YTXid17zYAm68TIjPd8kk-H_gAF
-#EXTINF:-1 tvg-id="tapmad-15023" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17836879161020x576.jpg" group-title="Tapmad", Individual Race - Stage 3 - Menyuan - Huzhu Live | Tour of Magnificent Qinghai 2026
-https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
+#EXTINF:-1 tvg-name="Denmark Vs Hungary [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113.png" group-title="Fancode",Denmark Vs Hungary [LIVE]
+https://bd-mc-fblive.fancode.com/mumbai/4246570_english_hls_570a9bb7e187200_1ta-di_h264/1080p.m3u8
+#EXTINF:-1 tvg-name="Day 1   World Feed [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/EFG-Swiss-Open-Gstaad_fc-Web.jpg" group-title="Fancode",Day 1   World Feed [LIVE]
+https://bd-mc-fblive.fancode.com/mumbai/143490_english_hls_7b7a9ab14c90630_1ta-di_h264/1080p.m3u8
+#EXTINF:-1 tvg-name="Amo Sharks Vs Mis E Ainak Knights [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143588_6148_AM_MAK_fc-web_1782725011430.jpg" group-title="Fancode",Amo Sharks Vs Mis E Ainak Knights [LIVE]
+https://bd-mc-fblive.fancode.com/mumbai/143698_english_hls_1e0e8fa95c84568_1ta-di_h264/1080p.m3u8
+#EXTINF:-1 tvg-name="Day 1   World Feed [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Nordea-Open_Web-match-card.png" group-title="Fancode",Day 1   World Feed [LIVE]
+https://bd-mc-fblive.fancode.com/mumbai/143483_english_hls_f5dae468f468531_1ta-di_h264/1080p.m3u8
 #EXTINF:-1 group-title="Toffee" tvg-logo="https://assets-prod.services.toffeelive.com/DNMXs5UBm1RY_In7IJ72/posters/5638c4e8-36ba-4e8e-848e-233183b3ec17.png",Toffee Dramas
 #EXTVLCOPT:http-user-agent=okhttp/5.1.0
 https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_drama/playlist.m3u8
 #EXTINF:-1 group-title="Toffee" tvg-logo="https://assets-prod.services.toffeelive.com/zUGrjZ4BuUSiBsg_1BeE/posters/a1152aa0-10ca-451c-8054-26633aa13fde.png",FIFA WC CHANNEL 1
 #EXTVLCOPT:http-user-agent=okhttp/5.1.0
-https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/sst/index.m3u8?edge-cache-token=Expires=1783922464~Starts=1783915264~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiOTQ2YmNmNTQtZTAxZC00NjkzLThiYTQtMzExMTRiZjQxMjJmIn0~Signature=sIOINqwgrFrVs0t-0FBi1dIuN_36jdjffP2E0uZBKSbiz5fs9F_iUOyqkoyqxiDKD0eRg8RcvgmPjoFf1ofQCA
+https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/sst/index.m3u8?edge-cache-token=Expires=1783944054~Starts=1783936854~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiOTQ2YmNmNTQtZTAxZC00NjkzLThiYTQtMzExMTRiZjQxMjJmIn0~Signature=b3Fo0TlrJMpAI4rH4-qA6tSyeyMFNyKHG0Url5LLYRIGVJLd-L2Mu7FhwUHj3jAleag3Jhaccp4nkEtIEaj3CQ
 #EXTINF:-1 group-title="Toffee" tvg-logo="https://assets-prod.services.toffeelive.com/V__o054BObUt2AG6LL5C/posters/84590b8d-6430-4ba8-a0a5-757bf2f57c05.png",WC Match Recap
 #EXTVLCOPT:http-user-agent=okhttp/5.1.0
-https://prod-cdn01-live.toffeelive.com/cdn/live/fifa_world_cup/playlist.m3u8?edge-cache-token=Expires=1783922464~Starts=1783915264~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiOTQ2YmNmNTQtZTAxZC00NjkzLThiYTQtMzExMTRiZjQxMjJmIn0~Signature=sIOINqwgrFrVs0t-0FBi1dIuN_36jdjffP2E0uZBKSbiz5fs9F_iUOyqkoyqxiDKD0eRg8RcvgmPjoFf1ofQCA
+https://prod-cdn01-live.toffeelive.com/cdn/live/fifa_world_cup/playlist.m3u8?edge-cache-token=Expires=1783944054~Starts=1783936854~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiOTQ2YmNmNTQtZTAxZC00NjkzLThiYTQtMzExMTRiZjQxMjJmIn0~Signature=b3Fo0TlrJMpAI4rH4-qA6tSyeyMFNyKHG0Url5LLYRIGVJLd-L2Mu7FhwUHj3jAleag3Jhaccp4nkEtIEaj3CQ
 #EXTINF:-1 group-title="Toffee" tvg-logo="https://assets-prod.services.toffeelive.com/VC6Q-JQBv9knK3AHhTXt/posters/63e79814-8fcf-4c3e-bb66-408b2a402613.webp",CNN
 #EXTVLCOPT:http-user-agent=okhttp/5.1.0
 https://bldcmprod-cdn.toffeelive.com/cdn/live/cnn/playlist.m3u8
