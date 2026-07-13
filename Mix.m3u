@@ -1,6 +1,6 @@
 #=================================
 # 🖥️ Developed by: Dibya Jyoti
-# 🕒 Last Updated: 2026-07-13 08:56:00 (BD Time)
+# 🕒 Last Updated: 2026-07-13 12:23:17 (BD Time)
 # 📺 Channels Count: 350
 # 🔒 Usage: Personal / Educational
 #=================================
@@ -224,15 +224,10 @@ http://114.130.57.233:8080/BTV/video.m3u8?token=SkQuhAXZxgBan1
 https://flussonic.deltainfonet.com/01_Tsports_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="toffee" tvg-name="Fifa World Cup" tvg-logo="https://i.imgur.com/53aSeDH.png" group-title="World_Cup",Toffee
 http://fifabangladesh.top/BRAZIL2/LIVE/play.m3u8?q=900&c=-2
-#EXTINF:-1 tvg-id="toffee" tvg-name="Fifa World Cup" tvg-logo="https://i.imgur.com/53aSeDH.png" group-title="World_Cup",Toffee 1
+#EXTINF:-1 tvg-id="toffee" tvg-name="Fifa World Cup" tvg-logo="https://i.imgur.com/53aSeDH.png" group-title="World_Cup",Toffee
 http://sm-monirul.top/fifa/play/toffee3.m3u8
-#EXTINF:-1 tvg-id="toffee" tvg-name="Fifa World Cup" tvg-logo="https://assets-prod.services.toffeelive.com/w_480,q_75,f_webp/V__o054BObUt2AG6LL5C/posters/84590b8d-6430-4ba8-a0a5-757bf2f57c05.png" group-title="World_Cup",Toffee 2
-https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1783366103-0-0-22529c3f65969c7cdd810209a64927e6
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/X7qgs8BY/images-d47abaf70fb3ea50af7cdf455ccab5a6-goplay-bioscope-icon-transparent-app.png"  group-title="World_Cup",Bioscope
 https://fifa-stream-01.bioscopelive.com/out/v1/60e7608404004b1186261497b404630b/index.m3u8
-#EXTINF:-1 tvg-id="iscreenhd" tvg-name="I SCREEN HD" tvg-logo="https://platform.rockstreamer.com/platforms/iscreen.com.bd/assets/logo.png" group-title="World_Cup",I SCREEN HD
-#EXTVLCOPT:http-referrer=https://iscreen.com.bd/
-https://tc-sg.rockstreamer.com/v1/019ed91616121ea540a8171c8e801f/019ed92ac80315fc600b1796d4ad8b/main.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png"  group-title="World_Cup",DSPORTS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
@@ -726,17 +721,21 @@ https://madanitv.assadikb.workers.dev/live.php?id=144&e=.m3u8
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-tv-hd.png" group-title="SM_IPTV",Zee TV HD
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
 https://book4u.top/worker/index.php?path=api/526bde04a5/playlist.m3u8
-#EXTINF:-1 tvg-name="Day 4 [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ISCO-Championship_fc-web.jpg" group-title="Fancode",Day 4 [LIVE]
-https://bd-mc-fblive.fancode.com/mumbai/4246550_english_hls_fc920e4a0532824_1ta-di_h264/1080p.m3u8
+#EXTINF:-1 tvg-name="Day 6 [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Dream-UTT-Juniors-2026_FC-WEB_1783573604778.jpg" group-title="Fancode",Day 6 [LIVE]
+https://bd-mc-flive.fancode.com/mumbai/4246604_english_hls_757a5c524711563_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1783999145~_GO=Generated~acl=/mumbai/4246604_english_hls_757a5c524711563_1ta-di_h264/*~Signature=AfBeBzg_C0XyhRHokl88IEbtCcotk1MV_2Th_C2uYlc8c2RcF1eYUYPbTbFR4POFoXCHXlyDGwlMBTiCfO1YYkN-txsN
+#EXTINF:-1 tvg-name="Speen Ghar Tigers Vs Band E Amir Dragons [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143585_6148_SG_BD_fc-web_1782725011362.jpg" group-title="Fancode",Speen Ghar Tigers Vs Band E Amir Dragons [LIVE]
+https://bd-mc-flive.fancode.com/mumbai/143697_english_hls_c477d5353832730_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784002325~_GO=Generated~acl=/mumbai/143697_english_hls_c477d5353832730_1ta-di_h264/*~Signature=AfBeBzgMznkChkVE47V49ISugoR_0pWYE64m9CnjBtDg8NvXTTelprwOh4oJ2v6P1YTXid17zYAm68TIjPd8kk-H_gAF
+#EXTINF:-1 tvg-id="tapmad-15023" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17836879161020x576.jpg" group-title="Tapmad", Individual Race - Stage 3 - Menyuan - Huzhu Live | Tour of Magnificent Qinghai 2026
+https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
 #EXTINF:-1 group-title="Toffee" tvg-logo="https://assets-prod.services.toffeelive.com/DNMXs5UBm1RY_In7IJ72/posters/5638c4e8-36ba-4e8e-848e-233183b3ec17.png",Toffee Dramas
 #EXTVLCOPT:http-user-agent=okhttp/5.1.0
 https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_drama/playlist.m3u8
 #EXTINF:-1 group-title="Toffee" tvg-logo="https://assets-prod.services.toffeelive.com/zUGrjZ4BuUSiBsg_1BeE/posters/a1152aa0-10ca-451c-8054-26633aa13fde.png",FIFA WC CHANNEL 1
 #EXTVLCOPT:http-user-agent=okhttp/5.1.0
-https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/sst/index.m3u8?edge-cache-token=Expires=1783908053~Starts=1783900853~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiOTQ2YmNmNTQtZTAxZC00NjkzLThiYTQtMzExMTRiZjQxMjJmIn0~Signature=eK0cVHlNvkI0dL8s7WgQ8joLi2P7swf8VjqJhVssvtzk-aIhCl2kHtDqQWsHG0WgbX55CY_E61mU2WXj8IOACg
+https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/sst/index.m3u8?edge-cache-token=Expires=1783922464~Starts=1783915264~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiOTQ2YmNmNTQtZTAxZC00NjkzLThiYTQtMzExMTRiZjQxMjJmIn0~Signature=sIOINqwgrFrVs0t-0FBi1dIuN_36jdjffP2E0uZBKSbiz5fs9F_iUOyqkoyqxiDKD0eRg8RcvgmPjoFf1ofQCA
 #EXTINF:-1 group-title="Toffee" tvg-logo="https://assets-prod.services.toffeelive.com/V__o054BObUt2AG6LL5C/posters/84590b8d-6430-4ba8-a0a5-757bf2f57c05.png",WC Match Recap
 #EXTVLCOPT:http-user-agent=okhttp/5.1.0
-https://prod-cdn01-live.toffeelive.com/cdn/live/fifa_world_cup/playlist.m3u8?edge-cache-token=Expires=1783908053~Starts=1783900853~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiOTQ2YmNmNTQtZTAxZC00NjkzLThiYTQtMzExMTRiZjQxMjJmIn0~Signature=eK0cVHlNvkI0dL8s7WgQ8joLi2P7swf8VjqJhVssvtzk-aIhCl2kHtDqQWsHG0WgbX55CY_E61mU2WXj8IOACg
+https://prod-cdn01-live.toffeelive.com/cdn/live/fifa_world_cup/playlist.m3u8?edge-cache-token=Expires=1783922464~Starts=1783915264~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiOTQ2YmNmNTQtZTAxZC00NjkzLThiYTQtMzExMTRiZjQxMjJmIn0~Signature=sIOINqwgrFrVs0t-0FBi1dIuN_36jdjffP2E0uZBKSbiz5fs9F_iUOyqkoyqxiDKD0eRg8RcvgmPjoFf1ofQCA
 #EXTINF:-1 group-title="Toffee" tvg-logo="https://assets-prod.services.toffeelive.com/VC6Q-JQBv9knK3AHhTXt/posters/63e79814-8fcf-4c3e-bb66-408b2a402613.webp",CNN
 #EXTVLCOPT:http-user-agent=okhttp/5.1.0
 https://bldcmprod-cdn.toffeelive.com/cdn/live/cnn/playlist.m3u8
