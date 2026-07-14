@@ -1,6 +1,6 @@
 #=================================
 # 🖥️ Developed by: Dibya Jyoti
-# 🕒 Last Updated: 2026-07-14 11:32:26 (BD Time)
+# 🕒 Last Updated: 2026-07-14 14:08:22 (BD Time)
 # 📺 Channels Count: 368
 # 🔒 Usage: Personal / Educational
 #=================================
@@ -763,14 +763,14 @@ https://madanitv.assadikb.workers.dev/live.php?id=144&e=.m3u8
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-tv-hd.png" group-title="SM_IPTV",Zee TV HD
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
 https://book4u.top/worker/index.php?path=api/526bde04a5/playlist.m3u8
-#EXTINF:-1 tvg-name="Day 7 [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Dream-UTT-Juniors-2026_FC-WEB_1783573604778.jpg" group-title="Fancode",Day 7 [LIVE]
-https://bd-mc-flive.fancode.com/mumbai/4246605_english_hls_40eaacc9368631_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1784085545~_GO=Generated~acl=/mumbai/4246605_english_hls_40eaacc9368631_1ta-di_h264/*~Signature=AfBeBzh7W6_2qrTAPgF26Nl8s0hv-00UllXzYLkxtb_S1n1k1Zc-AwX5keJdbIuohmSdHXw0_XKYtaDNqmk6LltmSUcC
+#EXTINF:-1 tvg-name="Bost Defenders Vs Speen Ghar Tigers [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143587_6148_BOS_SG_fc-web_1782725012178.jpg" group-title="Fancode",Bost Defenders Vs Speen Ghar Tigers [LIVE]
+https://bd-mc-flive.fancode.com/mumbai/143602_english_hls_e76593f89d88088_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784089145~_GO=Generated~acl=/mumbai/143602_english_hls_e76593f89d88088_1ta-di_h264/*~Signature=AfBeBzhjBQBgBiAkpxt4oZbcabinVzRqlr9BYjuIEVbtimQjO8JQn303fxwlIz2Dk4nQSBBCjXDrryZiGNeV7NmTU7QN
 #EXTINF:-1 group-title="Toffee" tvg-logo="https://assets-prod.services.toffeelive.com/DNMXs5UBm1RY_In7IJ72/posters/5638c4e8-36ba-4e8e-848e-233183b3ec17.png",Toffee Dramas
 #EXTVLCOPT:http-user-agent=okhttp/5.1.0
 https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_drama/playlist.m3u8
 #EXTINF:-1 group-title="Toffee" tvg-logo="https://assets-prod.services.toffeelive.com/w_480,q_75,f_webp/zUGrjZ4BuUSiBsg_1BeE/posters/a1152aa0-10ca-451c-8054-26633aa13fde.png",FRA VS ESP
 #EXTVLCOPT:http-user-agent=okhttp/5.1.0
-https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/sst/index.m3u8?edge-cache-token=Expires=1783953061~Starts=1783945861~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiY2Q5YmUwNjEtMDUyNS00OWIwLTkxMjAtMGFmOGI4NGQ4NTk2In0~Signature=L1Nee9fP21jefB9tdVN3nDidGmw2s2HMf-qa8mHKP3-nCZnNnNOz3bST_-QIub-fKYhGA2uqdBEvo2ZWybEcCg
+https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/sst/index.m3u8?edge-cache-token=Expires=1784006461~Starts=1783999261~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiY2Q5YmUwNjEtMDUyNS00OWIwLTkxMjAtMGFmOGI4NGQ4NTk2In0~Signature=D4VM9G1qi6bE0mvLobWlkHqZaWHpL255p-5q9xT49mxXEdkMeblmbo_kYYMNwC5Phw0VHtfMZnIJWkyY5iFiBw
 #EXTINF:-1 group-title="Toffee" tvg-logo="https://assets-prod.services.toffeelive.com/VC6Q-JQBv9knK3AHhTXt/posters/63e79814-8fcf-4c3e-bb66-408b2a402613.webp",CNN
 #EXTVLCOPT:http-user-agent=okhttp/5.1.0
 https://bldcmprod-cdn.toffeelive.com/cdn/live/cnn/playlist.m3u8
