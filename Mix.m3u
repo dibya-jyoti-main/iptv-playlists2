@@ -1,7 +1,7 @@
 #=================================
 # 🖥️ Developed by: Dibya Jyoti
-# 🕒 Last Updated: 2026-07-14 14:08:22 (BD Time)
-# 📺 Channels Count: 368
+# 🕒 Last Updated: 2026-07-14 16:48:00 (BD Time)
+# 📺 Channels Count: 372
 # 🔒 Usage: Personal / Educational
 #=================================
 #EXTM3U
@@ -763,14 +763,22 @@ https://madanitv.assadikb.workers.dev/live.php?id=144&e=.m3u8
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-tv-hd.png" group-title="SM_IPTV",Zee TV HD
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
 https://book4u.top/worker/index.php?path=api/526bde04a5/playlist.m3u8
-#EXTINF:-1 tvg-name="Bost Defenders Vs Speen Ghar Tigers [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143587_6148_BOS_SG_fc-web_1782725012178.jpg" group-title="Fancode",Bost Defenders Vs Speen Ghar Tigers [LIVE]
-https://bd-mc-flive.fancode.com/mumbai/143602_english_hls_e76593f89d88088_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784089145~_GO=Generated~acl=/mumbai/143602_english_hls_e76593f89d88088_1ta-di_h264/*~Signature=AfBeBzhjBQBgBiAkpxt4oZbcabinVzRqlr9BYjuIEVbtimQjO8JQn303fxwlIz2Dk4nQSBBCjXDrryZiGNeV7NmTU7QN
+#EXTINF:-1 tvg-name="Serbia Vs Estonia [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113.png" group-title="Fancode",Serbia Vs Estonia [LIVE]
+https://bd-mc-fblive.fancode.com/mumbai/4246581_english_hls_8faf96cf9657167_1ta-di_h264/1080p.m3u8
+#EXTINF:-1 tvg-name="Belgium Vs Hungary [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113.png" group-title="Fancode",Belgium Vs Hungary [LIVE]
+https://bd-mc-fblive.fancode.com/mumbai/4246582_english_hls_bdf77704a065549_1ta-di_h264/1080p.m3u8
+#EXTINF:-1 tvg-name="Day 2   World Feed [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/EFG-Swiss-Open-Gstaad_fc-Web.jpg" group-title="Fancode",Day 2   World Feed [LIVE]
+https://bd-mc-fblive.fancode.com/mumbai/143491_english_hls_a60884f83292633_1ta-di_h264/1080p.m3u8
+#EXTINF:-1 tvg-name="Day 2   World Feed [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Nordea-Open_Web-match-card.png" group-title="Fancode",Day 2   World Feed [LIVE]
+https://bd-mc-fblive.fancode.com/mumbai/143484_english_hls_ce9011c07f27534_1ta-di_h264/1080p.m3u8
+#EXTINF:-1 tvg-id="tapmad-14801" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17839250151020x576.jpg" group-title="Tapmad", England vs India | India Tour of England 2026
+https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
 #EXTINF:-1 group-title="Toffee" tvg-logo="https://assets-prod.services.toffeelive.com/DNMXs5UBm1RY_In7IJ72/posters/5638c4e8-36ba-4e8e-848e-233183b3ec17.png",Toffee Dramas
 #EXTVLCOPT:http-user-agent=okhttp/5.1.0
 https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_drama/playlist.m3u8
 #EXTINF:-1 group-title="Toffee" tvg-logo="https://assets-prod.services.toffeelive.com/w_480,q_75,f_webp/zUGrjZ4BuUSiBsg_1BeE/posters/a1152aa0-10ca-451c-8054-26633aa13fde.png",FRA VS ESP
 #EXTVLCOPT:http-user-agent=okhttp/5.1.0
-https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/sst/index.m3u8?edge-cache-token=Expires=1784006461~Starts=1783999261~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiY2Q5YmUwNjEtMDUyNS00OWIwLTkxMjAtMGFmOGI4NGQ4NTk2In0~Signature=D4VM9G1qi6bE0mvLobWlkHqZaWHpL255p-5q9xT49mxXEdkMeblmbo_kYYMNwC5Phw0VHtfMZnIJWkyY5iFiBw
+http://monirul.bro.bd/sm/play.php?id=toffee1
 #EXTINF:-1 group-title="Toffee" tvg-logo="https://assets-prod.services.toffeelive.com/VC6Q-JQBv9knK3AHhTXt/posters/63e79814-8fcf-4c3e-bb66-408b2a402613.webp",CNN
 #EXTVLCOPT:http-user-agent=okhttp/5.1.0
 https://bldcmprod-cdn.toffeelive.com/cdn/live/cnn/playlist.m3u8
