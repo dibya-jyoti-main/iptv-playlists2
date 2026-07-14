@@ -1,7 +1,7 @@
 #=================================
 # 🖥️ Developed by: Dibya Jyoti
-# 🕒 Last Updated: 2026-07-14 16:48:00 (BD Time)
-# 📺 Channels Count: 372
+# 🕒 Last Updated: 2026-07-14 19:47:24 (BD Time)
+# 📺 Channels Count: 373
 # 🔒 Usage: Personal / Educational
 #=================================
 #EXTM3U
@@ -763,16 +763,18 @@ https://madanitv.assadikb.workers.dev/live.php?id=144&e=.m3u8
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-tv-hd.png" group-title="SM_IPTV",Zee TV HD
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
 https://book4u.top/worker/index.php?path=api/526bde04a5/playlist.m3u8
-#EXTINF:-1 tvg-name="Serbia Vs Estonia [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113.png" group-title="Fancode",Serbia Vs Estonia [LIVE]
-https://bd-mc-fblive.fancode.com/mumbai/4246581_english_hls_8faf96cf9657167_1ta-di_h264/1080p.m3u8
-#EXTINF:-1 tvg-name="Belgium Vs Hungary [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113.png" group-title="Fancode",Belgium Vs Hungary [LIVE]
-https://bd-mc-fblive.fancode.com/mumbai/4246582_english_hls_bdf77704a065549_1ta-di_h264/1080p.m3u8
 #EXTINF:-1 tvg-name="Day 2   World Feed [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/EFG-Swiss-Open-Gstaad_fc-Web.jpg" group-title="Fancode",Day 2   World Feed [LIVE]
-https://bd-mc-fblive.fancode.com/mumbai/143491_english_hls_a60884f83292633_1ta-di_h264/1080p.m3u8
+https://bd-mc-flive.fancode.com/mumbai/143491_english_hls_a60884f83292633_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784118365~_GO=Generated~acl=/mumbai/143491_english_hls_a60884f83292633_1ta-di_h264/*~Signature=AfBeBzjZRWok53FuwuxfctWxJnPmmGiaD2RikL-howUnqnQAfsyeMJap3mn7KBCdt2_LdVKqQoLbma2pdyiiveAon9YK
 #EXTINF:-1 tvg-name="Day 2   World Feed [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Nordea-Open_Web-match-card.png" group-title="Fancode",Day 2   World Feed [LIVE]
-https://bd-mc-fblive.fancode.com/mumbai/143484_english_hls_ce9011c07f27534_1ta-di_h264/1080p.m3u8
+https://bd-mc-flive.fancode.com/mumbai/143484_english_hls_ce9011c07f27534_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784119865~_GO=Generated~acl=/mumbai/143484_english_hls_ce9011c07f27534_1ta-di_h264/*~Signature=AfBeBzgXqVgknlmTixf5l0YPdIfE6SqfV7T5vkNsgSqE0Thj02bsTlZ51N5TphFsc4JLnH6vFtRasG46iX9Wzb7FYJsC
+#EXTINF:-1 tvg-name="Mis E Ainak Knights Vs Band E Amir Dragons [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143596_6148_BD_MAK_fc-web_1782725011507.jpg" group-title="Fancode",Mis E Ainak Knights Vs Band E Amir Dragons [LIVE]
+https://bd-mc-flive.fancode.com/mumbai/143695_english_hls_cb0018fc8896337_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784107145~_GO=Generated~acl=/mumbai/143695_english_hls_cb0018fc8896337_1ta-di_h264/*~Signature=AfBeBzgZ6AOq1oNTeJgLpG5RJtluz1eWPrMUdGB3hgPq7oc2DxRZvw-_8x7NtRkV7FeX9iojhPWVwEIndjDbLWxljk4I
 #EXTINF:-1 tvg-id="tapmad-14801" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17839250151020x576.jpg" group-title="Tapmad", England vs India | India Tour of England 2026
 https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-14906" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17839260941020x576.jpg" group-title="Tapmad", Dota 2 - Day 7 - Feed 1 | Esports World Cup 2026 (EWC)
+https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-14907" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17839261461020x576.jpg" group-title="Tapmad", Dota 2 - Day 7 - Feed 2 | Esports World Cup 2026 (EWC)
+https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
 #EXTINF:-1 group-title="Toffee" tvg-logo="https://assets-prod.services.toffeelive.com/DNMXs5UBm1RY_In7IJ72/posters/5638c4e8-36ba-4e8e-848e-233183b3ec17.png",Toffee Dramas
 #EXTVLCOPT:http-user-agent=okhttp/5.1.0
 https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_drama/playlist.m3u8
