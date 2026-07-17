@@ -1,7 +1,7 @@
 #=================================
 # 🖥️ Developed by: Dibya Jyoti
-# 🕒 Last Updated: 2026-07-17 08:45:55 (BD Time)
-# 📺 Channels Count: 340
+# 🕒 Last Updated: 2026-07-17 11:43:38 (BD Time)
+# 📺 Channels Count: 341
 # 🔒 Usage: Personal / Educational
 #=================================
 #EXTM3U
@@ -677,14 +677,16 @@ https://madanitv.assadikb.workers.dev/live.php?id=144&e=.m3u8
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-tv-hd.png" group-title="SM_IPTV",Zee TV HD
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
 https://book4u.top/worker/index.php?path=api/37788832c8/playlist.m3u8
-#EXTINF:-1 tvg-name="West Indies Vs New Zealand [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/NZ-vs-WI_Odi_fc-web.png" group-title="Fancode",West Indies Vs New Zealand [LIVE]
-https://bd-mc-flive.fancode.com/mumbai/143605_english_hls_2af830d3f124274_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784325906~_GO=Generated~acl=/mumbai/143605_english_hls_2af830d3f124274_1ta-di_h264/*~Signature=AeRM5cUjVu3Xr7FC4eFZpOdwH68WBYBpnA1mf34gnoVr8EwrfX-VMvdKNTPzHpqQhMfqYHF3eQK-92PXjhzfz4gYPo8P
+#EXTINF:-1 tvg-name="Day 10 [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Dream-UTT-Juniors-2026_FC-WEB_1783573604778.jpg" group-title="Fancode",Day 10 [LIVE]
+https://bd-mc-flive.fancode.com/mumbai/4246608_english_hls_876a03769910786_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1784344745~_GO=Generated~acl=/mumbai/4246608_english_hls_876a03769910786_1ta-di_h264/*~Signature=AeRM5cWtPRzA1tmT2anS41Kv7ZBUkEE4HKSeeTdTDmPHJ-2K-w4ofo_zN-pPf3RgrRoLFWsh04ODlP6Y3tUqpNYCR9IO
+#EXTINF:-1 tvg-id="tapmad-15047" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17841073071020x576.jpg" group-title="Tapmad", Individual Race - Stage 7 - Gangcha - Xihai Town Live | Tour of Magnificent Qinghai 2026
+https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
 #EXTINF:-1 group-title="Toffee" tvg-logo="https://assets-prod.services.toffeelive.com/DNMXs5UBm1RY_In7IJ72/posters/5638c4e8-36ba-4e8e-848e-233183b3ec17.png",Toffee Dramas
 #EXTVLCOPT:http-user-agent=okhttp/5.1.0
 https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_drama/playlist.m3u8
-#EXTINF:-1 group-title="Toffee" tvg-logo="https://assets-prod.services.toffeelive.com/w_480,q_75,f_webp/zUGrjZ4BuUSiBsg_1BeE/posters/7a2a1bad-fb45-4a84-bdcd-9602904374c2.png",ENG VS ARG
+#EXTINF:-1 group-title="Toffee" tvg-logo="https://assets-prod.services.toffeelive.com/zUGrjZ4BuUSiBsg_1BeE/posters/6d843895-07a0-4c03-b767-aabb833e2b2b.png",ENG VS ARG
 #EXTVLCOPT:http-user-agent=okhttp/5.1.0
-http://monirul.bro.bd/sm/play.php?id=toffee1
+https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/sst/index.m3u8?edge-cache-token=Expires=1784268070~Starts=1784260870~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiOTQ2YmNmNTQtZTAxZC00NjkzLThiYTQtMzExMTRiZjQxMjJmIn0~Signature=JQcqlwu68c47drhqnfot0z9CypAwxJJ4NLV4MqJjVSLLFKJAAUlWhcr-2srIGD84ESEMEVtN8aWkZywe0s7OAg
 #EXTINF:-1 group-title="Toffee" tvg-logo="https://assets-prod.services.toffeelive.com/V__o054BObUt2AG6LL5C/posters/84590b8d-6430-4ba8-a0a5-757bf2f57c05.png",Match Rewatch
 #EXTVLCOPT:http-user-agent=okhttp/5.1.0
 https://bldcmprod-cdn.toffeelive.com/cdn/live/fifa_world_cup/playlist.m3u8
