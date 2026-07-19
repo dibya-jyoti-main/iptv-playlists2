@@ -1,7 +1,7 @@
 #=================================
 # 🖥️ Developed by: Dibya Jyoti
-# 🕒 Last Updated: 2026-07-19 16:35:58 (BD Time)
-# 📺 Channels Count: 407
+# 🕒 Last Updated: 2026-07-19 19:20:09 (BD Time)
+# 📺 Channels Count: 412
 # 🔒 Usage: Personal / Educational
 #=================================
 #EXTM3U
@@ -797,16 +797,26 @@ https://madanitv.assadikb.workers.dev/live.php?id=144&e=.m3u8
 https://book4u.top/worker/index.php?path=api/37788832c8/playlist.m3u8
 #EXTINF:-1 tvg-name="Dambulla Sixers Vs Jaffna Kings [LIVE]" tvg-logo="https://images.fancode.com/aig/match/v1784105762372/4246717_CASACARDS_SPORTY_APP.png" group-title="Fancode",Dambulla Sixers Vs Jaffna Kings [LIVE]
 https://bd-mc-flive.fancode.com/mumbai/4246717_english_hls_9dee290f0090463_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784539399~_GO=Generated~acl=/mumbai/4246717_english_hls_9dee290f0090463_1ta-di_h264/*~Signature=AeRM5cUBV8qb2OVlxJ9LhMen2pvRKNIkpN3juE5Hop_b2RKD-dvzDV5vFsiHnpiFRCtI0bdeP2WjZMQQw3SSbrswszED
+#EXTINF:-1 tvg-name="Zimbabwe Vs Bangladesh [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ZIM-vs-BAN_Web-match-card_1783952837295.png" group-title="Fancode",Zimbabwe Vs Bangladesh [LIVE]
+https://bd-mc-flive.fancode.com/mumbai/143405_english_hls_17da386da48875_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784541906~_GO=Generated~acl=/mumbai/143405_english_hls_17da386da48875_1ta-di_h264/*~Signature=AeRM5cVztWRZi_a--T4iKUjyWly302pHopuVB5Og5TbbzpifUSxfrTv0VMtzCrBkdZTle6RQ9pfcghURTXv5sqB3Na4F
 #EXTINF:-1 tvg-name="Day 4 [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Open-Championship_fc-web.jpg" group-title="Fancode",Day 4 [LIVE]
-https://bd-mc-flive.fancode.com/mumbai/4246811_english_hls_4492dd440847598_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784533867~_GO=Generated~acl=/mumbai/4246811_english_hls_4492dd440847598_1ta-di_h264/*~Signature=AeRM5cXyB3uvClxFPa_vO2_TWli_-YD2ZmZUcEWSOxE5z-rSM_FpJ5kmObP79aypaGzDHUnJLkwy3u8RgGM9EDMEwPUF
-#EXTINF:-1 tvg-name="Men's Final [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/EFG-Swiss-Open-Gstaad_fc-Web.jpg" group-title="Fancode",Men's Final [LIVE]
-https://bd-mc-flive.fancode.com/mumbai/143496_english_hls_aa6d7ce41a64722_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784539401~_GO=Generated~acl=/mumbai/143496_english_hls_aa6d7ce41a64722_1ta-di_h264/*~Signature=AeRM5cX7puboCF1nt9uUbmAYwstVpes9ONVul-N4lIXWicw8EsmhJX_5lupa3VZyfnbfQ5LC_7JQzHYuSS1nELq87JIC
-#EXTINF:-1 tvg-name="Race [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Porsche-Mobil-1-Supercup_Austria_Match_card_MRF_Old_match-card.jpg" group-title="Fancode",Race [LIVE]
-https://bd-mc-flive.fancode.com/mumbai/143610_english_hls_e73e0b37ea25718_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1784539806~_GO=Generated~acl=/mumbai/143610_english_hls_e73e0b37ea25718_1ta-di_h264/*~Signature=AeRM5cXQXbWXhkS4zJEAxWfRb6pX9VTss_BqxIfX9yae_Ks7F_d4Zmke4bCsoJfJ0QM9RnyU4XhSvHkwKsfn2ufswlUK
-#EXTINF:-1 tvg-id="tapmad-15309" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17842947611020x576.jpg" group-title="Tapmad", GT4 European Race  Live | GT World Challenge EU & Asia 2026
-https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-258tjui/master.m3u8
+https://bd-mc-flive.fancode.com/mumbai/4246811_english_hls_4492dd440847598_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784552285~_GO=Generated~acl=/mumbai/4246811_english_hls_4492dd440847598_1ta-di_h264/*~Signature=AeRM5cXzLx_J3YqARkcAWeJ_8hHPdYnwAhIGG_XwAyt2rWHSTp11eJ9eHcIhb05REw1uyCdcRylHUZRadlBkAcdBTAAB
+#EXTINF:-1 tvg-name="Men's Final [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Nordea-Open_Web-match-card.png" group-title="Fancode",Men's Final [LIVE]
+https://bd-mc-flive.fancode.com/mumbai/143489_english_hls_7e09492a8c79814_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784547845~_GO=Generated~acl=/mumbai/143489_english_hls_7e09492a8c79814_1ta-di_h264/*~Signature=AeRM5cXOMUIb1Z-hAxyiCoCVv6GJyqioKRLZW0H8c4h6ruWOWV3N4KD9E-sJkgcYbJnWEl8xxhgOrTwSPDIAD_ti_sgC
+#EXTINF:-1 tvg-name="Europe   Race 2 [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series_fc-web.jpg" group-title="Fancode",Europe   Race 2 [LIVE]
+https://bd-mc-flive.fancode.com/mumbai/143701_english_hls_a533b77c7995207_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1784550365~_GO=Generated~acl=/mumbai/143701_english_hls_a533b77c7995207_1ta-di_h264/*~Signature=AeRM5cU500EO-Zc5_XOAxDS759bIHyrdY1SAC_6tsep9bsYlvkbB3v7fjLd3VymZhOM6sJxVutTjf3XMo6uuf-qINx4K
+#EXTINF:-1 tvg-name="Race [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1-BELGIAN-GRAND-PRIX-2026-old.png" group-title="Fancode",Race [LIVE]
+https://bd-mc-flive.fancode.com/mumbai/139471_english_hls_bcb585673323107_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1784544665~_GO=Generated~acl=/mumbai/139471_english_hls_bcb585673323107_1ta-di_h264/*~Signature=AeRM5cVa78RmulnRf1tW_c_eLErAZ_KQQSm7fd1xrKNHE4LVdWZViPentRPKsVKpmIix_8OxNdmwQkP8BZT4YVunbzUA
+#EXTINF:-1 tvg-name="Race [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1-BELGIAN-GRAND-PRIX-2026-old.png" group-title="Fancode",Race [LIVE]
+https://bd-mc-flive.fancode.com/mumbai/139471_hindi_hls_1d2131d72696759_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1784544666~_GO=Generated~acl=/mumbai/139471_hindi_hls_1d2131d72696759_1ta-di_h264/*~Signature=AeRM5cXmKC448FduM_A4Q1WWgaGqLDzxqSu-213TYe0QG7gg7hr7WncKNVkakMsfCwVjH1VQL61t0jKPehQsv53sNkYN
+#EXTINF:-1 tvg-name="Race [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1-BELGIAN-GRAND-PRIX-2026-old.png" group-title="Fancode",Race [LIVE]
+https://bd-mc-flive.fancode.com/mumbai/139471_tamil_hls_b6fc003bfd81036_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1784544667~_GO=Generated~acl=/mumbai/139471_tamil_hls_b6fc003bfd81036_1ta-di_h264/*~Signature=AeRM5cX6lqU2EDP11c2pcxEzw_d7Z3KRelWFinnJPgfW9v1swqJ_5t621l8HMXcp-wV5yLl5805T9Efw9aLTQcqVg98L
 #EXTINF:-1 tvg-id="tapmad-14803" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17840206621020x576.jpg" group-title="Tapmad", England vs India | India Tour of England 2026
 https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-14779" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17841057101020x576.jpg" group-title="Tapmad", Zimbabwe vs Bangladesh | Bangladesh Tour of Zimbabwe 2026
+https://saseries.akamaized.net/hls/live/2110097/UFC-20-3827e1/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-15315" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17842956301020x576.jpg" group-title="Tapmad", GT World Challenge Race  Live | GT World Challenge EU & Asia 2026
+https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-258tjui/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-14913" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17841083111020x576.jpg" group-title="Tapmad", Dota 2 - Day 12 | Esports World Cup 2026 (EWC)
 https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
 #EXTINF:-1 group-title="Toffee" tvg-logo="https://assets-prod.services.toffeelive.com/DNMXs5UBm1RY_In7IJ72/posters/5638c4e8-36ba-4e8e-848e-233183b3ec17.png",Toffee Dramas
@@ -814,7 +824,7 @@ https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
 https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_drama/playlist.m3u8
 #EXTINF:-1 group-title="Toffee" tvg-logo="https://assets-prod.services.toffeelive.com/zUGrjZ4BuUSiBsg_1BeE/posters/6d843895-07a0-4c03-b767-aabb833e2b2b.png",ENG VS ARG
 #EXTVLCOPT:http-user-agent=okhttp/5.1.0
-https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/sst/index.m3u8?edge-cache-token=Expires=1784455273~Starts=1784448073~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiOTQ2YmNmNTQtZTAxZC00NjkzLThiYTQtMzExMTRiZjQxMjJmIn0~Signature=Doisw3R_TMLywtXdrvLf0gLXp-EtCHR1cdikLxnu3xA00IgU4Q_wmtq6-GWuYzJGBRUvH4YJPLyGP70jILjCAQ
+https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/sst/index.m3u8?edge-cache-token=Expires=1784469673~Starts=1784462473~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiOTQ2YmNmNTQtZTAxZC00NjkzLThiYTQtMzExMTRiZjQxMjJmIn0~Signature=p4ewEs7t83-JXfXk9bZ5XQftI3VH6AnOST5PQz_ZmsEmI8JxUp0P1ihE6bB4ZHQ7hgpQVvVdifl5aCz1KP4GDw
 #EXTINF:-1 group-title="Toffee" tvg-logo="https://assets-prod.services.toffeelive.com/V__o054BObUt2AG6LL5C/posters/84590b8d-6430-4ba8-a0a5-757bf2f57c05.png",Match Rewatch
 #EXTVLCOPT:http-user-agent=okhttp/5.1.0
 https://bldcmprod-cdn.toffeelive.com/cdn/live/fifa_world_cup/playlist.m3u8
