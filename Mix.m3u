@@ -1,7 +1,7 @@
 #=================================
 # 🖥️ Developed by: Dibya Jyoti
-# 🕒 Last Updated: 2026-07-19 21:58:43 (BD Time)
-# 📺 Channels Count: 413
+# 🕒 Last Updated: 2026-07-20 01:08:27 (BD Time)
+# 📺 Channels Count: 415
 # 🔒 Usage: Personal / Educational
 #=================================
 #EXTM3U
@@ -378,13 +378,9 @@ http://monirul.bro.bd/sm/live.php?id=madani_tv&e=.m3u8
 #EXTINF:-1 tvg-id="peace_tv_bangla" tvg-logo="https://ottking.top/cdn/image/Peace-TV.png" group-title="IPTV_BDIX",PEACE TV BANGLA
 http://monirul.bro.bd/sm/live.php?id=peace_tv_bangla&e=.m3u8
 #EXTINF:-1 tvg-id="t sports" tvg-name="T-Sports" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="World_Cup",Football World Cup
-http://103.151.61.12/tv.bdixbd.net/video.m3u8
-#EXTINF:-1 tvg-id="t sports" tvg-name="T-Sports" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="World_Cup",Football World Cup
 https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1783440983-0-0-
-#EXTINF:-1 tvg-id="t sports" tvg-name="T-Sports" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="World_Cup",Football World Cup
-https://node8.no-612.workers.dev/resource/MjQwNTk5MDY0MTY5OjI0MDU5OTA2NDE2OToxMjAzNTpsaXZl/index.m3u8
 #EXTINF:-1 tvg-id="toffee" tvg-name="Fifa World Cup" tvg-logo="https://i.imgur.com/53aSeDH.png" group-title="World_Cup",Toffee
-https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/sst/index.m3u8?edge-cache-token=Expires=1784147455~Starts=1784140255~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiOWYxNTYwOWItY2IzZi00ODA4LWJhOTMtYzNjNjM3NWM2ZmVjIn0~Signature=lFJemWHeBIedpFcqHUZTh2sx0HPHbO296AwvYNh9E4IZErb7gPRnU7yloj_I0QlEcwudHGsEpf73QN1U7ua4Dg
+https://s2.bufaloweb.com/bufalo9/tracks-v4a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/X7qgs8BY/images-d47abaf70fb3ea50af7cdf455ccab5a6-goplay-bioscope-icon-transparent-app.png"  group-title="World_Cup",Bioscope
 https://fifa-stream-01.bioscopelive.com/out/v1/60e7608404004b1186261497b404630b/index.m3u8
 #EXTINF:-1 tvg-id="t sports" tvg-name="T-Sports" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="World_Cup",Football World Cup
@@ -393,6 +389,39 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_6.m3u8
 https://tfxl1gwh1hcjigezdncb3fahdrmmcpf5gkce.100ycdn.com/live1.streambylivepulse.com/live/channel6/playlist.m3u8?wsSecret=3843feb764c2a2b81a5169383f8e26d4&wsABSTime=1784182501&wsSession=da91794d1c82a6518aab13e0-178413930348783&wsIPSercert=b7031d922ec6c56c5993cc6d76628bf5&wsBindIP=2&wsserid=1168262300818150876
 #EXTINF:-1 tvg-id="t sports" tvg-name="T-Sports" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="World_Cup",Football World Cup
 https://live05.miekgo.app/live/78905744.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="World_Cup", Channel 1 (Caze TV)
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="World_Cup", Channel 2 (Live Stream)
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1783440983-0-0-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="World_Cup", Channel 3 (Batu Test)
+https://andro.evrenesoglu57.click/checklist/batutest.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="World_Cup", Channel 4 (Live Stream Ali)
+https://live01-cn-ali.bvjicd.com/live/79361366.m3u8?nocache=1784052953102
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQ5LftTh/1000113687.png" group-title="World_Cup",Channel
+#EXTVLCOPT:http-referrer=https://live.sportzfy.life/
+https://spown.pull-sp-tail-op.online/stream69?&.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQ5LftTh/1000113687.png" group-title="World_Cup",Channel 1
+https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQ5LftTh/1000113687.png" group-title="World_Cup",Channel 2
+http://192.168.91.8/streams/118/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQ5LftTh/1000113687.png" group-title="World_Cup",Channel 3
+http://192.168.91.8/streams/119/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQ5LftTh/1000113687.png" group-title="World_Cup",Channel 4
+http://10.20.30.40:8088/102/index.m3u8?token=4e496d9118cd8165821aa51f51c1ada40cb18b32-e10fc935623f1b82a862774d1ea4c6a3-1784487468-1784483868
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQ5LftTh/1000113687.png" group-title="World_Cup",Channel 5
+http://172.19.178.148:18190/tspsn/index.fmp4.m3u8?token=a8ba55724be1bb2911da2778425877c38623da56-cceca3384a6a9e63c538af513f83ee16-1784495044-1784483944
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQ5LftTh/1000113687.png" group-title="World_Cup",Channel 6
+http://172.19.178.148:18190/feed_fifa2/index.fmp4.m3u8?token=76420700eb463959b4f3eb623b38511ffadd6884-65f66b9e0cffcce6691a9255ff67ed40-1784495105-1784484005
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQ5LftTh/1000113687.png" group-title="World_Cup",Channel 7
+http://172.19.178.149:18190/t_sports_vip/index.fmp4.m3u8?token=9caecc0cb7a1e2c6cc8b16a15c81314f5eb1f4fe-891f032f73917aec656922888b4a63bc-1784495088-1784483988
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQ5LftTh/1000113687.png" group-title="World_Cup",Channel 8
+https://mycoffeetime.net/play/tSDRdsaoGGQ2qYgRPDEe9q-qMIzoahbJArH3W3vOiEaB97nXMpWmLb0Ts759Tjsp/m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQ5LftTh/1000113687.png" group-title="World_Cup",Channel 9 (DRM Protected)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
+https://otte-qw.live.pv-cdn.net/lhr-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/t-sports-2.png" group-title="SM_IPTV",T Sports 2
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
 http://book4u.top/royr/index.php?id=liveventfuck
@@ -795,30 +824,16 @@ https://madanitv.assadikb.workers.dev/live.php?id=144&e=.m3u8
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-tv-hd.png" group-title="SM_IPTV",Zee TV HD
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
 https://book4u.top/worker/index.php?path=api/37788832c8/playlist.m3u8
-#EXTINF:-1 tvg-name="Zimbabwe Vs Bangladesh [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ZIM-vs-BAN_Web-match-card_1783952837295.png" group-title="Fancode",Zimbabwe Vs Bangladesh [LIVE]
-https://bd-mc-flive.fancode.com/mumbai/143405_english_hls_17da386da48875_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784541906~_GO=Generated~acl=/mumbai/143405_english_hls_17da386da48875_1ta-di_h264/*~Signature=AeRM5cVztWRZi_a--T4iKUjyWly302pHopuVB5Og5TbbzpifUSxfrTv0VMtzCrBkdZTle6RQ9pfcghURTXv5sqB3Na4F
-#EXTINF:-1 tvg-name="Colombo Kaps Vs Kandy Royals [LIVE]" tvg-logo="https://images.fancode.com/aig/match/v1784105762369/4246712_CASACARDS_SPORTY_APP.png" group-title="Fancode",Colombo Kaps Vs Kandy Royals [LIVE]
-https://bd-mc-flive.fancode.com/mumbai/4246712_english_hls_eeccc6729d52047_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784554205~_GO=Generated~acl=/mumbai/4246712_english_hls_eeccc6729d52047_1ta-di_h264/*~Signature=AeRM5cUmyxXvv0KJ7BCZYnN-4CxuOVs_p13hFwUvCF0STTTr9mHD6O-QFC2uZGsk1TjaRxjGAluwWv_RrJPEfbnNe7wK
 #EXTINF:-1 tvg-name="West Indies Vs New Zealand [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/NZ-vs-WI_Odi_fc-web.png" group-title="Fancode",West Indies Vs New Zealand [LIVE]
 https://bd-mc-flive.fancode.com/mumbai/143606_english_hls_da7fa7ed2c55813_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784554625~_GO=Generated~acl=/mumbai/143606_english_hls_da7fa7ed2c55813_1ta-di_h264/*~Signature=AeRM5cXmggTPPuA-hzjENficIncSm2NVWRf03GuOp4qt8nU05ijXpU202AzndU7P5VSuLYFUovdE4ad7kFrrALuVWmcM
+#EXTINF:-1 tvg-name="Kandy Royals Vs Colombo Kaps [LIVE]" tvg-logo="https://images.fancode.com/aig/match/v1784105762369/4246712_CASACARDS_SPORTY_APP.png" group-title="Fancode",Kandy Royals Vs Colombo Kaps [LIVE]
+https://bd-mc-flive.fancode.com/mumbai/4246712_english_hls_eeccc6729d52047_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784554205~_GO=Generated~acl=/mumbai/4246712_english_hls_eeccc6729d52047_1ta-di_h264/*~Signature=AeRM5cUmyxXvv0KJ7BCZYnN-4CxuOVs_p13hFwUvCF0STTTr9mHD6O-QFC2uZGsk1TjaRxjGAluwWv_RrJPEfbnNe7wK
 #EXTINF:-1 tvg-name="Day 4 [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Open-Championship_fc-web.jpg" group-title="Fancode",Day 4 [LIVE]
 https://bd-mc-flive.fancode.com/mumbai/4246811_english_hls_4492dd440847598_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784552285~_GO=Generated~acl=/mumbai/4246811_english_hls_4492dd440847598_1ta-di_h264/*~Signature=AeRM5cXzLx_J3YqARkcAWeJ_8hHPdYnwAhIGG_XwAyt2rWHSTp11eJ9eHcIhb05REw1uyCdcRylHUZRadlBkAcdBTAAB
-#EXTINF:-1 tvg-name="Men's Final [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Nordea-Open_Web-match-card.png" group-title="Fancode",Men's Final [LIVE]
-https://bd-mc-flive.fancode.com/mumbai/143489_english_hls_7e09492a8c79814_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784547845~_GO=Generated~acl=/mumbai/143489_english_hls_7e09492a8c79814_1ta-di_h264/*~Signature=AeRM5cXOMUIb1Z-hAxyiCoCVv6GJyqioKRLZW0H8c4h6ruWOWV3N4KD9E-sJkgcYbJnWEl8xxhgOrTwSPDIAD_ti_sgC
-#EXTINF:-1 tvg-name="Europe   Race 2 [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series_fc-web.jpg" group-title="Fancode",Europe   Race 2 [LIVE]
-https://bd-mc-flive.fancode.com/mumbai/143701_english_hls_a533b77c7995207_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1784550365~_GO=Generated~acl=/mumbai/143701_english_hls_a533b77c7995207_1ta-di_h264/*~Signature=AeRM5cU500EO-Zc5_XOAxDS759bIHyrdY1SAC_6tsep9bsYlvkbB3v7fjLd3VymZhOM6sJxVutTjf3XMo6uuf-qINx4K
-#EXTINF:-1 tvg-name="Race [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1-BELGIAN-GRAND-PRIX-2026-old.png" group-title="Fancode",Race [LIVE]
-https://bd-mc-flive.fancode.com/mumbai/139471_english_hls_bcb585673323107_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1784544665~_GO=Generated~acl=/mumbai/139471_english_hls_bcb585673323107_1ta-di_h264/*~Signature=AeRM5cVa78RmulnRf1tW_c_eLErAZ_KQQSm7fd1xrKNHE4LVdWZViPentRPKsVKpmIix_8OxNdmwQkP8BZT4YVunbzUA
-#EXTINF:-1 tvg-name="Race [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1-BELGIAN-GRAND-PRIX-2026-old.png" group-title="Fancode",Race [LIVE]
-https://bd-mc-flive.fancode.com/mumbai/139471_hindi_hls_1d2131d72696759_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1784544666~_GO=Generated~acl=/mumbai/139471_hindi_hls_1d2131d72696759_1ta-di_h264/*~Signature=AeRM5cXmKC448FduM_A4Q1WWgaGqLDzxqSu-213TYe0QG7gg7hr7WncKNVkakMsfCwVjH1VQL61t0jKPehQsv53sNkYN
-#EXTINF:-1 tvg-name="Race [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1-BELGIAN-GRAND-PRIX-2026-old.png" group-title="Fancode",Race [LIVE]
-https://bd-mc-flive.fancode.com/mumbai/139471_tamil_hls_b6fc003bfd81036_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1784544667~_GO=Generated~acl=/mumbai/139471_tamil_hls_b6fc003bfd81036_1ta-di_h264/*~Signature=AeRM5cX6lqU2EDP11c2pcxEzw_d7Z3KRelWFinnJPgfW9v1swqJ_5t621l8HMXcp-wV5yLl5805T9Efw9aLTQcqVg98L
-#EXTINF:-1 tvg-id="tapmad-14803" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17840206621020x576.jpg" group-title="Tapmad", England vs India | India Tour of England 2026
-https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
+#EXTINF:-1 tvg-name="Day 4 [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Corales-Puntacana-Championship-2026-old.png" group-title="Fancode",Day 4 [LIVE]
+https://bd-mc-flive.fancode.com/mumbai/4246626_english_hls_4d6341591120390_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784559066~_GO=Generated~acl=/mumbai/4246626_english_hls_4d6341591120390_1ta-di_h264/*~Signature=AeRM5cXheAU9NJzVRnMcU1BlbaftAXrk0-_3Dp6ca0NXHlInJtbC-BGEdwtxiBNs2TSZaCRquizFjy_VGRHR6G8zHx0M
 #EXTINF:-1 tvg-id="tapmad-15068" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17841088321020x576.jpg" group-title="Tapmad", West Indies vs New Zealand | New Zealand Tour of West Indies 2026
 https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-15327" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17842967691020x576.jpg" group-title="Tapmad", McLaren Trophy Europe Race  Live | GT World Challenge EU & Asia 2026
-https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-258tjui/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-14913" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17841083111020x576.jpg" group-title="Tapmad", Dota 2 - Day 12 | Esports World Cup 2026 (EWC)
 https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
 #EXTINF:-1 group-title="Toffee" tvg-logo="https://assets-prod.services.toffeelive.com/DNMXs5UBm1RY_In7IJ72/posters/5638c4e8-36ba-4e8e-848e-233183b3ec17.png",Toffee Dramas
@@ -826,7 +841,7 @@ https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
 https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_drama/playlist.m3u8
 #EXTINF:-1 group-title="Toffee" tvg-logo="https://assets-prod.services.toffeelive.com/zUGrjZ4BuUSiBsg_1BeE/posters/6d843895-07a0-4c03-b767-aabb833e2b2b.png",ENG VS ARG
 #EXTVLCOPT:http-user-agent=okhttp/5.1.0
-https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/sst/index.m3u8?edge-cache-token=Expires=1784476873~Starts=1784469673~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiOTQ2YmNmNTQtZTAxZC00NjkzLThiYTQtMzExMTRiZjQxMjJmIn0~Signature=uTUpUnDt00-cxBj-IqvNVl57Grz0ODKo6fviREdezg7og_bbBjagK0cIxATfPTjnhL-KCw45gXFnjiWrBycvDw
+https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/sst/index.m3u8?edge-cache-token=Expires=1784491272~Starts=1784484072~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiOTQ2YmNmNTQtZTAxZC00NjkzLThiYTQtMzExMTRiZjQxMjJmIn0~Signature=dxLVXkzruzSBxql0DX3HfmHamnokhKnSOE2p0TOIA6yZf6Iu-shq-QGjssF-q6e4cFWfZmaZYuiKl9A1tFj-Bw
 #EXTINF:-1 group-title="Toffee" tvg-logo="https://assets-prod.services.toffeelive.com/V__o054BObUt2AG6LL5C/posters/84590b8d-6430-4ba8-a0a5-757bf2f57c05.png",Match Rewatch
 #EXTVLCOPT:http-user-agent=okhttp/5.1.0
 https://bldcmprod-cdn.toffeelive.com/cdn/live/fifa_world_cup/playlist.m3u8
@@ -929,12 +944,6 @@ https://bldcmprod-cdn.toffeelive.com/cdn/live/zing_sd/playlist.m3u8
 #EXTINF:-1 group-title="Toffee" tvg-logo="https://assets-prod.services.toffeelive.com/0C63X5UBv9knK3AHxaOs/posters/6dce1143-1045-4fec-ac4f-86d2bfb32447.png",HUM
 #EXTVLCOPT:http-user-agent=okhttp/5.1.0
 https://bldcmprod-cdn.toffeelive.com/cdn/live/hum_tv/playlist.m3u8
-#EXTINF:-1 group-title="Toffee" tvg-logo="https://assets-prod.services.toffeelive.com/T9O9X5UBm1RY_In7UXFv/posters/30e0f372-eb3e-4cf9-be1e-b196a40c2fc7.png",HUM Masala
-#EXTVLCOPT:http-user-agent=okhttp/5.1.0
-https://bldcmprod-cdn.toffeelive.com/cdn/live/hum_masala/playlist.m3u8
-#EXTINF:-1 group-title="Toffee" tvg-logo="https://assets-prod.services.toffeelive.com/WtPBX5UBm1RY_In7mXEU/posters/188d51f6-aeef-41ed-835b-e25ff911e209.png",HUM Sitaray
-#EXTVLCOPT:http-user-agent=okhttp/5.1.0
-https://bldcmprod-cdn.toffeelive.com/cdn/live/hum_sitaray/playlist.m3u8
 #EXTINF:-1 group-title="Toffee" tvg-logo="https://assets-prod.services.toffeelive.com/xi6xX5UBv9knK3AH9aMk/posters/f4db1c12-b10f-46e8-a09b-e0efb8820970.png",Sony Aath
 #EXTVLCOPT:http-user-agent=okhttp/5.1.0
 https://bldcmprod-cdn.toffeelive.com/cdn/live/sonyaath/playlist.m3u8
@@ -949,14 +958,14 @@ https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_entertainment/playlist.m3u8
 https://bldcmprod-cdn.toffeelive.com/cdn/live/b4u_music/playlist.m3u8
 #EXTINF:-1 group-title="Toffee" tvg-logo="https://assets-prod.services.toffeelive.com/ES55-JQBv9knK3AHNDWC/posters/13411be9-62b9-4a99-a062-b6e91dfb1099.webp",Sony SAB HD
 #EXTVLCOPT:http-user-agent=okhttp/5.1.0
-https://bldcmprod-cdn.toffeelive.com/cdn/live/sonysab_hd/playlist.m3u8
+https://bldcmprod-cdn.toffeelive.comcdn/live/sonysab_hd/playlist.m3u8
 #EXTINF:-1 group-title="Toffee" tvg-logo="https://assets-prod.services.toffeelive.com/ltPQX5UBm1RY_In7b3F1/posters/f81d0cc9-c00e-4839-951a-b754e0e6c58f.png",Zee TV HD
 #EXTVLCOPT:http-user-agent=okhttp/5.1.0
 https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_tv_hd/playlist.m3u8
 #EXTINF:-1 group-title="Toffee" tvg-logo="https://assets-prod.services.toffeelive.com/Ai51-JQBv9knK3AH_jWs/posters/663e52a6-1a9f-4458-b4aa-7c03d84972f1.webp",Sony MAX HD
 #EXTVLCOPT:http-user-agent=okhttp/5.1.0
 https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_max_hd/playlist.m3u8
-#EXTINF:-1 group-title="Toffee" tvg-logo="https://assets-prod.services.toffeelive.com/-C7MX5UBv9knK3AHdKOi/posters/b0f0bfe0-f1f3-48b3-83ce-203cd44cafe2.png",Zee Bangla Cinema
+#EXTINF:-1 group-title="Toffee" tvg-logo="",Zee Bangla Cinema
 #EXTVLCOPT:http-user-agent=okhttp/5.1.0
 https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_bangla_cinema/playlist.m3u8
 #EXTINF:-1 group-title="Toffee" tvg-logo="https://assets-prod.services.toffeelive.com/OnSlPJYBcqxnFHJB6lFX/posters/4818f95a-c64a-490f-b310-a49aec026d71.png",Zee Bollywood
@@ -965,10 +974,10 @@ https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_bollywood/playlist.m3u8
 #EXTINF:-1 group-title="Toffee" tvg-logo="https://assets-prod.services.toffeelive.com/Pc3RD5YBtpl-Sbt7doxr/posters/d0f337ab-a7e6-4eed-bc7b-7d51fdc70a0f.png",Zee Action
 #EXTVLCOPT:http-user-agent=okhttp/5.1.0
 https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_action/playlist.m3u8
-#EXTINF:-1 group-title="Toffee" tvg-logo="https://assets-prod.services.toffeelive.com/Ay52-JQBv9knK3AHFDWt/posters/00afb30b-3c19-4c4c-abd8-891db94e4767.webp",Sony MAX
+#EXTINF:-1 group-title="Toffee" tvg-logo="",Sony MAX
 #EXTVLCOPT:http-user-agent=okhttp/5.1.0
 https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_max/playlist.m3u8
-#EXTINF:-1 group-title="Toffee" tvg-logo="https://assets-prod.services.toffeelive.com/Ly6C-JQBv9knK3AHOjXt/posters/252e64ca-8d99-46e7-a951-e10c1703c11d.webp",Sony PIX HD
+#EXTINF:-1 group-title="Toffee" tvg-logo="",Sony PIX HD
 #EXTVLCOPT:http-user-agent=okhttp/5.1.0
 https://bldcmprod-cdn.toffeelive.com/cdn/live/sonypix_hd/playlist.m3u8
 #EXTINF:-1 group-title="Toffee" tvg-logo="https://assets-prod.services.toffeelive.com/U3QEd5YBcqxnFHJBpYzc/posters/3442d493-0c71-44b9-b12f-8e600d5eab91.png",Zee Cafe
@@ -1013,9 +1022,6 @@ https://bldcmprod-cdn.toffeelive.com/cdn/live/discovery_turbo/playlist.m3u8
 #EXTINF:-1 group-title="Toffee" tvg-logo="https://assets-prod.services.toffeelive.com/ay7uX5UBv9knK3AHs6TI/posters/deb3c186-b2e1-4a91-aafb-d86f9128b851.png",Investigation Discovery HD
 #EXTVLCOPT:http-user-agent=okhttp/5.1.0
 https://bldcmprod-cdn.toffeelive.com/cdn/live/discovary_investigation_hd/playlist.m3u8
-#EXTINF:-1 group-title="Toffee" tvg-logo="https://assets-prod.services.toffeelive.com/5cwRnZUBtpl-Sbt7wWrN/posters/5779ade3-e9ba-4107-b3da-bae6f891500a.png",&TV HD
-#EXTVLCOPT:http-user-agent=okhttp/5.1.0
-https://bldcmprod-cdn.toffeelive.com/cdn/live/and_tv_hd/playlist.m3u8
 #EXTINF:-1 group-title="Toffee" tvg-logo="https://assets-prod.services.toffeelive.com/QMwWnZUBtpl-Sbt7S2sx/posters/f2e6acfd-0031-4ca4-b954-c014a0c99058.png",& Pictures HD
 #EXTVLCOPT:http-user-agent=okhttp/5.1.0
 https://bldcmprod-cdn.toffeelive.com/cdn/live/andpicture_hd/playlist.m3u8
