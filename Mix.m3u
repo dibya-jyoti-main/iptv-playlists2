@@ -1,7 +1,7 @@
 #=================================
 # 🖥️ Developed by: Dibya Jyoti
-# 🕒 Last Updated: 2026-07-20 09:20:19 (BD Time)
-# 📺 Channels Count: 413
+# 🕒 Last Updated: 2026-07-20 15:16:50 (BD Time)
+# 📺 Channels Count: 387
 # 🔒 Usage: Personal / Educational
 #=================================
 #EXTM3U
@@ -377,72 +377,12 @@ http://monirul.bro.bd/sm/live.php?id=natgeo_bangla_hd&e=.m3u8
 http://monirul.bro.bd/sm/live.php?id=madani_tv&e=.m3u8
 #EXTINF:-1 tvg-id="peace_tv_bangla" tvg-logo="https://ottking.top/cdn/image/Peace-TV.png" group-title="IPTV_BDIX",PEACE TV BANGLA
 http://monirul.bro.bd/sm/live.php?id=peace_tv_bangla&e=.m3u8
-#EXTINF:-1 tvg-id="t sports" tvg-name="T-Sports" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="World_Cup",Football World Cup
-https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1783440983-0-0-
-#EXTINF:-1 tvg-id="toffee" tvg-name="Fifa World Cup" tvg-logo="https://i.imgur.com/53aSeDH.png" group-title="World_Cup",Toffee
-https://s2.bufaloweb.com/bufalo9/tracks-v4a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/X7qgs8BY/images-d47abaf70fb3ea50af7cdf455ccab5a6-goplay-bioscope-icon-transparent-app.png"  group-title="World_Cup",Bioscope
-https://fifa-stream-01.bioscopelive.com/out/v1/60e7608404004b1186261497b404630b/index.m3u8
-#EXTINF:-1 tvg-id="t sports" tvg-name="T-Sports" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="World_Cup",Football World Cup
-https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_6.m3u8
-#EXTINF:-1 tvg-id="t sports" tvg-name="T-Sports" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="World_Cup",Football World Cup
-https://tfxl1gwh1hcjigezdncb3fahdrmmcpf5gkce.100ycdn.com/live1.streambylivepulse.com/live/channel6/playlist.m3u8?wsSecret=3843feb764c2a2b81a5169383f8e26d4&wsABSTime=1784182501&wsSession=da91794d1c82a6518aab13e0-178413930348783&wsIPSercert=b7031d922ec6c56c5993cc6d76628bf5&wsBindIP=2&wsserid=1168262300818150876
-#EXTINF:-1 tvg-id="t sports" tvg-name="T-Sports" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="World_Cup",Football World Cup
-https://live05.miekgo.app/live/78905744.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="World_Cup", Channel 1 (Caze TV)
-https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="World_Cup", Channel 2 (Live Stream)
-https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1783440983-0-0-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="World_Cup", Channel 3 (Batu Test)
-https://andro.evrenesoglu57.click/checklist/batutest.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="World_Cup", Channel 4 (Live Stream Ali)
-https://live01-cn-ali.bvjicd.com/live/79361366.m3u8?nocache=1784052953102
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQ5LftTh/1000113687.png" group-title="World_Cup",Channel
-#EXTVLCOPT:http-referrer=https://live.sportzfy.life/
-https://spown.pull-sp-tail-op.online/stream69?&.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQ5LftTh/1000113687.png" group-title="World_Cup",Channel 1
-https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQ5LftTh/1000113687.png" group-title="World_Cup",Channel 2
-http://192.168.91.8/streams/118/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQ5LftTh/1000113687.png" group-title="World_Cup",Channel 3
-http://192.168.91.8/streams/119/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQ5LftTh/1000113687.png" group-title="World_Cup",Channel 4
-http://10.20.30.40:8088/102/index.m3u8?token=4e496d9118cd8165821aa51f51c1ada40cb18b32-e10fc935623f1b82a862774d1ea4c6a3-1784487468-1784483868
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQ5LftTh/1000113687.png" group-title="World_Cup",Channel 5
-http://172.19.178.148:18190/tspsn/index.fmp4.m3u8?token=a8ba55724be1bb2911da2778425877c38623da56-cceca3384a6a9e63c538af513f83ee16-1784495044-1784483944
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQ5LftTh/1000113687.png" group-title="World_Cup",Channel 6
-http://172.19.178.148:18190/feed_fifa2/index.fmp4.m3u8?token=76420700eb463959b4f3eb623b38511ffadd6884-65f66b9e0cffcce6691a9255ff67ed40-1784495105-1784484005
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQ5LftTh/1000113687.png" group-title="World_Cup",Channel 7
-http://172.19.178.149:18190/t_sports_vip/index.fmp4.m3u8?token=9caecc0cb7a1e2c6cc8b16a15c81314f5eb1f4fe-891f032f73917aec656922888b4a63bc-1784495088-1784483988
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQ5LftTh/1000113687.png" group-title="World_Cup",Channel 8
-https://mycoffeetime.net/play/tSDRdsaoGGQ2qYgRPDEe9q-qMIzoahbJArH3W3vOiEaB97nXMpWmLb0Ts759Tjsp/m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQ5LftTh/1000113687.png" group-title="World_Cup",Channel 9 (DRM Protected)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
-https://otte-qw.live.pv-cdn.net/lhr-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/t-sports-2.png" group-title="SM_IPTV",T Sports 2
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
 http://book4u.top/royr/index.php?id=liveventfuck
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/t-sports-2.png" group-title="SM_IPTV",T Sports 2
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
 http://book4u.top/royr/index.php?id=FiFaaaah
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjj11e2baU9UsWykv-77SZq8qG53p7y4Sit-9sA-3IwwaSfwfP-aMgkkEJCBOzaBBkLJXuL8N2w3qqVh05ymPVDseW-Y2vPA8Ch8Ogq-4DLybL6PiSI5tE_hlhMOu-O7TL-W8w8_UjO6cjHEVUn76-4lLvVMgIw3i4hxOmRvZy1TAcJsCgEqTPpRI9d/s1600/Bangladesh-vs-Zimbabwe-Schedule.jpg" group-title="SM_IPTV",Bangladesh vs Zimbabwe
-#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
-https://babu.khelalive.top/vids/tapmad.php?proxy=https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/w_256,q_75,f_webp/V__o054BObUt2AG6LL5C/posters/84590b8d-6430-4ba8-a0a5-757bf2f57c05.png" group-title="SM_IPTV",WC Match Recap
-#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
-https://babu.khelalive.top/vids/fika/stream.php?id=V__o054BObUt2AG6LL5C
-#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/fifa-world-cup-2026.png" group-title="SM_IPTV",FIFA World Cup 2026
-#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
-https://pup.artiover.online/meoon3.m3u8
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/w_256,q_75,f_webp/zUGrjZ4BuUSiBsg_1BeE/posters/a1152aa0-10ca-451c-8054-26633aa13fde.png" group-title="SM_IPTV",FIFA WC CHANNEL 1
-#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
-https://babu.khelalive.top/vids/fika/stream.php?id=zUGrjZ4BuUSiBsg_1BeE
-#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/fifa-world-cup-2026-zaship1gb25v.png" group-title="SM_IPTV",FIFA World Cup 2026
-#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
-https://babu.khelalive.top/vids/bioscope.php?id=60e7608404004b1186261497b404630b
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/srk-tv.jpg" group-title="SM_IPTV",SRK TV
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
 https://srkapp.ncare.live/flixhls/flixsrktv.stream/playlist.m3u8
@@ -824,14 +764,11 @@ https://madanitv.assadikb.workers.dev/live.php?id=144&e=.m3u8
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-tv-hd.png" group-title="SM_IPTV",Zee TV HD
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
 https://book4u.top/worker/index.php?path=api/37788832c8/playlist.m3u8
-#EXTINF:-1 tvg-name="West Indies Vs New Zealand [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/NZ-vs-WI_Odi_fc-web.png" group-title="Fancode",West Indies Vs New Zealand [LIVE]
-https://bd-mc-flive.fancode.com/mumbai/143606_english_hls_da7fa7ed2c55813_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784572627~_GO=Generated~acl=/mumbai/143606_english_hls_da7fa7ed2c55813_1ta-di_h264/*~Signature=AeRM5cXv70SHrNzLXUdFyvv3BathUEfxUkeQcQGa_rJsZBBvqveM-Z8MgkaV3yHmTidQjTZs8Ep86pOWU6QKQD3DvDgH
+#EXTINF:-1 tvg-name="Day 1 [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-ATP250_fc-web.jpg" group-title="Fancode",Day 1 [LIVE]
+https://bd-mc-flive.fancode.com/mumbai/143503_english_hls_24528696b146922_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784623865~_GO=Generated~acl=/mumbai/143503_english_hls_24528696b146922_1ta-di_h264/*~Signature=AeRM5cUQxgCsLpu4BmnJpblujF6wBrARJu7wSDGXBn-8zS45GUG6KzuphtWdZqZlB5DGBaeg98u5BEbnYr5Q8S-mWOYC
 #EXTINF:-1 group-title="Toffee" tvg-logo="https://assets-prod.services.toffeelive.com/DNMXs5UBm1RY_In7IJ72/posters/5638c4e8-36ba-4e8e-848e-233183b3ec17.png",Toffee Dramas
 #EXTVLCOPT:http-user-agent=okhttp/5.1.0
 https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_drama/playlist.m3u8
-#EXTINF:-1 group-title="Toffee" tvg-logo="https://assets-prod.services.toffeelive.com/zUGrjZ4BuUSiBsg_1BeE/posters/6d843895-07a0-4c03-b767-aabb833e2b2b.png",ENG VS ARG
-#EXTVLCOPT:http-user-agent=okhttp/5.1.0
-https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/sst/index.m3u8?edge-cache-token=Expires=1784520074~Starts=1784512874~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiOTQ2YmNmNTQtZTAxZC00NjkzLThiYTQtMzExMTRiZjQxMjJmIn0~Signature=uFppjE7vnC2A6OadqeMG9j75ZA_zlzipOKkmdCnJ6H3Z0pC2gqCkSeFjhauoGF5O09VHaYVOXJSIQuV2jRCxCg
 #EXTINF:-1 group-title="Toffee" tvg-logo="https://assets-prod.services.toffeelive.com/V__o054BObUt2AG6LL5C/posters/84590b8d-6430-4ba8-a0a5-757bf2f57c05.png",Match Rewatch
 #EXTVLCOPT:http-user-agent=okhttp/5.1.0
 https://bldcmprod-cdn.toffeelive.com/cdn/live/fifa_world_cup/playlist.m3u8
