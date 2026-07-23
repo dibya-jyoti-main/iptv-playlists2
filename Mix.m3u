@@ -1,7 +1,7 @@
 #=================================
 # 🖥️ Developed by: Dibya Jyoti
-# 🕒 Last Updated: 2026-07-23 22:27:35 (BD Time)
-# 📺 Channels Count: 330
+# 🕒 Last Updated: 2026-07-24 01:20:10 (BD Time)
+# 📺 Channels Count: 327
 # 🔒 Usage: Personal / Educational
 #=================================
 #EXTM3U
@@ -635,19 +635,11 @@ https://madanitv.assadikb.workers.dev/live.php?id=144&e=.m3u8
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-tv-hd.png" group-title="SM_IPTV",Zee TV HD
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
 https://book4u.top/worker/index.php?path=api/37788832c8/playlist.m3u8
-#EXTINF:-1 tvg-name="Nepal Vs Netherlands [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4246704_52990_NED_NEP_fc-App.png" group-title="Fancode",Nepal Vs Netherlands [LIVE]
-https://bd-mc-pdlive.fancode.com/mumbai/4246704_english_hls_37559e4d8d64597_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-name="Galle Gallants Vs Jaffna Kings [LIVE]" tvg-logo="https://images.fancode.com/aig/match/v1784105762377/4246716_CASACARDS_SPORTY_APP.png" group-title="Fancode",Galle Gallants Vs Jaffna Kings [LIVE]
-https://bd-mc-pdlive.fancode.com/mumbai/4246716_english_hls_71735fd3b99618_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-name="Lahore Qalandars Vs Perth Scorchers Xi [LIVE]" tvg-logo="https://images.fancode.com/aig/match/v1784653587316/4247434_CASACARDS_SPORTY_APP.png" group-title="Fancode",Lahore Qalandars Vs Perth Scorchers Xi [LIVE]
-https://bd-mc-pdlive.fancode.com/mumbai/4247434_english_hls_93200e1fa585360_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-name="Day 4 [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-ATP250_fc-web.jpg" group-title="Fancode",Day 4 [LIVE]
-https://bd-mc-pdlive.fancode.com/mumbai/143506_english_hls_e9c5d7161439256_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-name="Atp 250   Millenium Estoril Open 2026 [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/104.png" group-title="Fancode",Atp 250   Millenium Estoril Open 2026 [LIVE]
 https://bd-mc-pdlive.fancode.com/mumbai/143512_english_hls_f0a7cbbf8d12306_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-name="Day 1   Main Feed [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/3M-Open-2026-old.png" group-title="Fancode",Day 1   Main Feed [LIVE]
 https://bd-mc-pdlive.fancode.com/mumbai/4246798_english_hls_6a73b2985b60537_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="tapmad-15219" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17847105391020x576women.jpg" group-title="Tapmad", London Spirit vs Manchester Super Giants - Women | The Hundred Women's Competition 2026
+#EXTINF:-1 tvg-id="tapmad-15185" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17847109701020x576men.jpg" group-title="Tapmad", London Spirit vs Manchester Super Giants | The Hundred Men's Competition 2026
 https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-15382" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17846235651020x576.jpg" group-title="Tapmad", EA Sports FC 26 - Day 2 | Esports World Cup 2026 (EWC)
 https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
@@ -854,7 +846,8 @@ https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
 #EXTINF:-1 tvg-id="TomandJerry2" tvg-logo="https://gia.tv/streams/pptv/208314.jpg?1750373428" group-title="Cartoon",0. Tom and Jerry 2
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
-#EXTINF:-1 tvg-id="doraemon" tvg-logo="https://i.postimg.cc/KzkJZV7Z/Hridoy-TV-new-channel-(16).webp" group-title="Cartoon",0. Doraemon
+#EXTINF:-1 tvg-id="doraemon" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIFP63-xpmAbHAteQeLdQT7vKNgkeVfM4OS320z84L_Q&s=10" group-title="Cartoon",0.Hungama
+#EXTINF:-1 tvg-id="doraemon" tvg-logo="https://i.postimg.cc/KzkJZV7Z/Hridoy-TV-new-channel-(16).webp" group-title="Cartoon",0. desney
 http://119.156.228.231:9983/stream/channelid/1324398660?ticket=7C95F3E4488C36F06FC0D96EDED00B3813CA10A9&profile=pass
 #EXTINF:-1 tvg-id="USBB1900004J9" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB1900004J9_20240520T214715SQUARE.png" group-title="Cartoon",0. Toon Goggles
 https://d1eg24xrsfr6kv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-b4b1bzxkt1uzo-prod/tg/tg/tg.m3u8
