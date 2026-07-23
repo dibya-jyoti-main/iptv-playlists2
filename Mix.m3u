@@ -1,7 +1,7 @@
 #=================================
 # 🖥️ Developed by: Dibya Jyoti
-# 🕒 Last Updated: 2026-07-23 11:56:04 (BD Time)
-# 📺 Channels Count: 323
+# 🕒 Last Updated: 2026-07-23 14:36:18 (BD Time)
+# 📺 Channels Count: 324
 # 🔒 Usage: Personal / Educational
 #=================================
 #EXTM3U
@@ -635,10 +635,12 @@ https://madanitv.assadikb.workers.dev/live.php?id=144&e=.m3u8
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-tv-hd.png" group-title="SM_IPTV",Zee TV HD
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
 https://book4u.top/worker/index.php?path=api/37788832c8/playlist.m3u8
-#EXTINF:-1 tvg-name="Atp 250   Millenium Estoril Open 2026 [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/104.png" group-title="Fancode",Atp 250   Millenium Estoril Open 2026 [LIVE]
-https://bd-mc-pdlive.fancode.com/mumbai/143511_english_hls_a68c16eafb19863_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-name="Sri Lanka Women Vs Pakistan Women [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanka-vs-Pakistan-Womens-ODI-Series-Old-Match-card.jpg" group-title="Fancode",Sri Lanka Women Vs Pakistan Women [LIVE]
+https://bd-mc-pdlive.fancode.com/mumbai/4247425_english_hls_c77d2adc1321506_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="tapmad-15471" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17847244581020x576.jpg" group-title="Tapmad", Sri Lanka Women vs Pakistan Women | Pakistan Women Tour of Sri Lanka 2026
 https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-15412" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17847119541020x576.jpg" group-title="Tapmad", Sri Lanka vs Nepal | CAVA Men's Volleyball Championship 2026
+https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
 #EXTINF:-1 group-title="Toffee" tvg-logo="https://assets-prod.services.toffeelive.com/DNMXs5UBm1RY_In7IJ72/posters/5638c4e8-36ba-4e8e-848e-233183b3ec17.png",Toffee Dramas
 #EXTVLCOPT:http-user-agent=okhttp/5.1.0
 https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_drama/playlist.m3u8
