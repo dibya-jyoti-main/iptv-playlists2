@@ -1,7 +1,7 @@
 #=================================
 # 🖥️ Developed by: Dibya Jyoti
-# 🕒 Last Updated: 2026-07-23 20:04:11 (BD Time)
-# 📺 Channels Count: 331
+# 🕒 Last Updated: 2026-07-23 22:27:35 (BD Time)
+# 📺 Channels Count: 330
 # 🔒 Usage: Personal / Educational
 #=================================
 #EXTM3U
@@ -637,10 +637,6 @@ https://madanitv.assadikb.workers.dev/live.php?id=144&e=.m3u8
 https://book4u.top/worker/index.php?path=api/37788832c8/playlist.m3u8
 #EXTINF:-1 tvg-name="Nepal Vs Netherlands [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4246704_52990_NED_NEP_fc-App.png" group-title="Fancode",Nepal Vs Netherlands [LIVE]
 https://bd-mc-pdlive.fancode.com/mumbai/4246704_english_hls_37559e4d8d64597_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-name="Zimbabwe Vs India [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ZIM-vs-IND_T20Is_fc-web.jpg" group-title="Fancode",Zimbabwe Vs India [LIVE]
-Unavailable
-#EXTINF:-1 tvg-name="Zimbabwe Vs India [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ZIM-vs-IND_T20Is_fc-web.jpg" group-title="Fancode",Zimbabwe Vs India [LIVE]
-Unavailable
 #EXTINF:-1 tvg-name="Galle Gallants Vs Jaffna Kings [LIVE]" tvg-logo="https://images.fancode.com/aig/match/v1784105762377/4246716_CASACARDS_SPORTY_APP.png" group-title="Fancode",Galle Gallants Vs Jaffna Kings [LIVE]
 https://bd-mc-pdlive.fancode.com/mumbai/4246716_english_hls_71735fd3b99618_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-name="Lahore Qalandars Vs Perth Scorchers Xi [LIVE]" tvg-logo="https://images.fancode.com/aig/match/v1784653587316/4247434_CASACARDS_SPORTY_APP.png" group-title="Fancode",Lahore Qalandars Vs Perth Scorchers Xi [LIVE]
@@ -653,6 +649,8 @@ https://bd-mc-pdlive.fancode.com/mumbai/143512_english_hls_f0a7cbbf8d12306_1ta-d
 https://bd-mc-pdlive.fancode.com/mumbai/4246798_english_hls_6a73b2985b60537_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="tapmad-15219" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17847105391020x576women.jpg" group-title="Tapmad", London Spirit vs Manchester Super Giants - Women | The Hundred Women's Competition 2026
 https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-15382" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17846235651020x576.jpg" group-title="Tapmad", EA Sports FC 26 - Day 2 | Esports World Cup 2026 (EWC)
+https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
 #EXTINF:-1 group-title="Toffee" tvg-logo="https://assets-prod.services.toffeelive.com/DNMXs5UBm1RY_In7IJ72/posters/5638c4e8-36ba-4e8e-848e-233183b3ec17.png",Toffee Dramas
 #EXTVLCOPT:http-user-agent=okhttp/5.1.0
 https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_drama/playlist.m3u8
