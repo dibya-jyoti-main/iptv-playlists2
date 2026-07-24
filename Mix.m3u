@@ -1,7 +1,7 @@
 #=================================
 # 🖥️ Developed by: Dibya Jyoti
-# 🕒 Last Updated: 2026-07-24 17:04:17 (BD Time)
-# 📺 Channels Count: 327
+# 🕒 Last Updated: 2026-07-24 19:47:33 (BD Time)
+# 📺 Channels Count: 328
 # 🔒 Usage: Personal / Educational
 #=================================
 #EXTM3U
@@ -637,11 +637,13 @@ https://madanitv.assadikb.workers.dev/live.php?id=144&e=.m3u8
 https://book4u.top/worker/index.php?path=api/37788832c8/playlist.m3u8
 #EXTINF:-1 tvg-name="Day 2   World Feed [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ISPS-Handa-Womens-Scottish-Open-2026-old-match-card.jpg" group-title="Fancode",Day 2   World Feed [LIVE]
 https://bd-mc-pdlive.fancode.com/mumbai/4247418_english_hls_91bd793e2f64097_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-name="Free Practice 1 [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-MatchCard_1784602530930.png" group-title="Fancode",Free Practice 1 [LIVE]
-https://bd-mc-pdlive.fancode.com/mumbai/143796_english_hls_281f4906be4698_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-name="Practice Session [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F2_mini_matchcard.jpg" group-title="Fancode",Practice Session [LIVE]
-https://bd-mc-pdlive.fancode.com/mumbai/139642_english_hls_45e379dbe128076_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="tapmad-15410" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17847969781020x576.jpg" group-title="Tapmad", Bangladesh vs Kazakhstan | CAVA Men's Volleyball Championship 2026
+#EXTINF:-1 tvg-name="Day 5 [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-ATP250_fc-web.jpg" group-title="Fancode",Day 5 [LIVE]
+https://bd-mc-pdlive.fancode.com/mumbai/143507_english_hls_829309fa7559979_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-name="Day 5 [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/104.png" group-title="Fancode",Day 5 [LIVE]
+https://bd-mc-pdlive.fancode.com/mumbai/143513_english_hls_3b01c8cfce63305_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-name="Practice 1 [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Hungarian_GP_2026_web.jpg" group-title="Fancode",Practice 1 [LIVE]
+https://bd-mc-pdlive.fancode.com/mumbai/139472_english_hls_a535b4b48330732_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="tapmad-15411" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17847969131020x576.jpg" group-title="Tapmad", Pakistan vs Nepal | CAVA Men's Volleyball Championship 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
 #EXTINF:-1 group-title="Toffee" tvg-logo="https://assets-prod.services.toffeelive.com/DNMXs5UBm1RY_In7IJ72/posters/5638c4e8-36ba-4e8e-848e-233183b3ec17.png",Toffee Dramas
 #EXTVLCOPT:http-user-agent=okhttp/5.1.0
