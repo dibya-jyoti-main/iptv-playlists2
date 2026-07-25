@@ -1,7 +1,7 @@
 #=================================
 # 🖥️ Developed by: Dibya Jyoti
-# 🕒 Last Updated: 2026-07-25 19:36:50 (BD Time)
-# 📺 Channels Count: 437
+# 🕒 Last Updated: 2026-07-25 22:04:59 (BD Time)
+# 📺 Channels Count: 434
 # 🔒 Usage: Personal / Educational
 #=================================
 #EXTM3U
@@ -839,27 +839,21 @@ https://madanitv.assadikb.workers.dev/live.php?id=144&e=.m3u8
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-tv-hd.png" group-title="SM_IPTV",Zee TV HD
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
 https://book4u.top/worker/index.php?path=api/37788832c8/playlist.m3u8
-#EXTINF:-1 tvg-name="India Vs Zimbabwe [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ZIM-vs-IND_T20Is_fc-web.jpg" group-title="Fancode",India Vs Zimbabwe [LIVE]
-Unavailable
-#EXTINF:-1 tvg-name="India Vs Zimbabwe [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ZIM-vs-IND_T20Is_fc-web.jpg" group-title="Fancode",India Vs Zimbabwe [LIVE]
-Unavailable
-#EXTINF:-1 tvg-name="Pakistan Women Vs Sri Lanka Women [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanka-vs-Pakistan-Womens-ODI-Series-Old-Match-card.jpg" group-title="Fancode",Pakistan Women Vs Sri Lanka Women [LIVE]
-https://bd-mc-pdlive.fancode.com/mumbai/4247426_english_hls_65d82e3e4c86377_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-name="Netherlands Vs Namibia [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4246705_52990_NAM_NED_fc-App.png" group-title="Fancode",Netherlands Vs Namibia [LIVE]
 Unavailable
-#EXTINF:-1 tvg-name="Galle Gallants Vs Kandy Royals [LIVE]" tvg-logo="https://images.fancode.com/aig/match/v1784105762377/4246722_CASACARDS_SPORTY_APP.png" group-title="Fancode",Galle Gallants Vs Kandy Royals [LIVE]
-https://bd-mc-pdlive.fancode.com/mumbai/4246722_english_hls_dbf98ca42d71277_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-name="Day 6 [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-ATP250_fc-web.jpg" group-title="Fancode",Day 6 [LIVE]
-https://bd-mc-pdlive.fancode.com/mumbai/143508_english_hls_92168a39226791_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-name="Race 1 [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-MatchCard_1784602530930.png" group-title="Fancode",Race 1 [LIVE]
-https://bd-mc-pdlive.fancode.com/mumbai/143799_english_hls_c362f1d13033774_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-name="Colombo Kaps Vs Dambulla Sixers [LIVE]" tvg-logo="https://images.fancode.com/aig/match/v1784105762376/4246721_CASACARDS_SPORTY_APP.png" group-title="Fancode",Colombo Kaps Vs Dambulla Sixers [LIVE]
+https://bd-mc-pdlive.fancode.com/mumbai/4246721_english_hls_414959cb1224583_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-name="West Indies Vs Pakistan [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pakistan-Tour-of-West-Indies-2026-old1.png" group-title="Fancode",West Indies Vs Pakistan [LIVE]
+https://bd-mc-pdlive.fancode.com/mumbai/143633_english_hls_37959550fb58134_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-name="Day 3   World Feed [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ISPS-Handa-Womens-Scottish-Open-2026-old-match-card.jpg" group-title="Fancode",Day 3   World Feed [LIVE]
 https://bd-mc-pdlive.fancode.com/mumbai/4247419_english_hls_7529753d6233196_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="tapmad-15221" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17848753681020x576women.jpg" group-title="Tapmad", Sunrisers Leeds vs Southern Brave - Women | The Hundred Women's Competition 2026
+#EXTINF:-1 tvg-name="Day 3   Main Feed [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/3M-Open-2026-old.png" group-title="Fancode",Day 3   Main Feed [LIVE]
+https://bd-mc-pdlive.fancode.com/mumbai/4246803_english_hls_7c0d958ec349342_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="tapmad-15187" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17848756971020x576men.jpg" group-title="Tapmad", Sunrisers Leeds vs Southern Brave | The Hundred Men's Competition 2026
 https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-15344" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17847994121020x576.jpg" group-title="Tapmad", Women's Semi Final A Session - World Championships Kaunas, Lithuania Live | UIPM 2026
-https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-258tjui/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-15472" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17847981811020x576.jpg" group-title="Tapmad", Sri Lanka Women vs Pakistan Women | Pakistan Women Tour of Sri Lanka 2026
+#EXTINF:-1 tvg-id="tapmad-15335" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17845507451020x576.jpg" group-title="Tapmad", West indies vs Pakistan | Pakistan Tour of West Indies 2026
+https://saseries.akamaized.net/hls/live/2110097/PAKvsWI-TesT-tapmad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-14954" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17847974191020x576.jpg" group-title="Tapmad", Ankalaev vs Guskov | UFC 2026
 https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-15384" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17848783901020x576.jpg" group-title="Tapmad", EA Sports FC 26 - Day 4 | Esports World Cup 2026 (EWC)
 https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8
