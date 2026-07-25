@@ -1,7 +1,7 @@
 #=================================
 # 🖥️ Developed by: Dibya Jyoti
-# 🕒 Last Updated: 2026-07-25 08:46:10 (BD Time)
-# 📺 Channels Count: 428
+# 🕒 Last Updated: 2026-07-25 11:44:01 (BD Time)
+# 📺 Channels Count: 430
 # 🔒 Usage: Personal / Educational
 #=================================
 #EXTM3U
@@ -839,12 +839,16 @@ https://madanitv.assadikb.workers.dev/live.php?id=144&e=.m3u8
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-tv-hd.png" group-title="SM_IPTV",Zee TV HD
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
 https://book4u.top/worker/index.php?path=api/37788832c8/playlist.m3u8
-#EXTINF:-1 tvg-name="Day 5 [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/104.png" group-title="Fancode",Day 5 [LIVE]
-https://bd-mc-pdlive.fancode.com/mumbai/143513_english_hls_3b01c8cfce63305_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-name="Day 2   World Feed [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/3M-Open-2026-old.png" group-title="Fancode",Day 2   World Feed [LIVE]
-https://bd-mc-pdlive.fancode.com/mumbai/4246802_english_hls_ed162f87aa89844_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="tapmad-15514" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17849204891020x576.jpg" group-title="Tapmad", GT World Challenge Australia powered by AWS - Qualifiers Live | GT World Challenge EU & Asia 2026
+#EXTINF:-1 tvg-name="Pakistan Women Vs Sri Lanka Women [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanka-vs-Pakistan-Womens-ODI-Series-Old-Match-card.jpg" group-title="Fancode",Pakistan Women Vs Sri Lanka Women [LIVE]
+https://bd-mc-pdlive.fancode.com/mumbai/4247426_english_hls_65d82e3e4c86377_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-name="Malaysia Xi Vs Sea Hawks Cricket Club [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Malaysia-and-Sea-Hawks-Cricket-Club-old-match-card.jpg" group-title="Fancode",Malaysia Xi Vs Sea Hawks Cricket Club [LIVE]
+https://bd-mc-pdlive.fancode.com/mumbai/4247198_english_hls_4e2b6a33c555878_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-name="Japan   Race 1 [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series-Suzuka-2026-old.-psd.png" group-title="Fancode",Japan   Race 1 [LIVE]
+https://bd-mc-pdlive.fancode.com/mumbai/143794_english_hls_fafc6faf7b4112_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="tapmad-15530" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17849226281020x576.jpg" group-title="Tapmad", Motorcraft Mustang Cup Australia Race 1 Live | GT World Challenge EU & Asia 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-258tjui/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-15472" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17847981811020x576.jpg" group-title="Tapmad", Sri Lanka Women vs Pakistan Women | Pakistan Women Tour of Sri Lanka 2026
+https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
 #EXTINF:-1 group-title="Toffee" tvg-logo="https://assets-prod.services.toffeelive.com/DNMXs5UBm1RY_In7IJ72/posters/5638c4e8-36ba-4e8e-848e-233183b3ec17.png",Toffee Dramas
 #EXTVLCOPT:http-user-agent=okhttp/5.1.0
 https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_drama/playlist.m3u8
