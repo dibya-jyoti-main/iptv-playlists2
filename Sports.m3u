@@ -1,18 +1,16 @@
 #=================================
 # 🖥️ Developed by: Dibya Jyoti
-# 🕒 Last Updated: 2026-07-25 22:04:59 (BD Time)
-# 📺 Channels Count: 5
+# 🕒 Last Updated: 2026-07-26 01:09:10 (BD Time)
+# 📺 Channels Count: 4
 # 🔒 Usage: Personal / Educational
 #=================================
 #EXTM3U
 
-#EXTINF:-1 tvg-name="Netherlands Vs Namibia [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4246705_52990_NAM_NED_fc-App.png" group-title="Cricket",Netherlands Vs Namibia [LIVE]
-Unavailable
-#EXTINF:-1 tvg-name="Colombo Kaps Vs Dambulla Sixers [LIVE]" tvg-logo="https://images.fancode.com/aig/match/v1784105762376/4246721_CASACARDS_SPORTY_APP.png" group-title="Cricket",Colombo Kaps Vs Dambulla Sixers [LIVE]
-https://bd-mc-pdlive.fancode.com/mumbai/4246721_english_hls_414959cb1224583_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-name="West Indies Vs Pakistan [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pakistan-Tour-of-West-Indies-2026-old1.png" group-title="Cricket",West Indies Vs Pakistan [LIVE]
 https://bd-mc-pdlive.fancode.com/mumbai/143633_english_hls_37959550fb58134_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-name="Day 3   World Feed [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ISPS-Handa-Womens-Scottish-Open-2026-old-match-card.jpg" group-title="Golf",Day 3   World Feed [LIVE]
-https://bd-mc-pdlive.fancode.com/mumbai/4247419_english_hls_7529753d6233196_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-name="Day 3   Main Feed [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/3M-Open-2026-old.png" group-title="Golf",Day 3   Main Feed [LIVE]
 https://bd-mc-pdlive.fancode.com/mumbai/4246803_english_hls_7c0d958ec349342_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-name="Day 6 [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/104.png" group-title="Tennis",Day 6 [LIVE]
+https://bd-mc-pdlive.fancode.com/mumbai/143514_english_hls_9205c863a887330_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-name="Day 3   World Feed [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/3M-Open-2026-old.png" group-title="Golf",Day 3   World Feed [LIVE]
+https://bd-mc-pdlive.fancode.com/mumbai/4246804_english_hls_4519eb4cde71293_1ta-di_h264/index.m3u8
