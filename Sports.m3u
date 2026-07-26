@@ -1,18 +1,16 @@
 #=================================
 # 🖥️ Developed by: Dibya Jyoti
-# 🕒 Last Updated: 2026-07-26 19:25:17 (BD Time)
-# 📺 Channels Count: 5
+# 🕒 Last Updated: 2026-07-26 22:02:15 (BD Time)
+# 📺 Channels Count: 4
 # 🔒 Usage: Personal / Educational
 #=================================
 #EXTM3U
 
-#EXTINF:-1 tvg-name="Jaffna Kings Vs Kandy Royals [LIVE]" tvg-logo="https://images.fancode.com/aig/match/v1784105762383/4246728_CASACARDS_SPORTY_APP.png" group-title="Cricket",Jaffna Kings Vs Kandy Royals [LIVE]
-https://bd-mc-pdlive.fancode.com/mumbai/4246728_english_hls_b1babec60422402_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-name="West Indies Vs Pakistan [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pakistan-Tour-of-West-Indies-2026-old1.png" group-title="Cricket",West Indies Vs Pakistan [LIVE]
 https://bd-mc-pdlive.fancode.com/mumbai/143633_english_hls_37959550fb90160_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-name="Day 4   World Feed [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ISPS-Handa-Womens-Scottish-Open-2026-old-match-card.jpg" group-title="Golf",Day 4   World Feed [LIVE]
-https://bd-mc-pdlive.fancode.com/mumbai/4247420_english_hls_e4f538fa6759596_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-name="Race 2 [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-MatchCard_1784602530930.png" group-title="Motorsports",Race 2 [LIVE]
-https://bd-mc-pdlive.fancode.com/mumbai/143801_english_hls_0f8f9524c923636_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-name="Galle Gallants Vs Dambulla Sixers [LIVE]" tvg-logo="https://images.fancode.com/aig/match/v1784105762383/4246713_CASACARDS_SPORTY_APP.png" group-title="Cricket",Galle Gallants Vs Dambulla Sixers [LIVE]
+https://bd-mc-pdlive.fancode.com/mumbai/4246713_english_hls_17e2efa8db87720_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-name="San Francisco Unicorns Vs Perth Scorchers Xi [LIVE]" tvg-logo="https://images.fancode.com/aig/match/v1784653587314/4247431_CASACARDS_SPORTY_APP.png" group-title="Cricket",San Francisco Unicorns Vs Perth Scorchers Xi [LIVE]
+https://bd-mc-pdlive.fancode.com/mumbai/4247431_english_hls_2e615b273261719_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-name="Day 4   Main Feed [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/3M-Open-2026-old.png" group-title="Golf",Day 4   Main Feed [LIVE]
 https://bd-mc-pdlive.fancode.com/mumbai/4246805_english_hls_302416363781824_1ta-di_h264/index.m3u8
