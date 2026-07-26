@@ -1,10 +1,12 @@
 #=================================
 # 🖥️ Developed by: Dibya Jyoti
-# 🕒 Last Updated: 2026-07-26 12:07:25 (BD Time)
-# 📺 Channels Count: 1
+# 🕒 Last Updated: 2026-07-26 16:45:32 (BD Time)
+# 📺 Channels Count: 2
 # 🔒 Usage: Personal / Educational
 #=================================
 #EXTM3U
 
-#EXTINF:-1 tvg-name="Japan   Race 2 [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series-Suzuka-2026-old.-psd.png" group-title="Motorsports",Japan   Race 2 [LIVE]
-https://bd-mc-pdlive.fancode.com/mumbai/143795_english_hls_abb347c8ca16419_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-name="Jaffna Kings Vs Kandy Royals [LIVE]" tvg-logo="https://images.fancode.com/aig/match/v1784105762383/4246728_CASACARDS_SPORTY_APP.png" group-title="Cricket",Jaffna Kings Vs Kandy Royals [LIVE]
+https://bd-mc-pdlive.fancode.com/mumbai/4246728_english_hls_b1babec60422402_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-name="Race [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F2_mini_matchcard.jpg" group-title="Motorsports",Race [LIVE]
+https://bd-mc-pdlive.fancode.com/mumbai/139645_english_hls_2bc7ee1abc73702_1ta-di_h264/index.m3u8
