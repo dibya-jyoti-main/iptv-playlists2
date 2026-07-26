@@ -1,16 +1,12 @@
 #=================================
 # 🖥️ Developed by: Dibya Jyoti
-# 🕒 Last Updated: 2026-07-26 03:57:22 (BD Time)
-# 📺 Channels Count: 4
+# 🕒 Last Updated: 2026-07-26 08:55:07 (BD Time)
+# 📺 Channels Count: 2
 # 🔒 Usage: Personal / Educational
 #=================================
 #EXTM3U
 
+#EXTINF:-1 tvg-name="Guyana Amazon Warriors Vs Desert Vipers [LIVE]" tvg-logo="https://images.fancode.com/aig/match/v1784653587318/4247437_CASACARDS_SPORTY_APP.png" group-title="Cricket",Guyana Amazon Warriors Vs Desert Vipers [LIVE]
+https://bd-mc-pdlive.fancode.com/mumbai/4247437_english_hls_7d1a57b8d583030_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-name="West Indies Vs Pakistan [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pakistan-Tour-of-West-Indies-2026-old1.png" group-title="Cricket",West Indies Vs Pakistan [LIVE]
 https://bd-mc-pdlive.fancode.com/mumbai/143633_english_hls_37959550fb58134_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-name="Day 3   Main Feed [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/3M-Open-2026-old.png" group-title="Golf",Day 3   Main Feed [LIVE]
-https://bd-mc-pdlive.fancode.com/mumbai/4246803_english_hls_7c0d958ec349342_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-name="Day 6 [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/104.png" group-title="Tennis",Day 6 [LIVE]
-https://bd-mc-pdlive.fancode.com/mumbai/143514_english_hls_9205c863a887330_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-name="Day 3   World Feed [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/3M-Open-2026-old.png" group-title="Golf",Day 3   World Feed [LIVE]
-https://bd-mc-pdlive.fancode.com/mumbai/4246804_english_hls_4519eb4cde71293_1ta-di_h264/index.m3u8
