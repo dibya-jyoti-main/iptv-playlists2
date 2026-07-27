@@ -1,6 +1,6 @@
 #=================================
 # 🖥️ Developed by: Dibya Jyoti
-# 🕒 Last Updated: 2026-07-27 09:20:01 (BD Time)
+# 🕒 Last Updated: 2026-07-27 15:54:42 (BD Time)
 # 📺 Channels Count: 65
 # 🔒 Usage: Personal / Educational
 #=================================
@@ -99,7 +99,7 @@ https://bldcmprod-cdn.toffeelive.com/cdn/live/discovery_kids/playlist.m3u8
 #EXTINF:-1 group-title="Family" tvg-logo="https://assets-prod.services.toffeelive.com/IC5_-JQBv9knK3AHFDXh/posters/36df4012-80f2-4a98-9970-3b663f62093f.webp",Sony YAY
 #EXTVLCOPT:http-user-agent=okhttp/5.1.0
 https://bldcmprod-cdn.toffeelive.com/cdn/live/sonyyay/playlist.m3u8
-#EXTINF:-1 group-title="Drama" tvg-logo="https://assets-prod.services.toffeelive.com/kK2aX5UBrjBfS2_RBcKf/posters/27adfd02-eb19-44e3-9636-34b7be048657.png",Zee Bangla
+#EXTINF:-1 group-title="Drama" tvg-logo="https://assets-prod.services.toffeelive.com/kK2aX5UBrjBfS2_RBcKf/posters/ba5dd8dc-4f87-414a-b57f-c9ecdeda5253.png",Zee Bangla
 #EXTVLCOPT:http-user-agent=okhttp/5.1.0
 https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_bangla/playlist.m3u8
 #EXTINF:-1 group-title="Drama" tvg-logo="https://assets-prod.services.toffeelive.com/7x0Jd5YBEef-9-uVv_Gy/posters/f630a176-73cc-48d7-94cf-69ba0d201b36.png",Zee Anmol

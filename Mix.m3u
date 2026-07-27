@@ -1,7 +1,7 @@
 #=================================
 # 🖥️ Developed by: Dibya Jyoti
-# 🕒 Last Updated: 2026-07-27 09:20:01 (BD Time)
-# 📺 Channels Count: 325
+# 🕒 Last Updated: 2026-07-27 15:54:41 (BD Time)
+# 📺 Channels Count: 327
 # 🔒 Usage: Personal / Educational
 #=================================
 #EXTM3U
@@ -639,6 +639,10 @@ https://book4u.top/worker/index.php?path=api/37788832c8/playlist.m3u8
 https://bd-mc-pdlive.fancode.com/mumbai/4247433_english_hls_690410566e43491_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-name="West Indies Vs Pakistan [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pakistan-Tour-of-West-Indies-2026-old1.png" group-title="Fancode",West Indies Vs Pakistan [LIVE]
 https://bd-mc-pdlive.fancode.com/mumbai/143633_english_hls_37959550fb90160_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="tapmad-15368" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17851318142.jpg" group-title="Tapmad", Women's Final Session - WC Kaunas, Lithuania Live | UIPM 2026
+https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
+#EXTINF:-1 tvg-id="tapmad-15419" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17849006281020x576.jpg" group-title="Tapmad", Bangladesh vs Sri Lanka | CAVA Men's Volleyball Championship 2026
+https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
 #EXTINF:-1 group-title="Toffee" tvg-logo="https://assets-prod.services.toffeelive.com/DNMXs5UBm1RY_In7IJ72/posters/5638c4e8-36ba-4e8e-848e-233183b3ec17.png",Toffee Dramas
 #EXTVLCOPT:http-user-agent=okhttp/5.1.0
 https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_drama/playlist.m3u8
@@ -732,7 +736,7 @@ https://bldcmprod-cdn.toffeelive.com/cdn/live/discovery_kids/playlist.m3u8
 #EXTINF:-1 group-title="Toffee" tvg-logo="https://assets-prod.services.toffeelive.com/IC5_-JQBv9knK3AHFDXh/posters/36df4012-80f2-4a98-9970-3b663f62093f.webp",Sony YAY
 #EXTVLCOPT:http-user-agent=okhttp/5.1.0
 https://bldcmprod-cdn.toffeelive.com/cdn/live/sonyyay/playlist.m3u8
-#EXTINF:-1 group-title="Toffee" tvg-logo="https://assets-prod.services.toffeelive.com/kK2aX5UBrjBfS2_RBcKf/posters/27adfd02-eb19-44e3-9636-34b7be048657.png",Zee Bangla
+#EXTINF:-1 group-title="Toffee" tvg-logo="https://assets-prod.services.toffeelive.com/kK2aX5UBrjBfS2_RBcKf/posters/ba5dd8dc-4f87-414a-b57f-c9ecdeda5253.png",Zee Bangla
 #EXTVLCOPT:http-user-agent=okhttp/5.1.0
 https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_bangla/playlist.m3u8
 #EXTINF:-1 group-title="Toffee" tvg-logo="https://assets-prod.services.toffeelive.com/7x0Jd5YBEef-9-uVv_Gy/posters/f630a176-73cc-48d7-94cf-69ba0d201b36.png",Zee Anmol
