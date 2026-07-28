@@ -1,7 +1,7 @@
 #=================================
 # 🖥️ Developed by: Dibya Jyoti
-# 🕒 Last Updated: 2026-07-28 14:35:56 (BD Time)
-# 📺 Channels Count: 330
+# 🕒 Last Updated: 2026-07-28 17:18:51 (BD Time)
+# 📺 Channels Count: 328
 # 🔒 Usage: Personal / Educational
 #=================================
 #EXTM3U
@@ -644,13 +644,9 @@ https://madanitv.assadikb.workers.dev/live.php?id=144&e=.m3u8
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-tv-hd.png" group-title="SM_IPTV",Zee TV HD
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
 https://fifa.assadikb.workers.dev/?id=zee_tv_hd
-#EXTINF:-1 tvg-name="Pakistan Women Vs Sri Lanka Women [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanka-vs-Pakistan-Womens-ODI-Series-Old-Match-card.jpg" group-title="Fancode",Pakistan Women Vs Sri Lanka Women [LIVE]
-https://bd-mc-pdlive.fancode.com/mumbai/4247427_english_hls_abc2cd096315047_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-name="Malaysia Xi Vs Sea Hawks Cricket Club [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Malaysia-and-Sea-Hawks-Cricket-Club-old-match-card.jpg" group-title="Fancode",Malaysia Xi Vs Sea Hawks Cricket Club [LIVE]
-https://bd-mc-pdlive.fancode.com/mumbai/4247199_english_hls_fafdc64d5b45648_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="tapmad-15473" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17851437391020x576.jpg" group-title="Tapmad", Sri Lanka Women vs Pakistan Women | Pakistan Women Tour of Sri Lanka 2026
-https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-15422" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17851597511020x576.jpg" group-title="Tapmad", Uzbekistan vs Bangladesh | CAVA Men's Volleyball Championship 2026
+#EXTINF:-1 tvg-name="Chelsea Vs Western Sydney Wanderers [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Club_Friendlies_FC-WEB.jpg" group-title="Fancode",Chelsea Vs Western Sydney Wanderers [LIVE]
+https://bd-mc-pdlive.fancode.com/mumbai/4248011_english_hls_5b73c572f157627_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="tapmad-15423" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17852255531020x576.jpg" group-title="Tapmad", Pakistan vs Sri Lanka | CAVA Men's Volleyball Championship 2026
 https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8
 #EXTINF:-1 group-title="Toffee" tvg-logo="https://assets-prod.services.toffeelive.com/DNMXs5UBm1RY_In7IJ72/posters/5638c4e8-36ba-4e8e-848e-233183b3ec17.png",Toffee Dramas
 #EXTVLCOPT:http-user-agent=okhttp/5.1.0
