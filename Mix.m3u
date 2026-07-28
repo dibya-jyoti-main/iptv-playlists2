@@ -1,7 +1,7 @@
 #=================================
 # 🖥️ Developed by: Dibya Jyoti
-# 🕒 Last Updated: 2026-07-28 22:41:02 (BD Time)
-# 📺 Channels Count: 335
+# 🕒 Last Updated: 2026-07-29 01:26:29 (BD Time)
+# 📺 Channels Count: 333
 # 🔒 Usage: Personal / Educational
 #=================================
 #EXTM3U
@@ -72,6 +72,8 @@ http://158.69.24.53:8080/probashi_tv/index.m3u8
 https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
 #EXTINF:-0 tvg-logo="https://www.tbn24.com/logo.png" group-title="SM All TV",TBN 24
 https://www.tbn24.com/live-tv-stream/20201_0.m3u8
+#EXTINF:-0 tvg-logo="https://i.postimg.cc/yNvkbdL4/1000114150.png" group-title="SM All TV",Star movies
+http://66.102.126.10:8000/play/a021/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2017/10/iontvuk.jpg?x49520" group-title="SM All TV",iON TV UK
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/iontvuk.stream/live-orgin/iontvuk.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/08/jagonews.jpg" group-title="SM All TV",Jago News 24
@@ -166,6 +168,8 @@ http://103.159.180.34:5001/live/625.m3u8
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/bn-ch-1/1531202.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/44vdhjj6fja02co/CBHD.jpg" group-title="SM All TV",Colors Bangla
 https://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/800.m3u8
+#EXTINF:-0 tvg-logo="https://www.tbn24.com/logo.png" group-title="SM All TV",Star Gold
+http://66.102.126.10:8000/play/a00f/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_Gxy8ywjMY6_YPX-1uYtUGA56FOfDoBsH62-ekNA=s900-c-k-c0x00ffffff-no-rj" group-title="SM All TV",Saudi Quran
 https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ouAva7k.png" group-title="SM All TV",beIN sports Xtra HD
@@ -250,9 +254,6 @@ https://stream.spicefmbd.com/stream.m3u8
 https://eu8.fastcast4u.com/proxy/clyedupq?mp=%2F1?aw_0_req_lsid=2c0fae177108c9a42a7cf24878625444
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/t-sports-2.png" group-title="SM_IPTV",T Sports 2
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
-http://book4u.top/royr/index.php?id=TSPORTS-MADARCHOD
-#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/t-sports-2.png" group-title="SM_IPTV",T Sports 2
-#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
 http://book4u.top/royr/index.php?id=FiFaaaah
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/srk-tv.jpg" group-title="SM_IPTV",SRK TV
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
@@ -284,9 +285,6 @@ https://ftp.assadikb.workers.dev/stream.m3u8?id=/rajdhani_tv
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/nagorik-tv.png" group-title="SM_IPTV",Nagorik Tv
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
 http://103.151.61.12/Nagorik_TV/video.m3u8?token=i7bZaZWaFrSIE0
-#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/deepto-tv.png" group-title="SM_IPTV",Deepto TV
-#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
-https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/sangeet-bhojpuri.png" group-title="SM_IPTV",Sangeet Bhojpuri
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
 https://madanitv.assadikb.workers.dev/live.php?id=741&e=.m3u8
@@ -296,9 +294,6 @@ https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8?sid=qRApYCh4AUm
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/channel-s-bd.png" group-title="SM_IPTV",Channel S BD
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
 https://ftp.assadikb.workers.dev/stream.m3u8?id=/channel_s
-#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/star-gold.png" group-title="SM_IPTV",Star Gold
-#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
-http://103.151.60.162:2122/play/a01n/68176850.m3u8
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-cinema-hd-veqq3heoalzv.png" group-title="SM_IPTV",Zee Cinema HD
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
 https://fifa.assadikb.workers.dev/?id=zee_cinema_hd
@@ -650,11 +645,9 @@ https://bd-mc-pdlive.fancode.com/mumbai/143633_english_hls_37959550fb58378_1ta-d
 https://bd-mc-pdlive.fancode.com/mumbai/4246727_english_hls_1455c8dfec73022_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-name="World Feed 1 [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mubadala_Web-match-card.png" group-title="Fancode",World Feed 1 [LIVE]
 https://bd-mc-pdlive.fancode.com/mumbai/143641_english_hls_172b098b4923302_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-name="Mens Doubles Ft. Bhambri [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Yuki-Bhambri_Mubadala_Web-match-card.png" group-title="Fancode",Mens Doubles Ft. Bhambri [LIVE]
-https://bd-mc-pdlive.fancode.com/mumbai/143642_english_hls_3595b6713610720_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="tapmad-15335" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17845507451020x576.jpg" group-title="Tapmad", West indies vs Pakistan | Pakistan Tour of West Indies 2026
 https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-15226" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17851536201020x576women.jpg" group-title="Tapmad", Sunrisers Leeds vs Manchester Super Giants - Women | The Hundred Women's Competition 2026
+#EXTINF:-1 tvg-id="tapmad-15192" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17851553371020x576men.jpg" group-title="Tapmad", Sunrisers Leeds vs Manchester Super Giants | The Hundred Men's Competition 2026
 https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 #EXTINF:-1 group-title="Toffee" tvg-logo="https://assets-prod.services.toffeelive.com/DNMXs5UBm1RY_In7IJ72/posters/5638c4e8-36ba-4e8e-848e-233183b3ec17.png",Toffee Dramas
 #EXTVLCOPT:http-user-agent=okhttp/5.1.0
