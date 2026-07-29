@@ -1,12 +1,14 @@
 #=================================
 # 🖥️ Developed by: Dibya Jyoti
-# 🕒 Last Updated: 2026-07-29 17:27:19 (BD Time)
-# 📺 Channels Count: 2
+# 🕒 Last Updated: 2026-07-29 20:12:49 (BD Time)
+# 📺 Channels Count: 3
 # 🔒 Usage: Personal / Educational
 #=================================
 #EXTM3U
 
 #EXTINF:-1 tvg-name="Netherlands Vs Nepal [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4246708_52990_NEP_NED_fc-App.png" group-title="Cricket",Netherlands Vs Nepal [LIVE]
 https://bd-mc-pdlive.fancode.com/mumbai/4246708_english_hls_ea32c4304326061_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-name="Galle Gallants Vs Kandy Royals [LIVE]" tvg-logo="https://images.fancode.com/aig/match/v1784105762381/4246726_CASACARDS_SPORTY_APP.png" group-title="Cricket",Galle Gallants Vs Kandy Royals [LIVE]
-https://bd-mc-pdlive.fancode.com/mumbai/4246726_english_hls_44910f186893977_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-name="Colombo Kaps Vs Dambulla Sixers [LIVE]" tvg-logo="https://images.fancode.com/aig/match/v1784105762384/4246718_CASACARDS_SPORTY_APP.png" group-title="Cricket",Colombo Kaps Vs Dambulla Sixers [LIVE]
+https://bd-mc-pdlive.fancode.com/mumbai/4246718_english_hls_abcdc67d1179494_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-name="Lahore Qalandars Vs San Francisco Unicorns [LIVE]" tvg-logo="https://images.fancode.com/aig/match/v1784653587315/4247436_CASACARDS_SPORTY_APP.png" group-title="Cricket",Lahore Qalandars Vs San Francisco Unicorns [LIVE]
+https://bd-mc-pdlive.fancode.com/mumbai/4247436_english_hls_ca300c4f0781842_1ta-di_h264/index.m3u8
