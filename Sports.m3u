@@ -1,10 +1,12 @@
 #=================================
 # 🖥️ Developed by: Dibya Jyoti
-# 🕒 Last Updated: 2026-07-29 14:42:55 (BD Time)
-# 📺 Channels Count: 1
+# 🕒 Last Updated: 2026-07-29 17:27:19 (BD Time)
+# 📺 Channels Count: 2
 # 🔒 Usage: Personal / Educational
 #=================================
 #EXTM3U
 
-#EXTINF:-1 tvg-name="Day 2 [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Mifel-Tennis-Open_fc-web.jpg" group-title="Tennis",Day 2 [LIVE]
-https://bd-mc-pdlive.fancode.com/mumbai/143517_english_hls_026d19806b81456_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-name="Netherlands Vs Nepal [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4246708_52990_NEP_NED_fc-App.png" group-title="Cricket",Netherlands Vs Nepal [LIVE]
+https://bd-mc-pdlive.fancode.com/mumbai/4246708_english_hls_ea32c4304326061_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-name="Galle Gallants Vs Kandy Royals [LIVE]" tvg-logo="https://images.fancode.com/aig/match/v1784105762381/4246726_CASACARDS_SPORTY_APP.png" group-title="Cricket",Galle Gallants Vs Kandy Royals [LIVE]
+https://bd-mc-pdlive.fancode.com/mumbai/4246726_english_hls_44910f186893977_1ta-di_h264/index.m3u8
