@@ -1,7 +1,7 @@
 #=================================
 # 🖥️ Developed by: Dibya Jyoti
-# 🕒 Last Updated: 2026-07-29 08:45:24 (BD Time)
-# 📺 Channels Count: 331
+# 🕒 Last Updated: 2026-07-29 11:53:42 (BD Time)
+# 📺 Channels Count: 329
 # 🔒 Usage: Personal / Educational
 #=================================
 #EXTM3U
@@ -639,12 +639,8 @@ https://madanitv.assadikb.workers.dev/live.php?id=144&e=.m3u8
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-tv-hd.png" group-title="SM_IPTV",Zee TV HD
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
 https://fifa.assadikb.workers.dev/?id=zee_tv_hd
-#EXTINF:-1 tvg-name="Perth Scorchers Xi Vs Desert Vipers [LIVE]" tvg-logo="https://images.fancode.com/aig/match/v1784653587313/4247435_CASACARDS_SPORTY_APP.png" group-title="Fancode",Perth Scorchers Xi Vs Desert Vipers [LIVE]
-https://bd-mc-pdlive.fancode.com/mumbai/4247435_english_hls_ff499ca61529460_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-name="Day 2 [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Mifel-Tennis-Open_fc-web.jpg" group-title="Fancode",Day 2 [LIVE]
 https://bd-mc-pdlive.fancode.com/mumbai/143517_english_hls_026d19806b81456_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-name="World Feed 2 [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mubadala_Web-match-card.png" group-title="Fancode",World Feed 2 [LIVE]
-https://bd-mc-pdlive.fancode.com/mumbai/143643_english_hls_adfe3dbeb394633_1ta-di_h264/index.m3u8
 #EXTINF:-1 group-title="Toffee" tvg-logo="https://assets-prod.services.toffeelive.com/DNMXs5UBm1RY_In7IJ72/posters/5638c4e8-36ba-4e8e-848e-233183b3ec17.png",Toffee Dramas
 #EXTVLCOPT:http-user-agent=okhttp/5.1.0
 https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_drama/playlist.m3u8
