@@ -1,7 +1,7 @@
 #=================================
 # 🖥️ Developed by: Dibya Jyoti
-# 🕒 Last Updated: 2026-07-29 22:22:40 (BD Time)
-# 📺 Channels Count: 333
+# 🕒 Last Updated: 2026-07-30 01:18:17 (BD Time)
+# 📺 Channels Count: 331
 # 🔒 Usage: Personal / Educational
 #=================================
 #EXTM3U
@@ -639,15 +639,11 @@ https://madanitv.assadikb.workers.dev/live.php?id=144&e=.m3u8
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-tv-hd.png" group-title="SM_IPTV",Zee TV HD
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
 https://fifa.assadikb.workers.dev/?id=zee_tv_hd
-#EXTINF:-1 tvg-name="Netherlands Vs Nepal [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4246708_52990_NEP_NED_fc-App.png" group-title="Fancode",Netherlands Vs Nepal [LIVE]
-https://bd-mc-pdlive.fancode.com/mumbai/4246708_english_hls_ea32c4304326061_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-name="Colombo Kaps Vs Dambulla Sixers [LIVE]" tvg-logo="https://images.fancode.com/aig/match/v1784105762384/4246718_CASACARDS_SPORTY_APP.png" group-title="Fancode",Colombo Kaps Vs Dambulla Sixers [LIVE]
-https://bd-mc-pdlive.fancode.com/mumbai/4246718_english_hls_abcdc67d1179494_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-name="Lahore Qalandars Vs San Francisco Unicorns [LIVE]" tvg-logo="https://images.fancode.com/aig/match/v1784653587315/4247436_CASACARDS_SPORTY_APP.png" group-title="Fancode",Lahore Qalandars Vs San Francisco Unicorns [LIVE]
-https://bd-mc-pdlive.fancode.com/mumbai/4247436_english_hls_ca300c4f0781842_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="tapmad-15193" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17852352931020x576men.jpg" group-title="Tapmad", Welsh Fire vs Trent Rockets | The Hundred Men's Competition 2026
-https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-15228" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17852362661020x576women.jpg" group-title="Tapmad", MI London vs London Spirirts - Women | The Hundred Women's Competition 2026
+#EXTINF:-1 tvg-name="Grandstand [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mubadala_Web-match-card.png" group-title="Fancode",Grandstand [LIVE]
+https://bd-mc-pdlive.fancode.com/mumbai/143644_english_hls_dac7e1e91035427_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-name="World Feed [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mubadala_Web-match-card.png" group-title="Fancode",World Feed [LIVE]
+https://bd-mc-pdlive.fancode.com/mumbai/143645_english_hls_60a8617b1f20903_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="tapmad-15194" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17852365671020x576men.jpg" group-title="Tapmad", MI London vs London Spirirts | The Hundred Men's Competition 2026
 https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8
 #EXTINF:-1 group-title="Toffee" tvg-logo="https://assets-prod.services.toffeelive.com/DNMXs5UBm1RY_In7IJ72/posters/5638c4e8-36ba-4e8e-848e-233183b3ec17.png",Toffee Dramas
 #EXTVLCOPT:http-user-agent=okhttp/5.1.0
