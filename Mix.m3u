@@ -1,7 +1,7 @@
 #=================================
 # 🖥️ Developed by: Dibya Jyoti
-# 🕒 Last Updated: 2026-07-30 20:05:38 (BD Time)
-# 📺 Channels Count: 333
+# 🕒 Last Updated: 2026-07-30 22:27:32 (BD Time)
+# 📺 Channels Count: 334
 # 🔒 Usage: Personal / Educational
 #=================================
 #EXTM3U
@@ -645,6 +645,8 @@ https://bd-mc-pdlive.fancode.com/mumbai/4248200_english_hls_9780c44d6569459_1ta-
 https://bd-mc-pdlive.fancode.com/mumbai/4246720_english_hls_e5254c82f165480_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-name="Main Feed   Day 1 [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rocket-Classic_fc-web.jpg" group-title="Fancode",Main Feed   Day 1 [LIVE]
 https://bd-mc-pdlive.fancode.com/mumbai/4248044_english_hls_579a8a938f65205_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-name="World Feed [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mubadala_Web-match-card.png" group-title="Fancode",World Feed [LIVE]
+https://bd-mc-pdlive.fancode.com/mumbai/143646_english_hls_e40a35098075978_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="tapmad-15477" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17853970941020x576.jpg" group-title="Tapmad", Sri Lanka Lions vs Afghanistan Pathans | Asian Legends League 2026
 https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-15229" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17853236871020x576women.jpg" group-title="Tapmad", Southern Brave vs Birmingham Pheonix - Women | The Hundred Women's Competition 2026
