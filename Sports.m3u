@@ -1,10 +1,14 @@
 #=================================
 # 🖥️ Developed by: Dibya Jyoti
-# 🕒 Last Updated: 2026-07-31 17:30:07 (BD Time)
-# 📺 Channels Count: 1
+# 🕒 Last Updated: 2026-07-31 20:10:00 (BD Time)
+# 📺 Channels Count: 3
 # 🔒 Usage: Personal / Educational
 #=================================
 #EXTM3U
 
 #EXTINF:-1 tvg-name="Netherlands Vs Namibia [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4246706_52990_NED_NAM_fc-App.png" group-title="Cricket",Netherlands Vs Namibia [LIVE]
 https://bd-mc-pdlive.fancode.com/mumbai/4246706_english_hls_0477c0fff848776_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-name="Indian Royals Vs Bangladesh Tigers [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248192_53019_INR_BAT_fc-web.jpg" group-title="Cricket",Indian Royals Vs Bangladesh Tigers [LIVE]
+Unavailable
+#EXTINF:-1 tvg-name="Main Feed   Day 2 [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rocket-Classic_fc-web.jpg" group-title="Golf",Main Feed   Day 2 [LIVE]
+Unavailable
