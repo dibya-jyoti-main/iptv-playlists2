@@ -1,7 +1,7 @@
 #=================================
 # 🖥️ Developed by: Dibya Jyoti
-# 🕒 Last Updated: 2026-07-31 04:07:25 (BD Time)
-# 📺 Channels Count: 332
+# 🕒 Last Updated: 2026-07-31 08:55:43 (BD Time)
+# 📺 Channels Count: 330
 # 🔒 Usage: Personal / Educational
 #=================================
 #EXTM3U
@@ -639,14 +639,10 @@ https://madanitv.assadikb.workers.dev/live.php?id=144&e=.m3u8
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-tv-hd.png" group-title="SM_IPTV",Zee TV HD
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
 https://fifa.assadikb.workers.dev/?id=zee_tv_hd
-#EXTINF:-1 tvg-name="Main Feed   Day 1 [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rocket-Classic_fc-web.jpg" group-title="Fancode",Main Feed   Day 1 [LIVE]
-https://bd-mc-pdlive.fancode.com/mumbai/4248044_english_hls_579a8a938f65205_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-name="World Feed [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mubadala_Web-match-card.png" group-title="Fancode",World Feed [LIVE]
 https://bd-mc-pdlive.fancode.com/mumbai/143646_english_hls_e40a35098075978_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-name="World Feed   Day 1 [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rocket-Classic_fc-web.jpg" group-title="Fancode",World Feed   Day 1 [LIVE]
-https://bd-mc-pdlive.fancode.com/mumbai/4248043_english_hls_5cbf26f21e19135_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="tapmad-15611" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17853980571020x576.jpg" group-title="Tapmad", Ceremonial Weigh-In | PFL 2026
-https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
+#EXTINF:-1 tvg-name="Day 4 [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Mifel-Tennis-Open_fc-web.jpg" group-title="Fancode",Day 4 [LIVE]
+https://bd-mc-pdlive.fancode.com/mumbai/143519_english_hls_02620e0da644204_1ta-di_h264/index.m3u8
 #EXTINF:-1 group-title="Toffee" tvg-logo="https://assets-prod.services.toffeelive.com/DNMXs5UBm1RY_In7IJ72/posters/5638c4e8-36ba-4e8e-848e-233183b3ec17.png",Toffee Dramas
 #EXTVLCOPT:http-user-agent=okhttp/5.1.0
 https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_drama/playlist.m3u8
