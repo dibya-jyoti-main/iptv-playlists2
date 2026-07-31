@@ -1,7 +1,7 @@
 #=================================
 # 🖥️ Developed by: Dibya Jyoti
-# 🕒 Last Updated: 2026-07-31 20:10:00 (BD Time)
-# 📺 Channels Count: 471
+# 🕒 Last Updated: 2026-07-31 22:46:21 (BD Time)
+# 📺 Channels Count: 472
 # 🔒 Usage: Personal / Educational
 #=================================
 #EXTM3U
@@ -643,6 +643,8 @@ https://fifa.assadikb.workers.dev/?id=zee_tv_hd
 https://bd-mc-pdlive.fancode.com/mumbai/4246706_english_hls_0477c0fff848776_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-name="Indian Royals Vs Bangladesh Tigers [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248192_53019_INR_BAT_fc-web.jpg" group-title="Fancode",Indian Royals Vs Bangladesh Tigers [LIVE]
 Unavailable
+#EXTINF:-1 tvg-name="Purani Dilli 6 Vs Central Delhi Kings [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/DPL_mini.png" group-title="Fancode",Purani Dilli 6 Vs Central Delhi Kings [LIVE]
+https://bd-mc-pdlive.fancode.com/mumbai/4247965_english_hls_7a1f83336319019_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-name="Main Feed   Day 2 [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rocket-Classic_fc-web.jpg" group-title="Fancode",Main Feed   Day 2 [LIVE]
 Unavailable
 #EXTINF:-1 tvg-id="atn_news" tvg-name="ATN News" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_4c788f2e0bc6f83a4fdde6022843368a_playmist_atn_news_400x400.jpg" group-title="Aynaott",ATN News
