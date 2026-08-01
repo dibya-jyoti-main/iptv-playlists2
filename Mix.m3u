@@ -1,7 +1,7 @@
 #=================================
 # 🖥️ Developed by: Dibya Jyoti
-# 🕒 Last Updated: 2026-08-01 19:23:46 (BD Time)
-# 📺 Channels Count: 473
+# 🕒 Last Updated: 2026-08-01 22:01:45 (BD Time)
+# 📺 Channels Count: 474
 # 🔒 Usage: Personal / Educational
 #=================================
 #EXTM3U
@@ -160,7 +160,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 tvg-logo="http://data.jaagobd.com/media/channel_logos/EPTV-Logo-400x400.png" group-title="SM All TV",EP TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/eptv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Star_Jalsha_HD.png" group-title="SM All TV",Star Jalsha HD
-http://103.191.99.248:5550/302/index.m3u8
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/bn-ch-1/155770.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Jalsha_Movies_HD.png" group-title="SM All TV",Jalsha Movies HD
 http://103.191.99.248:5550/303/index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/8z5yuaoyryedp6l/ZB.jpg" group-title="SM All TV",Zee Bangla HD
@@ -641,8 +641,10 @@ https://madanitv.assadikb.workers.dev/live.php?id=144&e=.m3u8
 https://fifa.assadikb.workers.dev/?id=zee_tv_hd
 #EXTINF:-1 tvg-name="Sri Lankan Lions Vs Bangladesh Tigers [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248193_53019_SLO_BAT_fc-web.jpg" group-title="Fancode",Sri Lankan Lions Vs Bangladesh Tigers [LIVE]
 Unavailable
-#EXTINF:-1 tvg-name="Manchester City Vs Internazionale [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ManchesterCity-Internazionale-Web-matchcard.png" group-title="Fancode",Manchester City Vs Internazionale [LIVE]
-https://bd-mc-pdlive.fancode.com/mumbai/4248014_english_hls_f31f9db7ea17108_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-name="West Delhi Lions Vs New Delhi Tigers [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/DPL-Mini.png" group-title="Fancode",West Delhi Lions Vs New Delhi Tigers [LIVE]
+https://bd-mc-pdlive.fancode.com/mumbai/4247967_english_hls_7c5b95df4699270_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-name="Galle Gallants Vs Colombo Kaps [LIVE]" tvg-logo="https://images.fancode.com/aig/match/v1784105762372/4246729_CASACARDS_SPORTY_APP.png" group-title="Fancode",Galle Gallants Vs Colombo Kaps [LIVE]
+https://bd-mc-pdlive.fancode.com/mumbai/4246729_english_hls_5446b7db6477233_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-name="Manchester United Vs Atletico De Madrid [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Manchester-United-vs-Atletico-Madrid_Web-match-card.png" group-title="Fancode",Manchester United Vs Atletico De Madrid [LIVE]
 https://bd-mc-pdlive.fancode.com/mumbai/4248012_english_hls_b9ec92b1bb56698_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-name="Main Feed   Day 3 [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rocket-Classic_fc-web.jpg" group-title="Fancode",Main Feed   Day 3 [LIVE]
@@ -923,12 +925,12 @@ http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=hbo&format=.m3u8
 http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=hbo_2&format=.m3u8
 #EXTINF:-1 tvg-id="and_tv" tvg-name="And tv" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_845fa61e4b31dbf35e442cd6037ed2e6_playmist_and_tv.jpg" group-title="Aynaott",And tv
 http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=and_tv&format=.m3u8
-#EXTINF:-1 tvg-id="tapmad-15231" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17854830381020x576women.jpg" group-title="Tapmad", Birmingham Pheonix vs Welsh Fire - Women | The Hundred Women's Competition 2026
-https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-15481" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17854900531020x576.jpg" group-title="Tapmad", Sri Lankan lions vs Bangladesh Tigers | Asian Legends League 2026
 https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-15628" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17854994531020x576.jpg" group-title="Tapmad", GT World Challenge - Qualifying 1 Live | GT World Challenge EU & Asia 2026
-https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-15197" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17854833191020x576men.jpg" group-title="Tapmad", Birmingham Pheonix vs Welsh Fire | The Hundred Men's Competition 2026
+https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-15232" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17854835001020x576women.jpg" group-title="Tapmad", London Spirits vs Southern Brave - Women | The Hundred Women's Competition 2026
+https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
 #EXTINF:-1 group-title="Toffee" tvg-logo="https://assets-prod.services.toffeelive.com/DNMXs5UBm1RY_In7IJ72/posters/5638c4e8-36ba-4e8e-848e-233183b3ec17.png",Toffee Dramas
 #EXTVLCOPT:http-user-agent=okhttp/5.1.0
 https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_drama/playlist.m3u8
