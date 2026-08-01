@@ -1,14 +1,16 @@
 #=================================
 # 🖥️ Developed by: Dibya Jyoti
-# 🕒 Last Updated: 2026-08-01 16:42:05 (BD Time)
-# 📺 Channels Count: 3
+# 🕒 Last Updated: 2026-08-01 19:23:46 (BD Time)
+# 📺 Channels Count: 4
 # 🔒 Usage: Personal / Educational
 #=================================
 #EXTM3U
 
-#EXTINF:-1 tvg-name="Afghanistan Pathans Vs Asian Stars [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248189_53019_AFP_AS_fc-web.jpg" group-title="Cricket",Afghanistan Pathans Vs Asian Stars [LIVE]
+#EXTINF:-1 tvg-name="Sri Lankan Lions Vs Bangladesh Tigers [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248193_53019_SLO_BAT_fc-web.jpg" group-title="Cricket",Sri Lankan Lions Vs Bangladesh Tigers [LIVE]
 Unavailable
-#EXTINF:-1 tvg-name="East Delhi Riders Vs South Delhi Superstarz [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/DPL-Mini.png" group-title="Cricket",East Delhi Riders Vs South Delhi Superstarz [LIVE]
+#EXTINF:-1 tvg-name="Manchester City Vs Internazionale [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ManchesterCity-Internazionale-Web-matchcard.png" group-title="Football",Manchester City Vs Internazionale [LIVE]
+https://bd-mc-pdlive.fancode.com/mumbai/4248014_english_hls_f31f9db7ea17108_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-name="Manchester United Vs Atletico De Madrid [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Manchester-United-vs-Atletico-Madrid_Web-match-card.png" group-title="Football",Manchester United Vs Atletico De Madrid [LIVE]
+https://bd-mc-pdlive.fancode.com/mumbai/4248012_english_hls_b9ec92b1bb56698_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-name="Main Feed   Day 3 [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rocket-Classic_fc-web.jpg" group-title="Golf",Main Feed   Day 3 [LIVE]
 Unavailable
-#EXTINF:-1 tvg-name="Chelsea Vs Tottenham Hotspur [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Chelsea-vs-Tottenham-Hotspu-old.png" group-title="Football",Chelsea Vs Tottenham Hotspur [LIVE]
-https://bd-mc-pdlive.fancode.com/mumbai/4248013_english_hls_8042da688643068_1ta-di_h264/index.m3u8
