@@ -1,12 +1,26 @@
 #=================================
 # 🖥️ Developed by: Dibya Jyoti
-# 🕒 Last Updated: 2026-08-02 19:23:49 (BD Time)
-# 📺 Channels Count: 2
+# 🕒 Last Updated: 2026-08-02 22:01:45 (BD Time)
+# 📺 Channels Count: 9
 # 🔒 Usage: Personal / Educational
 #=================================
 #EXTM3U
 
-#EXTINF:-1 tvg-name="Outer Delhi Warriors Vs Central Delhi Kings [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/DPL-Mini.png" group-title="Cricket",Outer Delhi Warriors Vs Central Delhi Kings [LIVE]
-https://bd-mc-pdlive.fancode.com/mumbai/4247966_english_hls_87e2120e6614913_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-name="Indian Royals Vs Pakistan Panthers [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248197_53019_INR_PP_fc-web.jpg" group-title="Cricket",Indian Royals Vs Pakistan Panthers [LIVE]
 https://bd-mc-pdlive.fancode.com/mumbai/4248197_english_hls_f9620bce7b28629_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-name="New Delhi Tigers Vs East Delhi Riders [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/DPL-Mini.png" group-title="Cricket",New Delhi Tigers Vs East Delhi Riders [LIVE]
+https://bd-mc-pdlive.fancode.com/mumbai/4247971_english_hls_4be97458a823730_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-name="West Indies Vs Pakistan [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pakistan-Tour-of-West-Indies-2026-old1.png" group-title="Cricket",West Indies Vs Pakistan [LIVE]
+https://bd-mc-pdlive.fancode.com/mumbai/143634_english_hls_3a8752838659262_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-name="Dambulla Sixers Vs Jaffna Kings [LIVE]" tvg-logo="https://images.fancode.com/aig/match/v1784105762375/4246719_CASACARDS_SPORTY_APP.png" group-title="Cricket",Dambulla Sixers Vs Jaffna Kings [LIVE]
+https://bd-mc-pdlive.fancode.com/mumbai/4246719_english_hls_21c3a47cef57337_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-name="Main Feed   Day 4 [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rocket-Classic_fc-web.jpg" group-title="Golf",Main Feed   Day 4 [LIVE]
+https://bd-mc-pdlive.fancode.com/mumbai/4248050_english_hls_7ed30092f658296_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-name="World Feed [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg" group-title="Tennis",World Feed [LIVE]
+https://bd-mc-pdlive.fancode.com/mumbai/4248058_english_hls_aa29b4e2b515684_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-name="Rogers Court [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg" group-title="Tennis",Rogers Court [LIVE]
+https://bd-mc-pdlive.fancode.com/mumbai/4248059_english_hls_914fa690f452278_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-name="Court 5 [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg" group-title="Tennis",Court 5 [LIVE]
+https://bd-mc-pdlive.fancode.com/mumbai/4248060_english_hls_60ada307aa9006_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-name="Court 9 [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg" group-title="Tennis",Court 9 [LIVE]
+https://bd-mc-pdlive.fancode.com/mumbai/4248061_english_hls_a92f972f5e40383_1ta-di_h264/index.m3u8
