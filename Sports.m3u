@@ -1,10 +1,12 @@
 #=================================
 # 🖥️ Developed by: Dibya Jyoti
-# 🕒 Last Updated: 2026-08-02 03:57:38 (BD Time)
-# 📺 Channels Count: 1
+# 🕒 Last Updated: 2026-08-02 08:54:09 (BD Time)
+# 📺 Channels Count: 2
 # 🔒 Usage: Personal / Educational
 #=================================
 #EXTM3U
 
-#EXTINF:-1 tvg-name="World Feed   Day 3 [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rocket-Classic_fc-web.jpg" group-title="Golf",World Feed   Day 3 [LIVE]
-https://bd-mc-pdlive.fancode.com/mumbai/4248047_english_hls_84d731038268847_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-name="Guyana Amazon Warriors Vs San Francisco Unicorns [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Guyana-Amazon-Warriors-vs-San-Francisco-Unicorns_fc-web.jpg" group-title="Cricket",Guyana Amazon Warriors Vs San Francisco Unicorns [LIVE]
+https://bd-mc-pdlive.fancode.com/mumbai/4247442_english_hls_46f008f7787192_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-name="Atp 500   Mubadala Dc Open 2026 [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mubadala_Web-match-card.png" group-title="Tennis",Atp 500   Mubadala Dc Open 2026 [LIVE]
+https://bd-mc-pdlive.fancode.com/mumbai/143650_english_hls_83b9312ab58473_1ta-di_h264/index.m3u8
