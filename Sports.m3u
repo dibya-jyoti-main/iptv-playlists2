@@ -1,15 +1,15 @@
 #=================================
 # 🖥️ Developed by: Dibya Jyoti
-# 🕒 Last Updated: 2026-08-03 01:11:54 (BD Time)
-# 📺 Channels Count: 8
+# 🕒 Last Updated: 2026-08-03 03:57:38 (BD Time)
+# 📺 Channels Count: 9
 # 🔒 Usage: Personal / Educational
 #=================================
 #EXTM3U
 
-#EXTINF:-1 tvg-name="New Delhi Tigers Vs East Delhi Riders [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/DPL-Mini.png" group-title="Cricket",New Delhi Tigers Vs East Delhi Riders [LIVE]
-https://bd-mc-pdlive.fancode.com/mumbai/4247971_english_hls_4be97458a823730_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-name="West Indies Vs Pakistan [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pakistan-Tour-of-West-Indies-2026-old1.png" group-title="Cricket",West Indies Vs Pakistan [LIVE]
 https://bd-mc-pdlive.fancode.com/mumbai/143634_english_hls_3a8752838659262_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-name="Liverpool Vs Leeds United [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Liverpool-vs-Leeds-old-match-card.png" group-title="Football",Liverpool Vs Leeds United [LIVE]
+https://bd-mc-pdlive.fancode.com/mumbai/4248017_english_hls_d155ba56d08620_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-name="Main Feed   Day 4 [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rocket-Classic_fc-web.jpg" group-title="Golf",Main Feed   Day 4 [LIVE]
 https://bd-mc-pdlive.fancode.com/mumbai/4248050_english_hls_7ed30092f658296_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-name="World Feed [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg" group-title="Tennis",World Feed [LIVE]
@@ -22,3 +22,5 @@ https://bd-mc-pdlive.fancode.com/mumbai/4248060_english_hls_60ada307aa9006_1ta-d
 https://bd-mc-pdlive.fancode.com/mumbai/4248061_english_hls_a92f972f5e40383_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-name="World Feed   Day 4 [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rocket-Classic_fc-web.jpg" group-title="Golf",World Feed   Day 4 [LIVE]
 https://bd-mc-pdlive.fancode.com/mumbai/4248049_english_hls_1cab793ab337472_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-name="Atp 500   Mubadala Dc Open 2026 [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mubadala_Web-match-card.png" group-title="Tennis",Atp 500   Mubadala Dc Open 2026 [LIVE]
+https://bd-mc-pdlive.fancode.com/mumbai/143652_english_hls_7a1c598aca21462_1ta-di_h264/index.m3u8
