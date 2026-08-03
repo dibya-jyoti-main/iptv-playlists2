@@ -1,7 +1,7 @@
 #=================================
 # 🖥️ Developed by: Dibya Jyoti
-# 🕒 Last Updated: 2026-08-03 23:09:12 (BD Time)
-# 📺 Channels Count: 476
+# 🕒 Last Updated: 2026-08-04 01:38:43 (BD Time)
+# 📺 Channels Count: 475
 # 🔒 Usage: Personal / Educational
 #=================================
 #EXTM3U
@@ -641,8 +641,6 @@ https://madanitv.assadikb.workers.dev/live.php?id=144&e=.m3u8
 https://fifa.assadikb.workers.dev/?id=zee_tv_hd
 #EXTINF:-1 tvg-name="West Indies Vs Pakistan [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pakistan-Tour-of-West-Indies-2026-old1.png" group-title="Fancode",West Indies Vs Pakistan [LIVE]
 https://bd-mc-pdlive.fancode.com/mumbai/143634_english_hls_3a8752838638691_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-name="North Delhi Strikers Vs Central Delhi Kings [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/DPL-Mini.png" group-title="Fancode",North Delhi Strikers Vs Central Delhi Kings [LIVE]
-https://bd-mc-pdlive.fancode.com/mumbai/4247974_english_hls_4cd1944cee90089_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-name="Center Court [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg" group-title="Fancode",Center Court [LIVE]
 https://bd-mc-pdlive.fancode.com/mumbai/4248062_english_hls_3d9cae3bf277024_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-name="World Feed [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg" group-title="Fancode",World Feed [LIVE]
@@ -933,7 +931,7 @@ http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=hbo_2&format=.m3u8
 http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=and_tv&format=.m3u8
 #EXTINF:-1 tvg-id="tapmad-15336" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17853997271020x576.jpg" group-title="Tapmad", West indies vs Pakistan | Pakistan Tour of West Indies 2026
 https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-15235" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17857488541020x576women.jpg" group-title="Tapmad", Welsh Fire vs Southern Brave - Women | The Hundred Women's Competition 2026
+#EXTINF:-1 tvg-id="tapmad-15201" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17857489231020x576men.jpg" group-title="Tapmad", Welsh Fire vs Southern Brave | The Hundred Men's Competition 2026
 https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 #EXTINF:-1 group-title="Toffee" tvg-logo="https://assets-prod.services.toffeelive.com/DNMXs5UBm1RY_In7IJ72/posters/5638c4e8-36ba-4e8e-848e-233183b3ec17.png",Toffee Dramas
 #EXTVLCOPT:http-user-agent=okhttp/5.1.0
