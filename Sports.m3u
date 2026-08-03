@@ -1,10 +1,14 @@
 #=================================
 # 🖥️ Developed by: Dibya Jyoti
-# 🕒 Last Updated: 2026-08-03 12:25:48 (BD Time)
-# 📺 Channels Count: 1
+# 🕒 Last Updated: 2026-08-03 18:25:54 (BD Time)
+# 📺 Channels Count: 3
 # 🔒 Usage: Personal / Educational
 #=================================
 #EXTM3U
 
-#EXTINF:-1 tvg-name="Atp 500   Mubadala Dc Open 2026 [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mubadala_Web-match-card.png" group-title="Tennis",Atp 500   Mubadala Dc Open 2026 [LIVE]
-https://bd-mc-pdlive.fancode.com/mumbai/143652_english_hls_7a1c598aca21462_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-name="Afghanistan Pathans Vs Bangladesh Tigers [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248196_53019_AFP_BAT_fc-web.jpg" group-title="Cricket",Afghanistan Pathans Vs Bangladesh Tigers [LIVE]
+https://bd-mc-pdlive.fancode.com/mumbai/4248196_english_hls_474e9b2ae850769_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-name="West Delhi Lions Vs Purani Dilli 6 [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/DPL-Mini.png" group-title="Cricket",West Delhi Lions Vs Purani Dilli 6 [LIVE]
+https://bd-mc-pdlive.fancode.com/mumbai/4247968_english_hls_12b02df88b18060_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-name="Scotland Vs United Arab Emirates [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248212_53013_SCO_UAE_fc-Web-.png" group-title="Cricket",Scotland Vs United Arab Emirates [LIVE]
+https://bd-mc-pdlive.fancode.com/mumbai/4248212_english_hls_a82378278715666_1ta-di_h264/index.m3u8
