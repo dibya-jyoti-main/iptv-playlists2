@@ -1,7 +1,7 @@
 #=================================
 # 🖥️ Developed by: Dibya Jyoti
-# 🕒 Last Updated: 2026-08-06 01:36:36 (BD Time)
-# 📺 Channels Count: 484
+# 🕒 Last Updated: 2026-08-06 04:12:51 (BD Time)
+# 📺 Channels Count: 481
 # 🔒 Usage: Personal / Educational
 #=================================
 #EXTM3U
@@ -951,12 +951,6 @@ http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=hbo&format=.m3u8
 http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=hbo_2&format=.m3u8
 #EXTINF:-1 tvg-id="and_tv" tvg-name="And tv" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_845fa61e4b31dbf35e442cd6037ed2e6_playmist_and_tv.jpg" group-title="Aynaott",And tv
 http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=and_tv&format=.m3u8
-#EXTINF:-1 tvg-id="tapmad-15336" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17853997271020x576.jpg" group-title="Tapmad", West indies vs Pakistan | Pakistan Tour of West Indies 2026
-https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-15204" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17859091551020x576men.jpg" group-title="Tapmad", Trent Rockets vs Birmingham Pheonix | The Hundred Men's Competition 2026
-https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-15700" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17857453641020x576.jpg" group-title="Tapmad", Tekken 8 - Day 1 | Esports World Cup 2026 (EWC)
-https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
 #EXTINF:-1 group-title="Toffee" tvg-logo="https://assets-prod.services.toffeelive.com/DNMXs5UBm1RY_In7IJ72/posters/5638c4e8-36ba-4e8e-848e-233183b3ec17.png",Toffee Dramas
 #EXTVLCOPT:http-user-agent=okhttp/5.1.0
 https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_drama/playlist.m3u8
