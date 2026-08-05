@@ -1,7 +1,7 @@
 #=================================
 # 🖥️ Developed by: Dibya Jyoti
-# 🕒 Last Updated: 2026-08-05 08:37:59 (BD Time)
-# 📺 Channels Count: 481
+# 🕒 Last Updated: 2026-08-05 11:46:53 (BD Time)
+# 📺 Channels Count: 478
 # 🔒 Usage: Personal / Educational
 #=================================
 #EXTM3U
@@ -669,12 +669,6 @@ https://fifa.assadikb.workers.dev/?id=zee_tv_hd
 https://bd-mc-pdlive.fancode.com/mumbai/4248066_english_hls_f60cf3662559481_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-name="Rogers Court [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg" group-title="Fancode",Rogers Court [LIVE]
 https://bd-mc-pdlive.fancode.com/mumbai/4248067_english_hls_9d75ed2e2276858_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-name="Court 5 [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg" group-title="Fancode",Court 5 [LIVE]
-https://bd-mc-pdlive.fancode.com/mumbai/4248068_english_hls_469771a15198481_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-name="Center Court [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg" group-title="Fancode",Center Court [LIVE]
-https://bd-mc-pdlive.fancode.com/mumbai/4248069_english_hls_1f03754f4d12088_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-name="West Indies Vs Pakistan [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pakistan-Tour-of-West-Indies-2026-old1.png" group-title="Fancode",West Indies Vs Pakistan [LIVE]
-https://bd-mc-pdlive.fancode.com/mumbai/143634_english_hls_3a8752838620186_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="atn_news" tvg-name="ATN News" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_4c788f2e0bc6f83a4fdde6022843368a_playmist_atn_news_400x400.jpg" group-title="Aynaott",ATN News
 http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=atn_news&format=.m3u8
 #EXTINF:-1 tvg-id="jamuna_tv" tvg-name="Jamuna TV" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_4be60fcb499d59949c222f746ece58f4_playmist_jamuna_tv_400x400.jpg" group-title="Aynaott",Jamuna TV
